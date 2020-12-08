@@ -52,7 +52,7 @@ https://s3.ustv24h.live/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 https://s2.ustv24h.live/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMCAxMjo0MTowNiBQTSZoYXNoX3ZhbHVlPVgzK2dNSXF1RTVsZUptdnJxaGJvenc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
-https://edge24.rcs-rds.ro/V4-7742507-6f3011757598c76af192679634827bdb-1549025263-0-1606760088-35-hitmusicchannel/digionline/hitmusicchannelhq.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-7855438-b50959fa8a07bcb7995acb4397d0de42-1549025263-0-1607413968-35-hitmusicchannel/digionline/hitmusicchannelhq.stream/chunklist.m3u8
 #EXTINF:0, VH1
 https://edge24.rcs-rds.ro/V4-8739617-91b8e98d01c8766fe1cf182f3539e8e0-1549025263-0-1606760070-110-vh1/digionline/vh1hq.stream/chunklist.m3u8
 
