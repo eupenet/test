@@ -8,7 +8,7 @@ http://89.38.8.131:39532
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="http://tvr1.tvr.ro/images/logo_footer_tvr1.png", TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
-#EXTINF:0, Prima TV
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Brand-0.png", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
 #EXTINF:0 tvg-logo="https://www.b1.ro/static/images/b1.jpg", B1 TV
 https://stream.adunity.com/b1/b1.m3u8
@@ -33,7 +33,7 @@ https://edge24.rcs-rds.ro/V4-7414153-6e226c8bea9369e03d87cc461f4b3d8c-1549025263
 https://edge30.rcs-rds.ro/V4-5183181-5e6b9d41f87c7a6c308af7ab2a31cb86-1549025263-0-1607766746-49-digisport4/digionline/digisport4hd.stream/chunklist.m3u8
 
 #EXTINF:0, FOX News
-https://content-auso1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=061249760cda4e168b5e60eeae27dfc7
+https://content-ausw2-up-1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=47519d79d03e4a0db62267e7f613bbb8
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
