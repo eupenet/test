@@ -86,3 +86,26 @@ https://ivm.antenaplay.ro/live/astars/playlist.m3u8?starttime=1571159558&endtime
 https://ivm.antenaplay.ro/live/happy/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJwdivEMeNALaov32JmQI-ngLJvxevp1Rem4ng=s100-c-k-c0xffffffff-no-rj-mo", NCN
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590357658/ei/OprKXpN5h_KGBpnqtKgE/ip/92.84.63.239/id/pRaYSP3bN7k.0/source/yt_live_broadcast/requiressl/yes/tx/23880663/txs/23880663%2C23880664%2C23880665%2C23880666%2C23880667/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23882513/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIogEDVH3FIoLdd75R-3AWfP0MOujR6pnkvXn3D-S9FeAiB6eeLEK3U1Trz-FqA9Tue_ZuN42672W_kztbq89gKcxg%3D%3D/file/index.m3u8
+
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png", PRO TV
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/53TkYtAg--82jeXOSUNboQ==,1607886403/channels/cme-ro-protv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png", PRO TV
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/53TkYtAg--82jeXOSUNboQ==,1607886403/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/48ba5c50-b67d-4201-8a0a-4978903011fd.png", PRO 2
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/kSfTlGniJUdJuNgJWu95lg==,1607886693/channels/cme-ro-pro2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/48ba5c50-b67d-4201-8a0a-4978903011fd.png", PRO 2
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/kSfTlGniJUdJuNgJWu95lg==,1607886693/channels/cme-ro-pro2/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png", PRO X
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/7HWahKzkV-DJCwVp35AdlA==,1607886564/channels/cme-ro-prox/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png", PRO X
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/7HWahKzkV-DJCwVp35AdlA==,1607886564/channels/cme-ro-prox/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/86dc5207-07bc-4ea7-84e3-0d170523a5ea.png", PRO Gold
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/5tvQ0poIylAqxERraknKXQ==,1607886792/channels/cme-ro-progold/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/86dc5207-07bc-4ea7-84e3-0d170523a5ea.png", PRO Gold
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/5tvQ0poIylAqxERraknKXQ==,1607886792/channels/cme-ro-progold/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/LwCsCpPkux0p_ep7gZWkLA==,1607886728/channels/cme-ro-procinema/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/LwCsCpPkux0p_ep7gZWkLA==,1607886728/channels/cme-ro-procinema/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
+
+
