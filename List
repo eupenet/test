@@ -74,12 +74,14 @@ https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
 https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png", PRO X
 https://vid.hls.protv.ro/proxhdn/proxhd.m3u8?1
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
 https://vid.hls.protv.ro/procineman/procinema.m3u8?1
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://cloudia.cms.protvplus.ro/rx/48ba5c50-b67d-4201-8a0a-4978903011fd.png", PRO 2
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/48ba5c50-b67d-4201-8a0a-4978903011fd.png", PRO 2
 https://vid.hls.protv.ro/pro2n/pro2.m3u8?1
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.pinimg.com/originals/1c/d3/58/1cd35875ae19d7e18197fd8fe1f5f6de.png", Kanal D
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/1c/d3/58/1cd35875ae19d7e18197fd8fe1f5f6de.png", Kanal D
 https://livefeed.kanald.ro/iphone/live.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/1c/d3/58/1cd35875ae19d7e18197fd8fe1f5f6de.png", Kanal D
+https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:0 tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDE4JTJGMDkl/MkYxOCUyRjk3OTk1N185Nzk5NTdfc3Rh/cnNoZC5wbmcmaGFzaD00MDczOTNlNTZiMGU2ZmQxYWNjMzQ3ZjAyN2NmMmFjYQ==.png", Antena Stars
 https://ivm.antenaplay.ro/live/astars/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDE4JTJGMDkl/MkYxOCUyRjk3OTc2NV85Nzk3NjVfaGFw/cHloZC5wbmcmaGFzaD1mMDUyMzUzMTIzNzFjNWI0ODFiZmJjYmNlYTQ4OTdkYQ==.png", Happy Channel
