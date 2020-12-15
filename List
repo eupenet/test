@@ -32,10 +32,6 @@ https://edge30.rcs-rds.ro/V4-9587604-972b92c0e64a74dd968dce61d3d5c66f-1549025263
 
 #EXTINF:0, FOX News
 https://content-ause2-up-1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=355138b7abcd4c09864de6b709ec04fe
-#EXTINF:0, MSNBC
-https://msnbc1.akamaized.net/hls/live/2021744/MSNBC7c6aa74b/master.m3u8?hdnts=st=1608048960~exp=1608049080~acl=/hls/live/2021744/MSNBC7c6aa74b/*~hmac=a654e22127b789039640aaf95b9640e32d85dab4ee3e8a959ca3bdb738dfe975
-#EXTINF:0, MSNBC
-https://msnbc1.akamaized.net/hls/live/2021744/MSNBC7c6aa74b/hdntl=exp=1608135375~acl=%2fhls%2flive%2f2021744%2fMSNBC7c6aa74b%2f*~data=hdntl~hmac=49d0a7e8b868e1a539c7b72bbf2b6dbba2912302abf55a7d20ccd41a7c4287c8/VIDEO_1_4596000.m3u8?hdnts=st=1608048960~exp=1608049080~acl=/hls/live/2021744/MSNBC7c6aa74b/*~hmac=a654e22127b789039640aaf95b9640e32d85dab4ee3e8a959ca3bdb738dfe975
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
