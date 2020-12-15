@@ -52,11 +52,11 @@ https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
 https://ivm.antenaplay.ro/live/astars/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/Happy%20Channel_m.png", Happy Channel
 https://ivm.antenaplay.ro/live/happy/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
+#EXTINF:0 tvg-logo="https://www.interlan.ro/wp-content/uploads/2020/09/Metropola-logo-final-scaled.jpg", Metropola TV
+http://5.2.155.213:1935/MetropolaTV/Metro/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://media.rtv.net/image/201112/full/sigla_romania_tv_final_mare_72647900.jpg" aspect-ratio="4:3", România TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.interlan.ro/wp-content/uploads/2020/09/Metropola-logo-final-scaled.jpg", Metropola TV
-http://hls.qtv.ro:9090/seconds3hls/live.m3u8
 #EXTINF:0, FOX News
 https://s3.ustv24h.live/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMCAxMjo0MTowNiBQTSZoYXNoX3ZhbHVlPVgzK2dNSXF1RTVsZUptdnJxaGJvenc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:0, OAN
