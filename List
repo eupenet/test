@@ -29,7 +29,7 @@ https://edge24.rcs-rds.ro/V4-7520501-51eaacf0dc56bc4aedcf5ba11bbf5dd9-1549025263
 https://edge24.rcs-rds.ro/V4-3507133-6774b98c394e4e236060001d33fcb71c-1549025263-0-1608048894-3-digisport3/digionline/digisport3hd.stream/chunklist.m3u8
 
 #EXTINF:0, FOX News
-https://content-ause2-up-1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=355138b7abcd4c09864de6b709ec04fe
+https://content-ause2.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=9ebfce41013242c2954f95d900eb2924
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
