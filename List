@@ -14,7 +14,7 @@ https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=16
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-1284649-be6f466f4b62f1f52cda5744207ace6f-1549025263-0-1608120047-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V4-1642311-e05bb3714b8bdb8d3451537fc3ab7c60-1549025263-0-1608135198-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -29,7 +29,7 @@ https://edge30.rcs-rds.ro/V4-8244182-4703e7c010bdfedde53d05a58bea3400-1549025263
 https://edge212.rcs-rds.ro/V4-4188243-20095eba670c9b8928808ead0c3c91b5-1549025263-0-1608120114-3-digisport3/digionline/digisport3hd.stream/chunklist.m3u8
 
 #EXTINF:0, FOX News
-https://content-ausw2-up-1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=3390d34d4baa437dad9d71fc3b896012
+https://content-auso3.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=51e01b99a984442283d62a5620a023e6
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
