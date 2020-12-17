@@ -3,7 +3,7 @@
 # ======================================== Principale ========================================
 # ============================================================================================
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png" group-title="Principale", PRO TV
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/-tff6M71kI0Xm-hg7HF30g==,1608144053/channels/cme-ro-protv/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/FPRNqjmBbYpE0ivIYdcB7w==,1608191539/channels/cme-ro-protv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://a1.ro/templates/default/img/a1-logo.png", Antena 1
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="http://tvr1.tvr.ro/images/logo_footer_tvr1.png", TVR 1
@@ -14,7 +14,7 @@ https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=16
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge213.rcs-rds.ro/V4-1642311-e05bb3714b8bdb8d3451537fc3ab7c60-1549025263-0-1608135198-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V4-1811013-f232d1c23831345d8bda6fbd21ad3070-1549025263-0-1608182956-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -22,14 +22,14 @@ https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=157
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
-https://edge71.rcs-rds.ro/V4-7844485-da4a645c4000656e488f0594ad5ac76a-1549025263-0-1608135290-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
+https://edge24.rcs-rds.ro/V4-8761955-c10de975441f550a358103a5cac5312c-1549025263-0-1608183001-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-2_gomb52.png", DIGI sport 2
-https://edge24.rcs-rds.ro/V4-5210178-dea08252eb6de670ec03e798b9ed3b00-1549025263-0-1608135308-2-digisport2/digionline/digisport2hd.stream/chunklist.m3u8
+https://edge24.rcs-rds.ro/V4-1528367-b87cd2cb0203a7e23273243eb0bb56bf-1549025263-0-1608183021-2-digisport2/digionline/digisport2hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-3_gomb52.png", DIGI sport 3
-https://edge212.rcs-rds.ro/V4-4517332-955c167478b24e2f76602632d2687428-1549025263-0-1608135324-3-digisport3/digionline/digisport3hd.stream/chunklist.m3u8
+https://edge70.rcs-rds.ro/V4-7605891-78433b55d652c30ae5555d9100b1ad7b-1549025263-0-1608183038-3-digisport3/digionline/digisport3hd.stream/chunklist.m3u8
 
 #EXTINF:0, FOX News
-https://content-auso3.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=51e01b99a984442283d62a5620a023e6
+https://content-ausw1-up-1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=5fec514a9fac4422a489815b3ad90a57
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
@@ -56,7 +56,7 @@ https://ivm.antenaplay.ro/live/happy/playlist.m3u8?starttime=1571159558&endtime=
 http://5.2.155.213:1935/MetropolaTV/Metro/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png", DIGI sport 4
-https://edge213.rcs-rds.ro/V4-9963548-7ffa09f13506da5d71af1ceca601009e-1549025263-0-1608135340-49-digisport4/digionline/digisport4hd.stream/chunklist.m3u8
+https://edge30.rcs-rds.ro/V4-1392071-5c3159cf5c227078a92c1e0c3f936800-1549025263-0-1608183182-49-digisport4/digionline/digisport4hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://wp14-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_216_c.png", Look Sport 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f8df444bd825b970b590db272067bf109a89ad0e
 
