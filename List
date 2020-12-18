@@ -22,11 +22,16 @@ https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=157
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
-https://edge212.rcs-rds.ro/V4-5557389-40cfaec97c0023c270dea29998cf4e8c-1549025263-0-1608220923-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
+https://edge81.rcs-rds.ro/V4-9381644-0e8ed119111106f6c4e989eb3414b49d-1549025263-0-1608283701-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-2_gomb52.png", DIGI sport 2
-https://edge212.rcs-rds.ro/V4-2857248-9147e6e26ccbec240310e8b7134cd94a-1549025263-0-1608220940-2-digisport2/digionline/digisport2hd.stream/chunklist.m3u8
+https://edge70.rcs-rds.ro/V4-4912784-9d17abaf09c1f48b66c967a7566d99ff-1549025263-0-1608283734-2-digisport2/digionline/digisport2hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-3_gomb52.png", DIGI sport 3
-https://edge74.rcs-rds.ro/V4-6702891-7d3a3a5eb9a50d2e270ea2026a0ebb92-1549025263-0-1608220958-3-digisport3/digionline/digisport3hd.stream/chunklist.m3u8
+https://edge212.rcs-rds.ro/V4-1752663-e9ab209021b9d3eae1dcdc69f2b095fd-1549025263-0-1608283760-3-digisport3/digionline/digisport3hd.stream/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png", PRO X
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/1OIxd0JNTlob0M2vsWRl1Q==,1608292798/channels/cme-ro-prox/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/GeYs5kQKh2tKCMweUbtCgg==,1608292808/channels/cme-ro-procinema/playlist.m3u8
 
 #EXTINF:0, FOX News
 https://content-ausw1-up-1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=a89a1cba3ae04820a4fbd8c2b5455121
