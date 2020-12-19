@@ -3,7 +3,7 @@
 # ======================================== Principale ========================================
 # ============================================================================================
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png" group-title="Principale", PRO TV
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/e5fBAIqIZPxk__7E9MUrcw==,1608320384/channels/cme-ro-protv/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/ncJnthCyRaEq0RbRldGYGA==,1608370549/channels/cme-ro-protv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://a1.ro/templates/default/img/a1-logo.png", Antena 1
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="http://tvr1.tvr.ro/images/logo_footer_tvr1.png", TVR 1
@@ -34,9 +34,9 @@ https://content-ause2-up-1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png", PRO X
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/h7O-gDDYHJnN5H7ZOKiWbA==,1608320316/channels/cme-ro-prox/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/U7oY_fo4F0nN623bVHa4tg==,1608370279/channels/cme-ro-prox/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/yRTtNWiLlX-qbL2Uy1OgUw==,1608320424/channels/cme-ro-procinema/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/PNJU63buROL3Vrz7ib5wPA==,1608370914/channels/cme-ro-procinema/playlist.m3u8
 
 #EXTINF:0 tvg-id="LookPlus.ro" tvg-logo="https://wp15-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10179_c_853800d0a75e431835de0ee396e3f7ad.png", Look Sport+
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1603332982&wowzatokenhash=pc00uVjzyMYS1IWud-mvZcUyv0xLFyM0Waurl63ke4E=&wowzatokenstarttime=1603289782
