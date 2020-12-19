@@ -14,7 +14,7 @@ https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=16
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge212.rcs-rds.ro/V4-6962789-9368f674b3f3c2a8b9165e0e8525d8ae-1549025263-0-1608390696-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V4-1392643-c30988ea80a9fd4848fb9729e8bcbbd1-1549025263-0-1608390810-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
