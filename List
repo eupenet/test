@@ -14,7 +14,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge211.rcs-rds.ro/V4-8265064-faddb54b2400045a698c349f0053b01a-1549025263-0-1608501423-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-5336077-a90dd931c2f7037df5ce96ed59eca9fb-1549025263-0-1608535981-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -22,11 +22,11 @@ https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=157
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
-https://edge210.rcs-rds.ro/V4-5472703-77abb7aa87a550de91416c1a93f96961-1549025263-0-1608501494-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
+https://edge30.rcs-rds.ro/V4-4215077-9de0f70e87043a0514f2d08df651cdfb-1549025263-0-1608536010-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-2_gomb52.png", DIGI sport 2
-https://edge24.rcs-rds.ro/V4-4662430-5860a3d2d4186c7f9aae5fbd062840e9-1549025263-0-1608501508-2-digisport2/digionline/digisport2hd.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V4-8149637-c8d348d9d5338554d13efd78ea52bf9f-1549025263-0-1608536029-2-digisport2/digionline/digisport2hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-3_gomb52.png", DIGI sport 3
-https://edge210.rcs-rds.ro/V4-5889065-1962e6733ba83c82b9d22d8bb25b46b2-1549025263-0-1608501530-3-digisport3/digionline/digisport3hd.stream/chunklist.m3u8
+https://edge30.rcs-rds.ro/V4-4561609-b99c2e1d0626dad3a01ec895e46e74a5-1549025263-0-1608536046-3-digisport3/digionline/digisport3hd.stream/chunklist.m3u8
 
 #EXTINF:0, FOX News
 https://content-ause2-up-1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=3e590119a59540f0aba226f4fdb7ab26
