@@ -3,7 +3,7 @@
 # ======================================== Principale ========================================
 # ============================================================================================
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png" group-title="Principale", PRO TV
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/9RJjiaLVsEDaACorWI7K9Q==,1608510604/channels/cme-ro-protv/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/xSaTEUhsqVbpjs6B3e3YpQ==,1608544748/channels/cme-ro-protv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://a1.ro/templates/default/img/a1-logo.png", Antena 1
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Brand-0.png", Prima TV
@@ -41,9 +41,9 @@ https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=160
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1602196621&wowzatokenhash=AMOoilxWLw8if_cLKK3-gPfdUDa34xj4MQnRKCG1xYw=&wowzatokenstarttime=1602153421
 
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png", PRO X
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/AkhZIOqwO0bZhGAi8Upxww==,1608510491/channels/cme-ro-prox/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/Vyc3Jyn6jtFSjS1HhKvRIQ==,1608544855/channels/cme-ro-prox/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/itbYkqmLV_fke9XJtK6MtA==,1608510537/channels/cme-ro-procinema/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/dHBxN3wAnP75Jjgv205uYw==,1608545286/channels/cme-ro-procinema/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/1c/d3/58/1cd35875ae19d7e18197fd8fe1f5f6de.png", Kanal D
 https://stream1.kanald.ro/iphone/live.m3u8
@@ -61,7 +61,7 @@ https://ivm.antenaplay.ro/live/happy/playlist.m3u8?starttime=1571159558&endtime=
 http://5.2.155.213:1935/MetropolaTV/Metro/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png", DIGI sport 4
-https://edge70.rcs-rds.ro/V4-7836266-19434b88d631cfe4a6d49022a1a140c0-1549025263-0-1608501580-49-digisport4/digionline/digisport4hd.stream/chunklist.m3u8
+https://edge214.rcs-rds.ro/V4-4165855-1cb9ea0f467d01defa5ab57214a634d4-1549025263-0-1608536173-49-digisport4/digionline/digisport4hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://wp14-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_216_c.png", Look Sport 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f8df444bd825b970b590db272067bf109a89ad0e
 
