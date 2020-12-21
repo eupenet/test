@@ -3,7 +3,7 @@
 # ======================================== Principale ========================================
 # ============================================================================================
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png" group-title="Principale", PRO TV
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/xSaTEUhsqVbpjs6B3e3YpQ==,1608544748/channels/cme-ro-protv/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/CNijrNiVv16PjOp26mqHBA==,1608557498/channels/cme-ro-protv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://a1.ro/templates/default/img/a1-logo.png", Antena 1
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Brand-0.png", Prima TV
@@ -14,7 +14,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-5336077-a90dd931c2f7037df5ce96ed59eca9fb-1549025263-0-1608535981-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-9438635-1cecf653d213cf609cd606db76b0f8cf-1549025263-0-1608548997-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -22,11 +22,11 @@ https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=157
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
-https://edge30.rcs-rds.ro/V4-4215077-9de0f70e87043a0514f2d08df651cdfb-1549025263-0-1608536010-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
+https://edge30.rcs-rds.ro/V4-3719619-054b504794baf63f1089cb71a6d903a7-1549025263-0-1608549016-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-2_gomb52.png", DIGI sport 2
-https://edge213.rcs-rds.ro/V4-8149637-c8d348d9d5338554d13efd78ea52bf9f-1549025263-0-1608536029-2-digisport2/digionline/digisport2hd.stream/chunklist.m3u8
+https://edge30.rcs-rds.ro/V4-6096774-5223d654a7532a4f64167574e3b0f773-1549025263-0-1608549036-2-digisport2/digionline/digisport2hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-3_gomb52.png", DIGI sport 3
-https://edge30.rcs-rds.ro/V4-4561609-b99c2e1d0626dad3a01ec895e46e74a5-1549025263-0-1608536046-3-digisport3/digionline/digisport3hd.stream/chunklist.m3u8
+https://edge30.rcs-rds.ro/V4-1857038-d00cc1729e933a5c1f8dca581ed5295c-1549025263-0-1608549054-3-digisport3/digionline/digisport3hd.stream/chunklist.m3u8
 
 #EXTINF:0, FOX News
 https://content-ause2-up-1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=3e590119a59540f0aba226f4fdb7ab26
@@ -41,9 +41,9 @@ https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=160
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1602196621&wowzatokenhash=AMOoilxWLw8if_cLKK3-gPfdUDa34xj4MQnRKCG1xYw=&wowzatokenstarttime=1602153421
 
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png", PRO X
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/Vyc3Jyn6jtFSjS1HhKvRIQ==,1608544855/channels/cme-ro-prox/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/mo1I2-ZHiMm-Tyr7WR3yXA==,1608557881/channels/cme-ro-prox/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/dHBxN3wAnP75Jjgv205uYw==,1608545286/channels/cme-ro-procinema/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/bnGhJDOZyb7p8C9PZ0Cw2w==,1608557488/channels/cme-ro-procinema/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/1c/d3/58/1cd35875ae19d7e18197fd8fe1f5f6de.png", Kanal D
 https://stream1.kanald.ro/iphone/live.m3u8
