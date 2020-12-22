@@ -63,7 +63,10 @@ http://5.2.155.213:1935/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png", DIGI sport 4
 https://edge213.rcs-rds.ro/V4-6002797-4bdb8db427a68ca99c221f9b54400e50-1549025263-0-1608653336-49-digisport4/digionline/digisport4hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://wp14-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_216_c.png", Look Sport 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f8df444bd825b970b590db272067bf109a89ad0e
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1608710329&wowzatokenhash=5ZeDgaBUveRJVZfzPFf0_ThmwdNXYC6DkPM7lqRSMyk=&wowzatokenstarttime=1608667129
+#EXTINF:0 tvg-logo="https://wp14-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_216_c.png", Look Sport 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1602196621&wowzatokenhash=AMOoilxWLw8if_cLKK3-gPfdUDa34xj4MQnRKCG1xYw=&wowzatokenstarttime=1602153421
+
 
 #EXTINF:0 tvg-logo="https://media.rtv.net/image/201112/full/sigla_romania_tv_final_mare_72647900.jpg" aspect-ratio="4:3", România TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
