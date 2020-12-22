@@ -22,7 +22,7 @@ https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=157
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
-https://edge24.rcs-rds.ro/V4-9532626-00c132ac3eb8500241fa0ae1473d1cf2-1549025263-0-1608653285-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
+https://edge70.rcs-rds.ro/V4-7732587-36b5cc6be72c33a48a70ad282860e4db-1549025263-0-1608673496-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-2_gomb52.png", DIGI sport 2
 https://edge70.rcs-rds.ro/V4-4299608-2000c6373cabd09d727d2152508cf7ca-1549025263-0-1608653300-2-digisport2/digionline/digisport2hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-3_gomb52.png", DIGI sport 3
