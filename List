@@ -50,9 +50,9 @@ https://cmero-ott-live-sec.ssl.cdn.cra.cz/XhwkXAM6IhfEdi7SsQpFXw==,1608982328/ch
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
 https://cmero-ott-live-sec.ssl.cdn.cra.cz/OQQQekac0Jv0BwwDnEEdYA==,1608982293/channels/cme-ro-procinema/playlist.m3u8
 
-#EXTINF:0, EUROSPORT 1 HD
+#EXTINF:0, EUROSPORT1 HD
 http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
-#EXTINF:0, EUROSPORT 2 HD
+#EXTINF:0, EUROSPORT2 HD
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/1c/d3/58/1cd35875ae19d7e18197fd8fe1f5f6de.png", Kanal D
