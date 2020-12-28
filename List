@@ -14,14 +14,14 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge212.rcs-rds.ro/V4-8857552-8b0bc632dd2a278bb803130a6620a5b2-1549025263-0-1609152275-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V4-8212541-59e7faebf7b4c030df9629c65a4cc871-1549025263-0-1609162880-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://media.rtv.net/image/201112/full/sigla_romania_tv_final_mare_72647900.jpg" aspect-ratio="4:3", România TV
-https://edge70.rcs-rds.ro/V4-8322303-939875b0718178a1a6d9e2b678378f8c-1549025263-0-1609152310-27-romaniatv/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V4-2693479-1a0f8fe12a7fa292fe1a4ebb5699b4d1-1549025263-0-1609162910-27-romaniatv/digionline/romaniatvhq.stream/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
@@ -34,7 +34,7 @@ https://edge214.rcs-rds.ro/V4-1590584-34719cf57aeeab4eeb85546434da2c2f-154902526
 https://edge70.rcs-rds.ro/V4-9922832-16e0bb56dd6134dd329ed8da4cdcaedb-1549025263-0-1609152415-49-digisport4/digionline/digisport4hd.stream/chunklist.m3u8
 
 #EXTINF:0, FOX News
-https://content-auso3.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/f.m3u8?pbs=7bb0469b75934c5b92982a063fae8a5b
+https://s1.ustv24h.live/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAyMCAxOjQyOjI2IFBNJmhhc2hfdmFsdWU9MFdMMWlsYUJIbVVuU1VUdWthaWdJdz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
