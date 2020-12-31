@@ -84,4 +84,6 @@ https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 https://edge212.rcs-rds.ro/V4-9475090-a1972347ff35919f5382fe67c653d9d5-1549025263-0-1608218684-35-hitmusicchannel/digionline/hitmusicchannelhq.stream/chunklist.m3u8
 #EXTINF:0, VH1
 https://edge24.rcs-rds.ro/V4-8739617-91b8e98d01c8766fe1cf182f3539e8e0-1549025263-0-1606760070-110-vh1/digionline/vh1hq.stream/chunklist.m3u8
+#EXTINF:0, 7 Sydney
+https://csm-e-n7aus-eb.tls1.yospace.com/csm/extlive/sevenprd01,SYD1.m3u8
 
