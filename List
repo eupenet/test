@@ -18,6 +18,9 @@ https://stream.adunity.com/b1/b1.m3u8
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://vod1ag.antenaplay.ro/antena3/2021/01/04/3bef3b35aaf9fc9b5314bb6ded7306bf2504e4416eb119ce4d6d81282ea9d7fb_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1609859582&endtime=1609866782&source=web&token=bhyl6cTGQjpIdTI8jy7YYbB99oc=
 
+#EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
+https://vod1ag.antenaplay.ro/antena3/2021/01/05/21fb8248f2dd4575ead9070f33f97ef93217615506894dae742daafa984838d8_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1609859709&endtime=1609866909&source=web&token=lqBrgtv1IA0rrDc5OAIYPpjz2UA=
+
 #EXTINF:0, DIGI 24 HD
 https://edge210.rcs-rds.ro/V4-6853385-6c432720291169653f4e82e0517e5b48-1549025263-0-1609774026-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
