@@ -16,7 +16,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-7874029-19c96f61494ce5cb1ebcf0999e046021-1549025263-0-1609890155-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V4-2640331-9f7955d8e2776ef2d002bd3e7b6a33c6-1549025263-0-1609931279-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -42,7 +42,9 @@ https://cmero-ott-live-sec.ssl.cdn.cra.cz/VbR2sJinUI8l9Kv8lwOBtQ==,1609884884/ch
 https://cmero-ott-live-sec.ssl.cdn.cra.cz/acFCp5jUvJKE4TcriB76zw==,1609885284/channels/cme-ro-procinema/playlist.m3u8
 
 #EXTINF:0, FOX News
-https://s1.ustv24h.live/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjEgMTE6NDM6MTAgUE0maGFzaF92YWx1ZT04NG9zbUxrc0p0YTd5dDdycXROK2RnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s3.ustv24h.live/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjEgMTE6MDY6MjIgQU0maGFzaF92YWx1ZT0rUEg5Y2YyUEdTT0pwZUZlMHl5VzB3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:0, MSNBC
+https://s2.ustv24h.live/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjEgMTE6MDc6MTUgQU0maGFzaF92YWx1ZT1vUndKaTJqQXEzNUVmVkJCR3phdGJRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
