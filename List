@@ -24,11 +24,13 @@ https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=157
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
 #EXTINF:0, FOX News
-https://s1.ustv24h.live/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjEgMzowODoxMyBQTSZoYXNoX3ZhbHVlPVV3Y2R5dW9Ndk1UdVRjYWx6WElvbkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://s2.ustv24h.live/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjEgMTA6Mjg6MDEgUE0maGFzaF92YWx1ZT1qNFZRMGdrdXNtVTR5RXo4M0VwY0dRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0, MSNBC
-https://s3.ustv24h.live/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjEgMzowNzo1MSBQTSZoYXNoX3ZhbHVlPVlrRXpNdTNrZGk2WXlwYXhva1lXY1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://s1.ustv24h.live/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjEgMTA6Mjg6MjggUE0maGFzaF92YWx1ZT1pYlBaV2tqSTdJTWZLd09mRm0weCtnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0, OAN
+https://s2.ustv24h.live/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjEgMTA6Mjk6MDcgUE0maGFzaF92YWx1ZT0vV2Y5ZUhQQllyODZMYjRuZ0EwRGt3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/Antena%20Stars_m.png", Antena Stars
 https://ivm.antenaplay.ro/live/astars/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -48,7 +50,7 @@ https://cmero-ott-live-sec.ssl.cdn.cra.cz/VbR2sJinUI8l9Kv8lwOBtQ==,1609884884/ch
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
 https://cmero-ott-live-sec.ssl.cdn.cra.cz/acFCp5jUvJKE4TcriB76zw==,1609885284/channels/cme-ro-procinema/playlist.m3u8
 
-#EXTINF:0 tvg-id="LookPlus.ro" tvg-logo="https://wp15-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10179_c_853800d0a75e431835de0ee396e3f7ad.png", Look Sport+
+#EXTINF:0 tvg-id="LookPlus.ro" tvg-logo="https://wp15-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10179_c_853800d0a75e431835de0ee396e3f7ad.png", Look Sport +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1603332982&wowzatokenhash=pc00uVjzyMYS1IWud-mvZcUyv0xLFyM0Waurl63ke4E=&wowzatokenstarttime=1603289782
 #EXTINF:0 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png", Look Sport
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1603165001&wowzatokenhash=lmYBqqfYdQFSAfL1W-z4rrYfahTCm2eVBJBUBdRy5gw=&wowzatokenstarttime=1603121801
