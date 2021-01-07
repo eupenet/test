@@ -24,13 +24,13 @@ https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=157
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
 #EXTINF:0, FOX News
-https://s2.ustv24h.live/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjEgNDoyNDo0OCBQTSZoYXNoX3ZhbHVlPW1Gdk1tTVhwSWJkQ0hVMWtkTVhTMEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://s3.ustv24h.live/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjEgOToxNDowNyBQTSZoYXNoX3ZhbHVlPTFOY2FlVkNGNFd6cHo4RUY2NkU2eEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:0, MSNBC
-https://s2.ustv24h.live/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjEgNDoyNDowOSBQTSZoYXNoX3ZhbHVlPXdCYzhQSHkrL0w2NDlmSTMxWlVNWmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://s3.ustv24h.live/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjEgOToxNDozNiBQTSZoYXNoX3ZhbHVlPW9RT2R6am1CUnM4M1FJaWc5RDducGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0, OAN
-https://s3.ustv24h.live/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjEgNDoyMzo0NCBQTSZoYXNoX3ZhbHVlPUNEZ29TNDVHd0pWQWt2OFd1UmpZWnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://s3.ustv24h.live/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjEgOToxNDo1MyBQTSZoYXNoX3ZhbHVlPVJ4ZWZoaCtiU3cyeDhtY2g0eEVPWXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:0 tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/Antena%20Stars_m.png", Antena Stars
 https://ivm.antenaplay.ro/live/astars/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
