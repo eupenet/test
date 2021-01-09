@@ -24,7 +24,7 @@ https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=157
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
 #EXTINF:0, FOX News
-https://s2.ustv24h.live/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjEgMjoyNTo0OCBBTSZoYXNoX3ZhbHVlPWRFOWdaZWZNTVpCR3VsU0ZTNkw4QXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://s1.ustv24h.live/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjEgMTI6MTI6MDQgUE0maGFzaF92YWx1ZT1LekhKSHBwOEhFbDAwK3lvUEtGUVhRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0, MSNBC
 https://s2.ustv24h.live/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjEgMjoyNTo0OCBBTSZoYXNoX3ZhbHVlPWRFOWdaZWZNTVpCR3VsU0ZTNkw4QXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:0 tvg-id="CNN.us", CNN
