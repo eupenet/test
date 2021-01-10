@@ -61,6 +61,8 @@ https://edge71.rcs-rds.ro/V4-8579164-93676673a309743f7a2ffde8963d7a3e-1549025263
 
 #EXTINF:0, FOX News
 https://s3.ustv24h.live/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIxIDExOjQyOjQyIEFNJmhhc2hfdmFsdWU9bndON2pUM20xRWM0dVVZYlpWT3VJZz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:0, FOX News
+https://content-ausc3.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=3e8b36dda8124302a4297b892cda4154
 #EXTINF:0, MSNBC
 https://s2.ustv24h.live/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIxIDExOjQyOjQyIEFNJmhhc2hfdmFsdWU9bndON2pUM20xRWM0dVVZYlpWT3VJZz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:0 tvg-id="CNN.us", CNN
