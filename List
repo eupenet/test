@@ -44,6 +44,16 @@ https://s2.ustv24h.live/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 https://s1.ustv24h.live/CSPAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDc6MzA6MDkgUE0maGFzaF92YWx1ZT1jK2NUdWIvZjEwblY1TVVZU3FxTFdBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0 tvg-id="TCM.us", TCM
 https://f1.ustvgo.org/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDc6MzA6MDkgUE0maGFzaF92YWx1ZT1jK2NUdWIvZjEwblY1TVVZU3FxTFdBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:0 tvg-id="TCMHD.ca", TCM
+https://f1.ustvgo.org/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDc6MzA6MDkgUE0maGFzaF92YWx1ZT1jK2NUdWIvZjEwblY1TVVZU3FxTFdBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:0 tvg-id="TCM.ar", TCM
+https://f1.ustvgo.org/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDc6MzA6MDkgUE0maGFzaF92YWx1ZT1jK2NUdWIvZjEwblY1TVVZU3FxTFdBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:0 tvg-id="TCM.br", TCM
+https://f1.ustvgo.org/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDc6MzA6MDkgUE0maGFzaF92YWx1ZT1jK2NUdWIvZjEwblY1TVVZU3FxTFdBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:0 tvg-id="TCM.cl", TCM
+https://f1.ustvgo.org/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDc6MzA6MDkgUE0maGFzaF92YWx1ZT1jK2NUdWIvZjEwblY1TVVZU3FxTFdBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:0 tvg-id="TCM.fr", TCM
+https://f1.ustvgo.org/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDc6MzA6MDkgUE0maGFzaF92YWx1ZT1jK2NUdWIvZjEwblY1TVVZU3FxTFdBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0, Turner Classic Movies
 https://f1.ustvgo.org/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDc6MzA6MDkgUE0maGFzaF92YWx1ZT1jK2NUdWIvZjEwblY1TVVZU3FxTFdBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
