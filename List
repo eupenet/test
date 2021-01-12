@@ -23,8 +23,10 @@ https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=157
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
+#EXTINF:0 tvg-id="Antena3.ro" tvg-logo="https://assets.antenaplay.ro/2020/03/13/0HQY8jQj058ReQVRDGsM.jpeg", Antena 3
 https://vod1ag.antenaplay.ro/antena3/2021/01/11/d4a7cae145d1dc58013e298b033dec356b248fab9f72dc71376d10d3bb570de9_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1610397474&endtime=1610404674&source=web&token=BjR4mPN4qbZn-_JlWhlq0Im6MTE=
+#EXTINF:0 tvg-id="Antena3.ro" tvg-logo="https://assets.antenaplay.ro/2020/03/13/0HQY8jQj058ReQVRDGsM.jpeg", Antena 3
+https://vod1ag.antenaplay.ro/antena3/2021/01/12/0270c5180d8fb5253d5c3d3f102c327f56ff5822e26c77f886f19982db6d944c_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1610438604&endtime=1610445804&source=web&token=6NtZ49cknoiQRZ7da1XusfUjV7Q=
 
 #EXTINF:0 tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/Antena%20Stars_m.png", Antena Stars
 https://ivm.antenaplay.ro/live/astars/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
