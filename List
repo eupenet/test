@@ -42,7 +42,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://s2.ustv24h.live/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDc6MzA6MDkgUE0maGFzaF92YWx1ZT1jK2NUdWIvZjEwblY1TVVZU3FxTFdBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0, C-SPAN
 https://s1.ustv24h.live/CSPAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDc6MzA6MDkgUE0maGFzaF92YWx1ZT1jK2NUdWIvZjEwblY1TVVZU3FxTFdBPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:0 tvg-id="TCMHD.us", TCM
+#EXTINF:0 tvg-id="TCM.us", TCM
 https://f1.ustvgo.org/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDc6MzA6MDkgUE0maGFzaF92YWx1ZT1jK2NUdWIvZjEwblY1TVVZU3FxTFdBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0, Turner Classic Movies
 https://f1.ustvgo.org/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDc6MzA6MDkgUE0maGFzaF92YWx1ZT1jK2NUdWIvZjEwblY1TVVZU3FxTFdBPT0mdmFsaWRtaW51dGVzPTI0MA==
