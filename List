@@ -16,7 +16,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-7666007-ac4e306e8052771f164a95f68615d334-1549025263-0-1610697560-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V4-6963896-87f6c08f367ee8036c621ad31f7f1282-1549025263-0-1610737191-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -24,17 +24,17 @@ https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=157
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://media.whatcounts.com/fox_news/NewsletterFooter/logo.png", FOX News
-https://f5.ustvgo.org/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDc6NTk6NTIgQU0maGFzaF92YWx1ZT1NRzQxOSsvZERtWDBPYmZoRHZoQWt3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f5.ustvgo.org/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDc6MDA6MjAgUE0maGFzaF92YWx1ZT1kUXpabmtKK0RDNTExU3ltWHFVVmR3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0, MSNBC
-https://s2.ustv24h.live/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDc6NTk6NTIgQU0maGFzaF92YWx1ZT1NRzQxOSsvZERtWDBPYmZoRHZoQWt3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s2.ustv24h.live/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDc6MDA6MjAgUE0maGFzaF92YWx1ZT1kUXpabmtKK0RDNTExU3ltWHFVVmR3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0, OAN
-https://s2.ustv24h.live/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDc6NTk6NTIgQU0maGFzaF92YWx1ZT1NRzQxOSsvZERtWDBPYmZoRHZoQWt3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s2.ustv24h.live/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDc6MDA6MjAgUE0maGFzaF92YWx1ZT1kUXpabmtKK0RDNTExU3ltWHFVVmR3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0, C-SPAN
-https://s1.ustv24h.live/CSPAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDc6NTk6NTIgQU0maGFzaF92YWx1ZT1NRzQxOSsvZERtWDBPYmZoRHZoQWt3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://s1.ustv24h.live/CSPAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDc6MDA6MjAgUE0maGFzaF92YWx1ZT1kUXpabmtKK0RDNTExU3ltWHFVVmR3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0 tvg-id="TCM.us", TCM
-https://f1.ustvgo.org/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDc6NTk6NTIgQU0maGFzaF92YWx1ZT1NRzQxOSsvZERtWDBPYmZoRHZoQWt3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://f1.ustvgo.org/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDc6MDA6MjAgUE0maGFzaF92YWx1ZT1kUXpabmtKK0RDNTExU3ltWHFVVmR3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/Antena%20Stars_m.png", Antena Stars
 https://ivm.antenaplay.ro/live/astars/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
