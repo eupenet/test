@@ -25,8 +25,10 @@ http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png", PRO TV
 https://media.cms.protvplus.ro/embed/9w1VHN18dnM?autoplay=1
+
 #EXTINF:0 tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/Antena%20Stars_m.png", Antena Stars
 https://ivm.antenaplay.ro/live/astars/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/Happy%20Channel_m.png", Happy Channel
