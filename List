@@ -69,6 +69,10 @@ https://edge81.rcs-rds.ro/V4-9149871-e3b6efdb01ef819bd652f1d9feff0ecf-1549025263
 
 #EXTINF:0 tvg-logo="https://media.rtv.net/image/201112/full/sigla_romania_tv_final_mare_72647900.jpg" aspect-ratio="4:3", România TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://media.rtv.net/image/201112/full/sigla_romania_tv_final_mare_72647900.jpg" aspect-ratio="4:3", România TV
+https://licensing.viblast.com/licensing/rest/check/6ba623b5-b55c-42bc-9a7e-61cd0f30f2b8?stream=https%3A%2F%2Flivestream.romaniatv.net%2Fclients%2Fromaniatv%2Fplaylist.m3u8
+#EXTINF:0 tvg-logo="https://media.rtv.net/image/201112/full/sigla_romania_tv_final_mare_72647900.jpg" aspect-ratio="4:3", România TV
+https://livestream.romaniatv.net/clients/romaniatv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
 https://edge30.rcs-rds.ro/V4-7541455-9d691713d3763a5fd7667ddd8144ff85-1549025263-0-1609629581-35-hitmusicchannel/digionline/hitmusicchannelhq.stream/chunklist.m3u8
