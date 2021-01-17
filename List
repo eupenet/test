@@ -3,7 +3,7 @@
 # ======================================== Principale ========================================
 # ============================================================================================
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png" group-title="Principale", PRO TV
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/XjCNL1fvLCvTKlT0iLJXpA==,1610887732/channels/cme-ro-protv/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/o53bt6I8b8BSKEBjVyrhQw==,1610919094/channels/cme-ro-protv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://a1.ro/templates/default/img/a1-logo.png", Antena 1
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Brand-0.png", Prima TV
@@ -16,7 +16,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge211.rcs-rds.ro/V4-2376038-2f68aee8c4e7bfb6c1cc28906baa9c3e-1549025263-0-1610880279-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-3230044-c91e92bf0e326213146c5094176b9265-1549025263-0-1610910629-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -27,9 +27,9 @@ http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png", PRO X
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/ApAa7W3lMMh46Gk5PRDBaQ==,1610887678/channels/cme-ro-prox/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/EYJKN0U2cIa8DkEsJg5BUw==,1610919334/channels/cme-ro-prox/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/nstO9OIsYYCrtAEzlvSobw==,1610887759/channels/cme-ro-procinema/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/VKVTkxeLQxm8DafMwRVL6g==,1610919396/channels/cme-ro-procinema/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/Antena%20Stars_m.png", Antena Stars
 https://ivm.antenaplay.ro/live/astars/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -54,25 +54,21 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendti
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1602196621&wowzatokenhash=AMOoilxWLw8if_cLKK3-gPfdUDa34xj4MQnRKCG1xYw=&wowzatokenstarttime=1602153421
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
-https://edge213.rcs-rds.ro/V4-1482176-30487b3ea13f80c70973011f193556bb-1549025263-0-1610880315-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
+https://edge30.rcs-rds.ro/V4-8611387-2836197703529df4e72cd2324c1a7873-1549025263-0-1610910482-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-2_gomb52.png", DIGI sport 2
-https://edge211.rcs-rds.ro/V4-3790713-bd2a711a5bf43b5590b05d8fd20fbb8d-1549025263-0-1610880337-2-digisport2/digionline/digisport2hd.stream/chunklist.m3u8
+https://edge81.rcs-rds.ro/V4-9295781-fb2cb3b78b08ce1fbfe3c899be8abf8f-1549025263-0-1610910508-2-digisport2/digionline/digisport2hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-3_gomb52.png", DIGI sport 3
-https://edge210.rcs-rds.ro/V4-8307689-85ebeb44e3037619e37419c045e1b8a4-1549025263-0-1610880364-3-digisport3/digionline/digisport3hd.stream/chunklist.m3u8
+https://edge30.rcs-rds.ro/V4-9883354-131db01eda56b29c6d2803e899838466-1549025263-0-1610910523-3-digisport3/digionline/digisport3hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png", DIGI sport 4
-https://edge210.rcs-rds.ro/V4-3865474-21bed12fc023ea34abc89e153aa8ac4e-1549025263-0-1610880404-49-digisport4/digionline/digisport4hd.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V4-3496130-a42f409398d2fa3179a482bbefb50bb1-1549025263-0-1610910536-49-digisport4/digionline/digisport4hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Eurosport1.ro", Eurosport 1
-https://edge74.rcs-rds.ro/V4-3796920-e63ceff6a665988952f0079eb59c5028-1549025263-0-1610880423-31-eurosport/digionline/eurosporthq.stream/chunklist.m3u8
+https://edge70.rcs-rds.ro/V4-9889645-b5f281dcad9053f1b000efa6df55d064-1549025263-0-1610910550-31-eurosport/digionline/eurosporthq.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="Eurosport2.ro", Eurosport 2
-https://edge70.rcs-rds.ro/V4-5385075-9da87c0b4d02df7d011198ee0372470c-1549025263-0-1610880441-32-eurosport2/digionline/eurosport2hq.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V4-3108959-df52a9a00ba136e3adff1cbf96adfa93-1549025263-0-1610910567-32-eurosport2/digionline/eurosport2hq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://media.rtv.net/image/201112/full/sigla_romania_tv_final_mare_72647900.jpg" aspect-ratio="4:3", România TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://media.rtv.net/image/201112/full/sigla_romania_tv_final_mare_72647900.jpg" aspect-ratio="4:3", România TV
-https://licensing.viblast.com/licensing/rest/check/6ba623b5-b55c-42bc-9a7e-61cd0f30f2b8?stream=https%3A%2F%2Flivestream.romaniatv.net%2Fclients%2Fromaniatv%2Fplaylist.m3u8
-#EXTINF:0 tvg-logo="https://media.rtv.net/image/201112/full/sigla_romania_tv_final_mare_72647900.jpg" aspect-ratio="4:3", România TV
-https://livestream.romaniatv.net/clients/romaniatv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
 https://edge30.rcs-rds.ro/V4-7541455-9d691713d3763a5fd7667ddd8144ff85-1549025263-0-1609629581-35-hitmusicchannel/digionline/hitmusicchannelhq.stream/chunklist.m3u8
