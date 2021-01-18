@@ -16,7 +16,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-3230044-c91e92bf0e326213146c5094176b9265-1549025263-0-1610910629-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-2089297-dfa206e698767c8970add3f05d0d4acc-1549025263-0-1610959988-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -72,5 +72,3 @@ https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
 https://edge30.rcs-rds.ro/V4-7541455-9d691713d3763a5fd7667ddd8144ff85-1549025263-0-1609629581-35-hitmusicchannel/digionline/hitmusicchannelhq.stream/chunklist.m3u8
-#EXTINF:0, VH1
-https://edge24.rcs-rds.ro/V4-8739617-91b8e98d01c8766fe1cf182f3539e8e0-1549025263-0-1606760070-110-vh1/digionline/vh1hq.stream/chunklist.m3u8
