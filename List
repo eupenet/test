@@ -16,7 +16,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-3814348-b131885c7da0bb3618dbff762809a3da-1549025263-0-1610989446-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-2454953-ca35560bff088c6226aa813de9f3b3cf-1549025263-0-1611046552-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -63,9 +63,9 @@ https://edge84.rcs-rds.ro/V4-6156994-e42f1785f25ed94f3c5426794f8666cd-1549025263
 https://edge24.rcs-rds.ro/V4-6430874-adbbdb2fef48ad53cb41be0f8fdb531c-1549025263-0-1610989656-49-digisport4/digionline/digisport4hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Eurosport1.ro", Eurosport 1
-https://vod1ag.antenaplay.ro/antena3/2021/01/18/bf9b704f008e2d56628265b4ecada16631861cb7e1a01fd29338f8dc9ad27289_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1610989741&endtime=1610996941&source=web&token=LEVSkMC1kTuxHv4N4ZnVYaTxfQ4=
+https://vod1ag.antenaplay.ro/antena3/2021/01/19/ec6fd42675509378272e409b9f56f466a896e5b77649299864e93efd53ca4de9_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1611046642&endtime=1611053842&source=web&token=kbrO6NPvFMUdarfmFKqrOHei-aE=
 #EXTINF:0 tvg-id="Eurosport2.ro", Eurosport 2
-https://vod1ag.antenaplay.ro/antena3/2021/01/17/c1df7d11442795ca8a04ed28513f00babeb62212f1ee12b76227580e06a6684d_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1610989901&endtime=1610997101&source=web&token=5y7JgHF9XZeGFM1vyNkYZBcp3bs=
+https://vod1ag.antenaplay.ro/antena3/2021/01/18/178e4b7d23540890a4f531d61cffb9931a12e4c2b3dcfa90e2fdd388834f490d_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1611046703&endtime=1611053903&source=web&token=d4LpP2PRMXWdMXpFJ6xwThb0f8U=
 
 #EXTINF:0 tvg-logo="https://media.rtv.net/image/201112/full/sigla_romania_tv_final_mare_72647900.jpg" aspect-ratio="4:3", România TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
