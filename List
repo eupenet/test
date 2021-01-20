@@ -16,7 +16,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-3703652-20d5c31405ed37f4aa02a13b52d37ee6-1549025263-0-1611134723-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V4-3633894-c0b1f8691b1cd80d78732fd3648494cf-1549025263-0-1611160811-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -65,11 +65,11 @@ https://edge24.rcs-rds.ro/V4-6430874-adbbdb2fef48ad53cb41be0f8fdb531c-1549025263
 #EXTINF:0 tvg-id="Eurosport1.ro", Eurosport 1
 https://vod1ag.antenaplay.ro/antena3/2021/01/20/09281c94e53b2a23209b5c897fd59efbefcb91889508811a0890b80a0bce2524_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1611134806&endtime=1611142006&source=web&token=rMJ10IBggKn2uD_p-MTIp1W5PPw=
 #EXTINF:0 tvg-id="Eurosport2.ro", Eurosport 2
-https://vod1ag.antenaplay.ro/antena3/2021/01/19/78086f7b94221c502d4ecb9b744e98b7e1be926becf5b4c081762f555fbb32f8_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1611134881&endtime=1611142081&source=web&token=DIOEaOAR66JcvegcVXYzE5RyhTY=
+https://edge71.rcs-rds.ro/V4-1625404-88d6a72a9529d3329f75b5ab506db02b-1549025263-0-1611160788-110-vh1/digionline/vh1hq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://media.rtv.net/image/201112/full/sigla_romania_tv_final_mare_72647900.jpg" aspect-ratio="4:3", România TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
-https://vod1ag.antenaplay.ro/antena3/2021/01/18/178e4b7d23540890a4f531d61cffb9931a12e4c2b3dcfa90e2fdd388834f490d_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1611046703&endtime=1611053903&source=web&token=d4LpP2PRMXWdMXpFJ6xwThb0f8U=
+https://edge212.rcs-rds.ro/V4-6510408-2336d2240782868a75c469420408ea77-1549025263-0-1611160754-35-hitmusicchannel/digionline/hitmusicchannelhq.stream/chunklist.m3u8
 
