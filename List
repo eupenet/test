@@ -16,7 +16,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-6181805-f841a9a83266f3e48e5d200bab8ac126-1549025263-0-1611321029-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-1024512-821892ce5103fa1b6282cb797ac910c3-1549025263-0-1611340876-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -54,7 +54,7 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendti
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1602196621&wowzatokenhash=AMOoilxWLw8if_cLKK3-gPfdUDa34xj4MQnRKCG1xYw=&wowzatokenstarttime=1602153421
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
-https://edge211.rcs-rds.ro/V4-5309138-25458711761677f767869751aca81280-1549025263-0-1610989598-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V4-1541742-bdbca56e70462eaedbb2791d2f1653a8-1549025263-0-1611340904-1-digisport1/digionline/digisport1hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-2_gomb52.png", DIGI sport 2
 https://edge212.rcs-rds.ro/V4-2326669-f15a66a25a88c61fd9c8956b149a2c6a-1549025263-0-1610989623-2-digisport2/digionline/digisport2hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-3_gomb52.png", DIGI sport 3
@@ -71,5 +71,4 @@ https://content-ausw1-up-1.uplynk.com/d5984da332f5479680848444c8c0afef/e.m3u8?pb
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
-https://content-ausw1-up-1.uplynk.com/a89dce570f21460c933c3cee7aab1c50/e.m3u8?pbs=f11788322f514b4f93d3726d3fc015e3
-
+https://edge30.rcs-rds.ro/V4-4814565-8774128af053f02a8dfb5656c1dfe0dd-1549025263-0-1611340815-35-hitmusicchannel/digionline/hitmusicchannelhq.stream/chunklist.m3u8
