@@ -65,7 +65,7 @@ https://edge24.rcs-rds.ro/V4-6430874-adbbdb2fef48ad53cb41be0f8fdb531c-1549025263
 #EXTINF:0 tvg-id="Eurosport1.ro", Eurosport 1
 https://vod1ag.antenaplay.ro/antena3/2021/01/22/70c1e4b9ce3c84e8ecaa850a575293c7907f818a7308f6ac6fbf14833d6adb3e_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1611306517&endtime=1611313717&source=web&token=yZuMb6QbIPmJp3pqjQO7rRp6nvU=
 #EXTINF:0 tvg-id="Eurosport2.ro", Eurosport 2
-https://vod1ag.antenaplay.ro/antena3/2021/01/22/70c1e4b9ce3c84e8ecaa850a575293c7907f818a7308f6ac6fbf14833d6adb3e_720p-wide.mp4/index-v1-a1.m3u8?starttime=1611306517&endtime=1611313717&source=web&token=yZuMb6QbIPmJp3pqjQO7rRp6nvU=
+https://vod1ag.antenaplay.ro/antena3/2021/01/21/de2e978a2a8345b5c4e1018f574f55fccb633f92fd7eeac51aa95a1c909be480_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1611306800&endtime=1611314000&source=web&token=YkNBahjmkLm2fiYrpY-aBUXR1k8=
 
 #EXTINF:0 tvg-logo="https://media.rtv.net/image/201112/full/sigla_romania_tv_final_mare_72647900.jpg" aspect-ratio="4:3", România TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
