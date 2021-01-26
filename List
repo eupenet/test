@@ -16,7 +16,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge211.rcs-rds.ro/V4-9276226-60a89320faa4a1366604bf143e27e4c4-1549025263-0-1611561487-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V4-7610306-4be84f889fb4022f15c0d8def94c9758-1549025263-0-1611647302-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -25,6 +25,8 @@ http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0, FOX News
+https://content-ausw1-up-1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/c.m3u8?pbs=a2c787dbc1bc4d0da19b72db9c43bb2b
 
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png", PRO X
 https://cmero-ott-live-sec.ssl.cdn.cra.cz/9Yv0AX1fzG1WDH77kCsUcQ==,1611570619/channels/cme-ro-prox/playlist.m3u8
@@ -66,9 +68,6 @@ https://edge84.rcs-rds.ro/V4-2011971-d3312f64deafbe7db589b1a90e36df56-1549025263
 https://edge24.rcs-rds.ro/V4-8005631-62ba743df7ebfff2be98e2ae69377c3e-1549025263-0-1611420643-31-eurosport/digionline/eurosporthq.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="Eurosport2.ro", Eurosport 2
 https://edge210.rcs-rds.ro/V4-4824199-96af6503dda93a6f0805fa335f239af8-1549025263-0-1611420665-32-eurosport2/digionline/eurosport2hq.stream/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="https://media.rtv.net/image/201112/full/sigla_romania_tv_final_mare_72647900.jpg" aspect-ratio="4:3", România TV
-https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
 https://edge211.rcs-rds.ro/V4-4491560-af4b49a8ae1bc8f589bc03dc6eeaf37d-1549025263-0-1611438672-35-hitmusicchannel/digionline/hitmusicchannelhq.stream/chunklist.m3u8
