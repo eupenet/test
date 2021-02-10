@@ -26,7 +26,7 @@ http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0, FOX News
-https://content-ausc1.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/d.m3u8?pbs=7e7ac6d77ca7403f9322e89e0db77e62
+https://content-ausc2.uplynk.com/channel/1e298c9d65a245b3bd37f339cadcca58/f.m3u8?pbs=49958c95a1cd42dfa17d13269036632f
 
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png", PRO X
 https://cmero-ott-live-sec.ssl.cdn.cra.cz/mJhb-6sA8I0T6b7mom8XGw==,1612949763/channels/cme-ro-prox/playlist.m3u8
