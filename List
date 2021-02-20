@@ -70,7 +70,7 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendti
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1612323181&wowzatokenhash=dHJVIhAflfjXwg25tgFnK25NoPPsBXwBd7hUdkmf9V0=&wowzatokenstarttime=1612279981
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
-https://edge214.rcs-rds.ro/V5-2051414-4490d1ac97954223f25a3aeb6f9d8ac5-1549025263-0-1613245723-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
+http://vt.findsports.stream/srv/0espn.m3u8
 
 #EXTINF:0, CBS Sports
 https://dai.google.com/ssai/event/lKh5_XooSbam79G4T7KvYQ/master.m3u8?iu=/8264/vaw-can/desktop/cbs
