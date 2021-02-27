@@ -16,7 +16,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-7535140-49f8a4a611ab7b3da0b7434117d79e70-1549025263-0-1614358621-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V4-6054967-fe51fb57603cbb6d773af6750060a0ce-1549025263-0-1614430865-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
@@ -45,13 +45,13 @@ https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 http://5.2.155.213:1935/MetropolaTV/Metro/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
-https://edge213.rcs-rds.ro/V5-4252817-7a97e43261c050ee3abad46312d62cc2-1549025263-0-1614358669-1-digisport1-b61cfce54694d8c5/digionline/digisport1hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V5-2932771-f88295386ac3a1617a620c726aa06660-1549025263-0-1614430888-1-digisport1-b61cfce54694d8c5/digionline/digisport1hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-2_gomb52.png", DIGI sport 2
-https://edge210.rcs-rds.ro/V5-4684123-7294f4cef4a72146200f38177ec5d7e0-1549025263-0-1614358712-2-digisport2-b61cfce54694d8c5/digionline/digisport2hd.stream/chunklist.m3u8
+https://edge214.rcs-rds.ro/V5-5108237-7d6b011449d46deaae54dd5408a1145f-1549025263-0-1614430916-2-digisport2-b61cfce54694d8c5/digionline/digisport2hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-3_gomb52.png", DIGI sport 3
-https://edge212.rcs-rds.ro/V5-2663941-e4343a0bd91427ec6d6e35deeea76db2-1549025263-0-1614358729-3-digisport3-b61cfce54694d8c5/digionline/digisport3hd.stream/chunklist.m3u8
+https://edge212.rcs-rds.ro/V5-1908062-4ce9b23547eae2f8699711a7133c9a95-1549025263-0-1614430928-3-digisport3-b61cfce54694d8c5/digionline/digisport3hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png", DIGI sport 4
-https://edge214.rcs-rds.ro/V5-9334290-5bfaed4aaf346f1efd90f52d35af1cd8-1549025263-0-1614358747-49-digisport4-b61cfce54694d8c5/digionline/digisport4hd.stream/chunklist.m3u8
+https://edge212.rcs-rds.ro/V5-6535592-cfe76fc4bd4fa4c78bb48519839e8333-1549025263-0-1614430941-49-digisport4-b61cfce54694d8c5/digionline/digisport4hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Eurosport1.ro", Eurosport 1
 https://edge24.rcs-rds.ro/V5-5604397-40540107d625ce35c9d961a5120a0d15-1549025263-0-1614151059-31-eurosport-b61cfce54694d8c5/digionline/eurosporthd.stream/chunklist.m3u8
