@@ -46,7 +46,7 @@ https://ivm.antenaplay.ro/live/astars/playlist.m3u8?starttime=1571159558&endtime
 https://ivm.antenaplay.ro/live/happy/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="http://www.tvr.ro/images/logo_stations_tvr2.png", TVR 2
 https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
-#EXTINF:0 tvg-logo="http://www.tvr.ro/images/logo_stations_tvr3.png", TVR 3
+#EXTINF:0 tvg-logo="http://www.tvr.ro/images/logo_stations_tvr3.png", TVR3
 https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
 #EXTINF:0 tvg-logo="https://img.onesignal.com/permanent/f6e24035-95c9-4a53-832f-63aadd2edeb4.png", Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
