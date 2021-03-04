@@ -20,6 +20,8 @@ https://edge211.rcs-rds.ro/V4-8861701-0c836763c2164b0630f5d1e8668b8539-154902526
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
+#EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
+https://edge210.rcs-rds.ro/V5-1762414-5265bf752a8a794553706d99e652d6f6-1549025263-0-1614887614-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
