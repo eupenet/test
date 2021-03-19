@@ -26,11 +26,13 @@ https://edge213.rcs-rds.ro/V5-4685712-71ddb36b3a40d853c1acff2d2e6defa9-154902526
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
-https://edge213.rcs-rds.ro/V5-8985498-c901cf98bac900f95c7cd67ddc32e952-1549025263-0-1616174077-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
-#EXTINF:0, VH1
-https://edge212.rcs-rds.ro/V5-8533412-836399f9c30c22f70a9ca738dfecccb0-1549025263-0-1616174146-110-vh1-b61cfce54694d8c5/digionline/vh1hq.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V5-6455698-e2f0a67beaa5f496568fc75e83849ff1-1549025263-0-1616184669-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
+#EXTINF:0, UTV
+https://edge213.rcs-rds.ro/V5-7086995-214456fe2161d84954403dbaebd713e2-1549025263-0-1616184818-9-utv-b61cfce54694d8c5/digionline/utvhq.stream/chunklist.m3u8
 #EXTINF:0, Kiss TV
-https://edge212.rcs-rds.ro/V5-9147796-bd890474fedb11a8be8d70a9ff4538f0-1549025263-0-1616174183-34-kisstv-b61cfce54694d8c5/digionline/kisstvhq.stream/chunklist.m3u8
+https://edge212.rcs-rds.ro/V5-7244821-7c622a41d874e0543ff5abf4b9bd36d3-1549025263-0-1616184699-34-kisstv-b61cfce54694d8c5/digionline/kisstvhq.stream/chunklist.m3u8
+#EXTINF:0, Music Channel
+https://edge210.rcs-rds.ro/V5-4245647-705b0279155a6b06c1d9ada25f3618ed-1549025263-0-1616184743-25-musicchannel-b61cfce54694d8c5/digionline/musicchannelhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
 https://edge214.rcs-rds.ro/V5-7975583-226bfbd93fea9c39fe859a9aedfda7c8-1549025263-0-1616174013-1-digisport1-b61cfce54694d8c5/digionline/digisport1hd.stream/chunklist.m3u8
