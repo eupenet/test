@@ -29,7 +29,7 @@ http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 https://edge213.rcs-rds.ro/V5-8985498-c901cf98bac900f95c7cd67ddc32e952-1549025263-0-1616174077-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
 #EXTINF:0, VH1
 https://edge212.rcs-rds.ro/V5-8533412-836399f9c30c22f70a9ca738dfecccb0-1549025263-0-1616174146-110-vh1-b61cfce54694d8c5/digionline/vh1hq.stream/chunklist.m3u8
-#EXTINF:0, VH1
+#EXTINF:0, Kiss TV
 https://edge212.rcs-rds.ro/V5-9147796-bd890474fedb11a8be8d70a9ff4538f0-1549025263-0-1616174183-34-kisstv-b61cfce54694d8c5/digionline/kisstvhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
