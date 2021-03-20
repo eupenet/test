@@ -21,27 +21,18 @@ https://edge210.rcs-rds.ro/V4-5904968-7aad3715d3464ee842ce777c007c76de-154902526
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge213.rcs-rds.ro/V5-4685712-71ddb36b3a40d853c1acff2d2e6defa9-1549025263-0-1616173996-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge214.rcs-rds.ro/V5-1307461-dc1e39cb957a12c2cbc40e4ef7ff444a-1549025263-0-1616233779-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
-https://edge211.rcs-rds.ro/V5-6455698-e2f0a67beaa5f496568fc75e83849ff1-1549025263-0-1616184669-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
-#EXTINF:0, UTV
-https://edge213.rcs-rds.ro/V5-7086995-214456fe2161d84954403dbaebd713e2-1549025263-0-1616184818-9-utv-b61cfce54694d8c5/digionline/utvhq.stream/chunklist.m3u8
-#EXTINF:0, Kiss TV
-https://edge212.rcs-rds.ro/V5-7244821-7c622a41d874e0543ff5abf4b9bd36d3-1549025263-0-1616184699-34-kisstv-b61cfce54694d8c5/digionline/kisstvhq.stream/chunklist.m3u8
-#EXTINF:0, Music Channel
-https://edge210.rcs-rds.ro/V5-4245647-705b0279155a6b06c1d9ada25f3618ed-1549025263-0-1616184743-25-musicchannel-b61cfce54694d8c5/digionline/musicchannelhq.stream/chunklist.m3u8
-
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
-https://edge214.rcs-rds.ro/V5-7975583-226bfbd93fea9c39fe859a9aedfda7c8-1549025263-0-1616174013-1-digisport1-b61cfce54694d8c5/digionline/digisport1hd.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V5-6224720-4b777a6f61255c87f2cbd0f3b73ffb2c-1549025263-0-1616233867-1-digisport1-b61cfce54694d8c5/digionline/digisport1hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-2_gomb52.png", DIGI sport 2
-https://edge212.rcs-rds.ro/V5-7778367-dec7734f4beaa4f205956a5105a20d13-1549025263-0-1616174029-2-digisport2-b61cfce54694d8c5/digionline/digisport2hd.stream/chunklist.m3u8
+https://edge214.rcs-rds.ro/V5-4453987-ad6b247e534761a1e487d7dc58b7650b-1549025263-0-1616233891-2-digisport2-b61cfce54694d8c5/digionline/digisport2hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-3_gomb52.png", DIGI sport 3
-https://edge214.rcs-rds.ro/V5-6372201-173c83da722a1d14e09c44dcc91e21b0-1549025263-0-1616174047-3-digisport3-b61cfce54694d8c5/digionline/digisport3hd.stream/chunklist.m3u8
+https://edge212.rcs-rds.ro/V5-3670263-737eb255c9e4ecf948bdd14717ddcda7-1549025263-0-1616233904-3-digisport3-b61cfce54694d8c5/digionline/digisport3hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png", DIGI sport 4
-https://edge214.rcs-rds.ro/V5-6719805-6f696226d7cb6a0d52f120ff80aac36a-1549025263-0-1616174058-49-digisport4-b61cfce54694d8c5/digionline/digisport4hd.stream/chunklist.m3u8
+https://edge214.rcs-rds.ro/V5-4700159-311b6f02b9eabdf2ecf4ce684b281b14-1549025263-0-1616233924-49-digisport4-b61cfce54694d8c5/digionline/digisport4hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -72,6 +63,15 @@ https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1612758557&wowzatokenhash=6Isd0wDo2P8MvVTSPLMBeaB7US1u2X7LbEW_aoUGl5A=&wowzatokenstarttime=1612715357
 #EXTINF:0 tvg-logo="https://wp14-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_216_c.png", Look Sport 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1612323181&wowzatokenhash=dHJVIhAflfjXwg25tgFnK25NoPPsBXwBd7hUdkmf9V0=&wowzatokenstarttime=1612279981
+
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
+https://edge214.rcs-rds.ro/V5-7041715-bb152bb1469f7c8302c126fae6b9c031-1549025263-0-1616233970-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.utv.ro/static/theme-repo/bin/images/footer/utv.png", UTV
+https://edge214.rcs-rds.ro/V4-1333094-3aa15bae042b775fb28c108434d9d56a-1549025263-0-1616234167-411-utv/utv/utv-abr.m3u8?quality=hq&t=00000000000000000000000000000000&t4=V4-1333094-3aa15bae042b775fb28c108434d9d56a-1549025263-0-1616234167-411-utv
+#EXTINF:0, Kiss TV
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
+#EXTINF:0, ZU TV
+https://ivm.antenaplay.ro/live/zurtv/playlist.m3u8?starttime=1616234321&endtime=1616241551&source=web&token=TOc_VIhE_PWpSfElzzyVPTW0ALA=
 
 #EXTINF:0, CBS Sports HQ
 https://dai.google.com/ssai/event/lKh5_XooSbam79G4T7KvYQ/master.m3u8?iu=/8264/vaw-can/desktop/cbs
