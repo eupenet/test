@@ -8,6 +8,8 @@ https://cmero-ott-live-sec.ssl.cdn.cra.cz/UzcapbmGxx2tRsqtR1SllA==,1616324615/ch
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Brand-0.png", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Brand-0.png", Prima TV
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1616372968&wowzatokenhash=YGnhCUDzdTXXHyxKQiMyj-7UPu90Vvs32GMDnIL08Wc=&wowzatokenstarttime=1616329768
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/1c/d3/58/1cd35875ae19d7e18197fd8fe1f5f6de.png", Kanal D
 https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:0 tvg-logo="http://tvr1.tvr.ro/images/logo_footer_tvr1.png", TVR 1
