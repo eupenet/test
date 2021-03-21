@@ -16,23 +16,23 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-9976735-06e15c991acaca677637c3e8216e2f74-1549025263-0-1616263286-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-8441390-022daab347e430b4917c3ac74aeabad7-1549025263-0-1616314989-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge210.rcs-rds.ro/V5-5792343-11807d70ada296b3721b3046c94df85c-1549025263-0-1616263307-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V5-9781137-de97786a1b41635b1d4f93924692f928-1549025263-0-1616315010-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
-https://edge210.rcs-rds.ro/V5-2020624-259805b06986b3b365dfe64608591356-1549025263-0-1616263323-1-digisport1-b61cfce54694d8c5/digionline/digisport1hd.stream/chunklist.m3u8
+https://edge212.rcs-rds.ro/V5-9072884-5d25eea388705887718757b029eb5b1c-1549025263-0-1616315032-1-digisport1-b61cfce54694d8c5/digionline/digisport1hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-2_gomb52.png", DIGI sport 2
-https://edge213.rcs-rds.ro/V5-2062040-caf133eaf1d2905ddd4583059cdbb22d-1549025263-0-1616263339-2-digisport2-b61cfce54694d8c5/digionline/digisport2hd.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V5-3204328-e6c9aee6bc7862cd7466d5ff62b6816d-1549025263-0-1616315048-2-digisport2-b61cfce54694d8c5/digionline/digisport2hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-3_gomb52.png", DIGI sport 3
-https://edge212.rcs-rds.ro/V5-2569349-9661934d4e83779ff759fc383d2a04ca-1549025263-0-1616263352-3-digisport3-b61cfce54694d8c5/digionline/digisport3hd.stream/chunklist.m3u8
+https://edge214.rcs-rds.ro/V5-4089590-ee6f4395219520bc82a0e225790fbd30-1549025263-0-1616315087-3-digisport3-b61cfce54694d8c5/digionline/digisport3hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png", DIGI sport 4
-https://edge213.rcs-rds.ro/V5-5145580-52e90336a20c6b28fea9a12aee40b18e-1549025263-0-1616263364-49-digisport4-b61cfce54694d8c5/digionline/digisport4hd.stream/chunklist.m3u8
+https://edge214.rcs-rds.ro/V5-6371797-7778f5a9b13c28c40098aed7ca2a687f-1549025263-0-1616315102-49-digisport4-b61cfce54694d8c5/digionline/digisport4hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -68,8 +68,6 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendti
 https://edge214.rcs-rds.ro/V5-7041715-bb152bb1469f7c8302c126fae6b9c031-1549025263-0-1616233970-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.utv.ro/static/theme-repo/bin/images/footer/utv.png", UTV
 https://edge214.rcs-rds.ro/V4-1333094-3aa15bae042b775fb28c108434d9d56a-1549025263-0-1616234167-411-utv/utv/utv-abr.m3u8?quality=hq&t=00000000000000000000000000000000&t4=V4-1333094-3aa15bae042b775fb28c108434d9d56a-1549025263-0-1616234167-411-utv
-#EXTINF:0, Kiss TV
-https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
 #EXTINF:0, ZU TV
 https://ivm.antenaplay.ro/live/zurtv/playlist.m3u8?starttime=1616234321&endtime=1616241551&source=web&token=TOc_VIhE_PWpSfElzzyVPTW0ALA=
 
