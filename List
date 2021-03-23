@@ -36,6 +36,8 @@ https://edge213.rcs-rds.ro/V5-5274463-98161ac3046e7d7bc78c979a1a75c11f-154902526
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-logo="https://www.rostclub.ro/images/publicitate-radio/europa-fm.png", Infomania
+https://europafm.ro/k7/podcast/infomania/2021.03.23-05.00.00-S.mp3
 
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png", PRO X
 https://cmero-ott-live-sec.ssl.cdn.cra.cz/FekrRYxxT_0oc_BUHZp21w==,1616324349/channels/cme-ro-prox/playlist.m3u8
