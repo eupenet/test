@@ -66,8 +66,10 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendti
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
 https://edge214.rcs-rds.ro/V5-7041715-bb152bb1469f7c8302c126fae6b9c031-1549025263-0-1616233970-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
-#EXTINF:0, ZU TV
+#EXTINF:0 tvg-logo="https://innadaily.files.wordpress.com/2010/08/radio_zu.jpg", Radio ZU
 https://ivm.antenaplay.ro/live/zurtv/playlist.m3u8?starttime=1616234321&endtime=1616241551&source=web&token=TOc_VIhE_PWpSfElzzyVPTW0ALA=
+#EXTINF:0 tvg-logo="https://tvmania.ro/wp-content/uploads/2014/04/ZUTV_logo_FullColor_4lightBACKGROUND.png", ZU TV
+https://ivm.antenaplay.ro/live/zutv/playlist.m3u8?starttime=1616478490&endtime=1616485720&source=web&token=WzQRuKiOXluFNKGYNqW_nFWk220=
 
 #EXTINF:0, CBS Sports HQ
 https://dai.google.com/ssai/event/lKh5_XooSbam79G4T7KvYQ/master.m3u8?iu=/8264/vaw-can/desktop/cbs
