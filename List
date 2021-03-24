@@ -32,7 +32,7 @@ https://edge212.rcs-rds.ro/V5-4219432-220e1cebedfb2857467e3258cd424363-154902526
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-3_gomb52.png", DIGI sport 3
 https://edge212.rcs-rds.ro/V5-1632108-f22db8e64556e33fe83f10b3209e845e-1549025263-0-1616569730-3-digisport3-b61cfce54694d8c5/digionline/digisport3hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png", DIGI sport 4
-https://edge211.rcs-rds.ro/V5-5045905-1bfb6d1818fa4679cf6033e10754f87f-1549025263-0-1616522179-49-digisport4-b61cfce54694d8c5/digionline/digisport4hd.stream/chunklist.m3u8
+https://edge212.rcs-rds.ro/V5-6893180-51ce020c7257177f035b007ec109d32b-1549025263-0-1616570006-49-digisport4-b61cfce54694d8c5/digionline/digisport4hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
