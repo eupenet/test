@@ -8,8 +8,6 @@ https://cmero-ott-live-sec.ssl.cdn.cra.cz/UGk1ObULSVibfaN--KNCFA==,1616861147/ch
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Brand-0.png", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
-#EXTINF:0, HBO
-http://185.2.82.97:14010/sop.ts#HBO
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/1c/d3/58/1cd35875ae19d7e18197fd8fe1f5f6de.png", Kanal D
 https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:0 tvg-logo="http://tvr1.tvr.ro/images/logo_footer_tvr1.png", TVR 1
@@ -41,8 +39,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png", PRO X
 https://cmero-ott-live-sec.ssl.cdn.cra.cz/YQnxaYyf75Ezca3P_P6ASQ==,1616861441/channels/cme-ro-prox/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/4LpVXgGh8_5AGnbjNkNpFA==,1616860998/channels/cme-ro-procinema/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
 https://cmero-ott-live-sec.ssl.cdn.cra.cz/4LpVXgGh8_5AGnbjNkNpFA==,1616860998/channels/cme-ro-procinema/playlist.m3u8
 
