@@ -3,7 +3,7 @@
 # ======================================== Principale ========================================
 # ============================================================================================
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png" group-title="Principale", PRO TV
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/UGk1ObULSVibfaN--KNCFA==,1616861147/channels/cme-ro-protv/playlist-live_lq-live_mq-live_hq.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/UGk1ObULSVibfaN--KNCFA==,1616861147/channels/cme-ro-protv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://a1.ro/templates/default/img/a1-logo.png", Antena 1
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Brand-0.png", Prima TV
@@ -40,9 +40,11 @@ https://edge210.rcs-rds.ro/V5-3022159-47c6b6078a9d075ca7b408531c01186a-154902526
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png", PRO X
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/YQnxaYyf75Ezca3P_P6ASQ==,1616861441/channels/cme-ro-prox/playlist-live_lq-live_mq-live_hq.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/YQnxaYyf75Ezca3P_P6ASQ==,1616861441/channels/cme-ro-prox/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/4LpVXgGh8_5AGnbjNkNpFA==,1616860998/channels/cme-ro-procinema/playlist-live_lq-live_mq-live_hq.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/4LpVXgGh8_5AGnbjNkNpFA==,1616860998/channels/cme-ro-procinema/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ba81cb4c-64dc-4f0f-ad35-43406f1580b0.png", PRO Cinema
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/4LpVXgGh8_5AGnbjNkNpFA==,1616860998/channels/cme-ro-procinema/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/Antena%20Stars_m.png", Antena Stars
 https://ivm.antenaplay.ro/live/astars/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
