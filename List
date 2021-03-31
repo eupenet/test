@@ -23,7 +23,7 @@ https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=157
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge214.rcs-rds.ro/V5-4484700-a1ddfe07e05e771ed7844689162827f6-1549025263-0-1617167305-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V5-9836343-1c15d09ee412bfe6e909eb44d65ffd96-1549025263-0-1617187080-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
 https://edge213.rcs-rds.ro/V5-6685029-24f67310b2367100934af30bdec01273-1549025263-0-1616997646-1-digisport1-b61cfce54694d8c5/digionline/digisport1hd.stream/chunklist.m3u8
