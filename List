@@ -56,9 +56,9 @@ https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
 http://5.2.155.213:1935/MetropolaTV/Metro/playlist.m3u8
 
 #EXTINF:0 tvg-id="LookPlus.ro" tvg-logo="https://wp15-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10179_c_853800d0a75e431835de0ee396e3f7ad.png", Look Sport +
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1616960517&wowzatokenhash=-SppRVq4ebWfyZf0GzrW4wDpwBlDed9MJkNA0yLiLUA=&wowzatokenstarttime=1616917317
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
 #EXTINF:0 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png", Look Sport
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1616959941&wowzatokenhash=lwadmCrwkjosbNsWGWJKuSy5735VnM3z6GDuardWkPg=&wowzatokenstarttime=1616916741
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1617596874&wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=&wowzatokenstarttime=1617553674
 #EXTINF:0 tvg-logo="https://wp14-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_215_c.png", Look Sport 2
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1616918728&wowzatokenhash=VSA7jv0u-Omn3CnlShcjJEklf8e2rR8jAQ8wwDG1_GY=&wowzatokenstarttime=1616879128
 #EXTINF:0 tvg-logo="https://wp14-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_216_c.png", Look Sport 3
