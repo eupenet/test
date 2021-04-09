@@ -16,14 +16,14 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge211.rcs-rds.ro/V4-8233880-e686c647e7f697ed5ad392e1ac2590d5-1549025263-0-1617948421-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-6086639-c09c6ca947a2d8dfda253e4bf0ec00b1-1549025263-0-1617985149-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge213.rcs-rds.ro/V5-1676191-b6195799068529e88b96426181573b03-1549025263-0-1617948462-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge214.rcs-rds.ro/V5-4769958-e4d73e3595384f4fea1572eca0dbb58b-1549025263-0-1617985180-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
 https://edge213.rcs-rds.ro/V5-6685029-24f67310b2367100934af30bdec01273-1549025263-0-1616997646-1-digisport1-b61cfce54694d8c5/digionline/digisport1hd.stream/chunklist.m3u8
@@ -65,13 +65,13 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendti
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
-https://edge214.rcs-rds.ro/V5-5282461-0b17174b77e76e8d6041611e71bbb36f-1549025263-0-1617473558-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V5-5767017-97e1cb80da3bcb9ba704eeaa3ee54456-1549025263-0-1617985216-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://innadaily.files.wordpress.com/2010/08/radio_zu.jpg", Radio ZU
 https://ivm.antenaplay.ro/live/zurtv/playlist.m3u8?starttime=1616234321&endtime=1616241551&source=web&token=TOc_VIhE_PWpSfElzzyVPTW0ALA=
 #EXTINF:0 tvg-logo="https://tvmania.ro/wp-content/uploads/2014/04/ZUTV_logo_FullColor_4lightBACKGROUND.png", ZU TV
 https://ivm.antenaplay.ro/live/zutv/playlist.m3u8?starttime=1616478490&endtime=1616485720&source=web&token=WzQRuKiOXluFNKGYNqW_nFWk220=
 #EXTINF:0, Kiss TV
-https://edge212.rcs-rds.ro/V5-9525754-f2e3cbaba19a8750b7ef6cbf3d7c150e-1549025263-0-1617473576-34-kisstv-b61cfce54694d8c5/digionline/kisstvhq.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V5-7472862-e05c6d0e6ab00dd44e3c15b3ce1e82c2-1549025263-0-1617985245-34-kisstv-b61cfce54694d8c5/digionline/kisstvhq.stream/chunklist.m3u8
 
 #EXTINF:0, CBS Sports HQ
 https://dai.google.com/ssai/event/lKh5_XooSbam79G4T7KvYQ/master.m3u8?iu=/8264/vaw-can/desktop/cbs
