@@ -16,23 +16,14 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-4467215-cefaa26adeb3949ec6c692f04455cfbd-1549025263-0-1618730607-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-9125748-9f0b714b2d00ba13af0efbe942bf23d8-1549025263-0-1618751940-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge211.rcs-rds.ro/V5-4171772-f83058e2a5dfd5cb819ad4c87dbf0733-1549025263-0-1618730584-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
-
-#EXTINF:0 tvg-id="BNT1.bg", БНТ 1
-http://xdkj.jzswvqfv.xyz:8880/tv/bnt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDk6MjU6NTMgQU0maGFzaF92YWx1ZT14TDdBL3dyR04zZVdYZUtYVzQvQ25nPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:0 tvg-id="bTV.bg", bTV
-http://xdkj.jzswvqfv.xyz:8880/tv/btv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDk6MzI6MDggQU0maGFzaF92YWx1ZT13cXIrTGs4dnFuNlBkTmcwSEdWVHRnPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:0 tvg-id="NOVA.bg", Nova TV
-http://cdn.adultiptv.net/teen.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDk6NDM6NTAgQU0maGFzaF92YWx1ZT1DdUp4ZGduQnhrOHpWNmJiY090eUVBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:0 tvg-id="NOVAsport.bg", NOVA sport
-http://cdn.adultiptv.net/russian.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDk6NDQ6MTkgQU0maGFzaF92YWx1ZT1ObzlpOXBLUCtJYStRVmFrVnZWZFBRPT0mdmFsaWRtaW51dGVzPTYw
+https://edge212.rcs-rds.ro/V5-9312471-b15d793862e99d9107474ef303a4ab63-1549025263-0-1618751972-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
 https://edge213.rcs-rds.ro/V5-6685029-24f67310b2367100934af30bdec01273-1549025263-0-1616997646-1-digisport1-b61cfce54694d8c5/digionline/digisport1hd.stream/chunklist.m3u8
