@@ -29,6 +29,10 @@ https://edge211.rcs-rds.ro/V5-4171772-f83058e2a5dfd5cb819ad4c87dbf0733-154902526
 http://xdkj.jzswvqfv.xyz:8880/tv/bnt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDk6MjU6NTMgQU0maGFzaF92YWx1ZT14TDdBL3dyR04zZVdYZUtYVzQvQ25nPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:0 tvg-id="bTV.bg", bTV
 http://xdkj.jzswvqfv.xyz:8880/tv/btv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDk6MzI6MDggQU0maGFzaF92YWx1ZT13cXIrTGs4dnFuNlBkTmcwSEdWVHRnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:0 tvg-id="NOVA.bg", Nova TV
+http://cdn.adultiptv.net/teen.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDk6NDM6NTAgQU0maGFzaF92YWx1ZT1DdUp4ZGduQnhrOHpWNmJiY090eUVBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:0 tvg-id="NOVAsport.bg", NOVA sport
+http://cdn.adultiptv.net/russian.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDk6NDQ6MTkgQU0maGFzaF92YWx1ZT1ObzlpOXBLUCtJYStRVmFrVnZWZFBRPT0mdmFsaWRtaW51dGVzPTYw
 
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
 https://edge213.rcs-rds.ro/V5-6685029-24f67310b2367100934af30bdec01273-1549025263-0-1616997646-1-digisport1-b61cfce54694d8c5/digionline/digisport1hd.stream/chunklist.m3u8
