@@ -25,6 +25,11 @@ http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
 https://edge211.rcs-rds.ro/V5-4171772-f83058e2a5dfd5cb819ad4c87dbf0733-1549025263-0-1618730584-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
+#EXTINF:0 tvg-id="BNT1.bg", БНТ 1
+http://xdkj.jzswvqfv.xyz:8880/tv/bnt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDk6MjU6NTMgQU0maGFzaF92YWx1ZT14TDdBL3dyR04zZVdYZUtYVzQvQ25nPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:0 tvg-id="bTV.bg", bTV
+http://xdkj.jzswvqfv.xyz:8880/tv/btv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDk6MzI6MDggQU0maGFzaF92YWx1ZT13cXIrTGs4dnFuNlBkTmcwSEdWVHRnPT0mdmFsaWRtaW51dGVzPTYw
+
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png", DIGI sport 1
 https://edge213.rcs-rds.ro/V5-6685029-24f67310b2367100934af30bdec01273-1549025263-0-1616997646-1-digisport1-b61cfce54694d8c5/digionline/digisport1hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-2_gomb52.png", DIGI sport 2
