@@ -6,7 +6,7 @@
 https://cmero-ott-live-sec.ssl.cdn.cra.cz/FiqtxgWkq6emLgZYuER_mw==,1617562421/channels/cme-ro-protv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://a1.ro/templates/default/img/a1-logo.png", Antena 1
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?starttime=1571159558&endtime=1571166788&source=web&token=XEispi1aE6wWfoifc8GWqY3HAFY=
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Brand-0.png", Prima TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/559px-Prima_TV_%28Rumaenien%29_Logo.svg.png", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/1c/d3/58/1cd35875ae19d7e18197fd8fe1f5f6de.png", Kanal D
 https://stream1.kanald.ro/iphone/live.m3u8
@@ -57,7 +57,7 @@ https://edge213.rcs-rds.ro/V5-8530065-b42b331a09700a256d81375ba1bc6ffe-154902526
 #EXTINF:0 tvg-logo="http://www.digisport.hu/images/style/digisport-3_gomb52.png", DIGI sport 3
 https://edge212.rcs-rds.ro/V5-9985143-b03f98b9b0192b770e2586711f0ef5f2-1549025263-0-1616997576-3-digisport3-b61cfce54694d8c5/digionline/digisport3hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png", DIGI sport 4
-https://edge212.rcs-rds.ro/V5-5096370-995e53181dc72873e0dfb07e09fd625f-1549025263-0-1616997542-49-digisport4-b61cfce54694d8c5/digionline/digisport4hd.stream/chunklist.m3u8
+https://vod1ag.antenaplay.ro/antena3/2021/04/22/18dd1d4dd840251cf4dc1507a42060ee80a5303377407036d62add4d79f4ed48_,360p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1619071422&endtime=1619078622&source=web&token=7iph3kr0m8QBb3Nayr2uSq2XrAY=
 
 #EXTINF:0 tvg-id="LookPlus.ro" tvg-logo="https://wp15-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10179_c_853800d0a75e431835de0ee396e3f7ad.png", Look Sport +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
