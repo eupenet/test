@@ -69,9 +69,9 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendti
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
-https://edge213.rcs-rds.ro/V5-6753686-fae67d8e68883aaa951f8d7dd0cf2141-1549025263-0-1618003039-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V5-1822371-81322905ac53fd85fff4ccd16f83ee6c-1549025263-0-1620452692-29-b1tv-b61cfce54694d8c5/digionline/b1tvhq.stream/chunklist.m3u8
 #EXTINF:0, Kiss TV
-https://edge214.rcs-rds.ro/V5-8055278-96807398d135c2a3b99765c02a86db46-1549025263-0-1618003013-34-kisstv-b61cfce54694d8c5/digionline/kisstvhq.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V5-1822371-81322905ac53fd85fff4ccd16f83ee6c-1549025263-0-1620452692-29-b1tv-b61cfce54694d8c5/digionline/b1tvhd.stream/chunklist.m3u8
 
 #EXTINF:0, CBS Sports HQ
 https://dai.google.com/ssai/event/lKh5_XooSbam79G4T7KvYQ/master.m3u8?iu=/8264/vaw-can/desktop/cbs
