@@ -3,7 +3,9 @@
 # ======================================== Principale ========================================
 # ============================================================================================
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png" group-title="Principale", PRO TV
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/gt03sBwx3h-kUMJ_ENlvmA==,1620563225/channels/cme-ro-protv/playlist.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/Y1pa97bxBN7kbP-69qxA8A==,1622670859/channels/cme-ro-protv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png", PRO TV
+https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/Y1pa97bxBN7kbP-69qxA8A==,1622670859/channels/cme-ro-protv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://a1.ro/templates/default/img/a1-logo.png", Antena 1
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?starttime=1620367536&endtime=1620381966&source=web&token=-UdSsyHsAQjK8v6kyTGFfqcjqEQ=
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/559px-Prima_TV_%28Rumaenien%29_Logo.svg.png", Prima TV
