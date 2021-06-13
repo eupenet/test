@@ -15,6 +15,9 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 #EXTINF:0 tvg-logo="https://www.b1.ro/static/images/b1.jpg", B1 TV
 https://stream.adunity.com/b1/b1.m3u8
 
+#EXTINF:0, ESPN HD
+https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/master.m3u8
+
 #EXTINF:0, DIGI 24 HD
 https://edge210.rcs-rds.ro/V4-6491377-144cb00aeacbcd8cbafc96caa9a6ad24-1549025263-0-1623489729-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
