@@ -28,6 +28,12 @@ https://edge214.rcs-rds.ro/V5-7809306-c581732961647a4f726423604f8e39fc-154902526
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:0 tvg-id="ESPN.us", ESPN
+http://stream2.grandma.fit/fs2.m3u8
+
+#EXTINF:0 tvg-id="ESPN.us", ABC
+http://showsport.xyz/hls/abc.m3u8
+
 #EXTINF:0 tvg-logo="http://www.tvr.ro/images/logo_stations_tvr2.png", TVR 2
 https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
 #EXTINF:0 tvg-logo="http://www.tvr.ro/images/logo_stations_tvr3.png", TVR 3
