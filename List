@@ -29,8 +29,6 @@ https://edge214.rcs-rds.ro/V5-7809306-c581732961647a4f726423604f8e39fc-154902526
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
-#EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
-https://hls.ustream.to/Fox-News.m3u8?token=ac1-51e-324-d57-9f7-a3e-b04-a0a-485-719-5f5-968-5dc-467-e80-74e-fc2-8ff-803-e97-eba-f
 
 #EXTINF:0 tvg-id="ESPNHD.us", ESPN
 http://stream2.grandma.fit/fs2.m3u8
@@ -39,11 +37,6 @@ http://164.68.124.111/espn2.m3u8?token=null
 
 #EXTINF:0 tvg-id="WABCNewYorkABCEast.us", ABC
 http://showsport.xyz/hls/abc.m3u8
-
-#EXTINF:0 tvg-id="OANN.us", OANN
-https://nl1.streamlive.to:456/freeabr/rp7d85bkdndqqeh/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDIxIDE6MzE6MjYgUE0maGFzaF92YWx1ZT1uS1BNbWFRbXFjQXYwMlVMUmlUUlFnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjMmaWQ9NTg2MzI1
-#EXTINF:0 tvg-id="TCM.us", TCM
-https://nl1.streamlive.to:456/freeabr/6pwark0f2or1ofb/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDIxIDE6Mjc6MzkgUE0maGFzaF92YWx1ZT1aMGUvL1lSMStrNm5obkhuZXRYcU5BPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjMmaWQ9NjUyNjQ=
 
 #EXTINF:0 tvg-logo="http://www.tvr.ro/images/logo_stations_tvr2.png", TVR 2
 https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
