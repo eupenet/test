@@ -27,6 +27,10 @@ https://edge214.rcs-rds.ro/V5-7809306-c581732961647a4f726423604f8e39fc-154902526
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
+https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
+#EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
+https://hls.ustream.to/Fox-News.m3u8?token=ac1-51e-324-d57-9f7-a3e-b04-a0a-485-719-5f5-968-5dc-467-e80-74e-fc2-8ff-803-e97-eba-f
 
 #EXTINF:0 tvg-id="ESPNHD.us", ESPN
 http://stream2.grandma.fit/fs2.m3u8
