@@ -31,9 +31,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:0 tvg-id="ESPNHD.us", ESPN
 http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:0 tvg-id="ESPN2.us", ESPN 2
-http://ec.findsports.stream/srv/espn2.m3u8
-#EXTINF:0 tvg-id="YESHD.us", YES
-http://yoursports.stream/hls/yes.m3u8
+http://e10.cdnfoxtv.me/ingestnb4s/espn2_usa/master.m3u8
 
 #EXTINF:0 tvg-id="WABCNewYorkABCEast.us", ABC
 http://showsport.xyz/hls/abc.m3u8
