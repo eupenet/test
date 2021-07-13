@@ -38,7 +38,7 @@ http://stream2.grandma.fit/fs2.m3u8
 http://164.68.124.111/espn2.m3u8?token=null
 
 #EXTINF:0 tvg-id="HBOEast.us", HBO
-https://tinyurl.com/yf6scttm
+https://hls.ustream.to/HBO-USA-HD.m3u8?token=89d-0b4-c10-c09-c41-160-949-060-e8a-5ea-39f-768-291-6d6-599-4fb-0fc-6de-d08-5de-64d-c
 
 
 #EXTINF:0, CBS Sports HQ
