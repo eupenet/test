@@ -40,6 +40,8 @@ http://164.68.124.111/espn2.m3u8?token=null
 #EXTINF:0 tvg-id="HBO2East.us", HBO 2
 http://stream.tvtap.live:8081/live/us-hbo.stream/playlist.m3u8
 #EXTINF:0 tvg-id="HBOEast.us", HBO
+https://hls.ustream.to/HBO-USA-HD.m3u8?token=eec-02e-50a-cc0-e11-1e8-e6e-a17-9ec-d21-b61-c57-2d9-4b0-93d-fe0-516-db1-651-c3b-ad7-e
+#EXTINF:0 tvg-id="HBOEast.us", HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 
