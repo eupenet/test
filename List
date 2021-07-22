@@ -47,6 +47,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:0, CBS Sports HQ
 https://dai.google.com/ssai/event/lKh5_XooSbam79G4T7KvYQ/master.m3u8?iu=/8264/vaw-can/desktop/cbs
+#EXTINF:0, NBCSN
+https://sprtlive25.akamaized.net/hls/live/586442/NBCOlympicsebb2b08f/clear-1/master.m3u8?hdnts=st=1626936417~exp=1626936537~acl=/hls/live/586442/NBCOlympicsebb2b08f/clear-1/*~hmac=17937a364c105ff622d8e9e2dc6809cadccad31b38d705fbd1012dd61209f0ae
+#EXTINF:0, NBC Olympics
+https://sprtlive31.akamaized.net/hls/live/586451/NBCOlympics68f53d93/clear-1/master.m3u8?hdnts=st=1626936351~exp=1626936471~acl=/hls/live/586451/NBCOlympics68f53d93/clear-1/*~hmac=fdfbe83d40d08b8e30c68b7847d54483aefedc3f83972fc066db2ad0272d0aae
 
 #EXTINF:0 tvg-logo="http://www.tvr.ro/images/logo_stations_tvr2.png", TVR 2
 https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
