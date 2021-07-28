@@ -14,7 +14,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge211.rcs-rds.ro/V4-2554792-4a1adfb88c7ffa986ae8b185d52065e0-1835124042-0-1627402893-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-6688471-22792db173039f2aaaffb4696b5cabf6-1835124042-0-1627457612-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1620335596&endtime=1620350026&source=web&token=WK8ORNQdK5zBLHJFn-8CwHmKWhg=
@@ -23,10 +23,10 @@ http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
 https://edge212.rcs-rds.ro/V5-9430952-4f3b4aaed5fbc3ce8588e536ba6b0158-1835124042-0-1627402925-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
-#EXTINF:0, Eurosport
-https://edge24.rcs-rds.ro/V5-3206919-e3ef8b361831c88ed199262420587854-1835124042-0-1627402939-31-eurosport-b61cfce54694d8c5/digionline/eurosporthd.stream/chunklist.m3u8
+#EXTINF:0, Eurosport 1
+https://edge74.rcs-rds.ro/V5-9577930-891dc138bb1197c63ebff307d170d76c-1835124042-0-1627457997-31-eurosport-b61cfce54694d8c5/digionline/eurosporthd.stream/chunklist.m3u8
 #EXTINF:0, Eurosport 2
-https://edge213.rcs-rds.ro/V5-1729811-a18d1a6b89d16f9baa0fb3df2115afe9-1835124042-0-1627402954-32-eurosport2-b61cfce54694d8c5/digionline/eurosport2hd.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V5-6707935-306f99c9e93eb5a9fbd4900fcdda359b-1835124042-0-1627458017-32-eurosport2-b61cfce54694d8c5/digionline/eurosport2hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
