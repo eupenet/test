@@ -14,37 +14,24 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge211.rcs-rds.ro/V4-8714491-e693c69728b3a2ec71611c6f35e5ad94-1835124042-0-1628195090-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-1149398-19ef0f4051a2db5e00ed5831e5faf3a0-1835124042-0-1628436318-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1620335596&endtime=1620350026&source=web&token=WK8ORNQdK5zBLHJFn-8CwHmKWhg=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge213.rcs-rds.ro/V5-1061168-1c95a02ec14fb3520f30497f5d2b0c64-1835124042-0-1627485647-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
-
-#EXTINF:0, Eurosport 1
-https://edge24.rcs-rds.ro/V5-4569171-248e15460e1241e83331d8aa09e85bc8-1835124042-0-1627485656-31-eurosport-b61cfce54694d8c5/digionline/eurosporthd.stream/chunklist.m3u8
-#EXTINF:0, Eurosport 2
-https://edge210.rcs-rds.ro/V5-3458946-3906bf9e4f844609b8c3bb69b91d1de1-1835124042-0-1627485674-32-eurosport2-b61cfce54694d8c5/digionline/eurosport2hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V5-8956577-75a51dfe9f143dbd8f559c5485b78e11-1835124042-0-1628436341-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
-
 #EXTINF:0, ABC
 http://showsport.xyz/hls/abc.m3u8
-#EXTINF:0 tvg-id="ESPNHD.us", ESPN
-http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:0 tvg-id="ESPN2.us", ESPN 2
-http://164.68.124.111/espn2.m3u8?token=null
 
 #EXTINF:0, CBS Sports HQ
 https://dai.google.com/ssai/event/lKh5_XooSbam79G4T7KvYQ/master.m3u8?iu=/8264/vaw-can/desktop/cbs
-
-#EXTINF:0, HBO
-https://srv.tvhd-online.com:2083/live/bqwuq2hSaU/7ejDMeEkQE/40.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tvr.ro/images/logo_stations_tvr2.png", TVR 2
 https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
