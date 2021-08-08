@@ -7,7 +7,7 @@ https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/vxdn9EE6drZzYBzfXkwapQ==,1625
 #EXTINF:0 tvg-logo="https://a1.ro/templates/default/img/a1-logo.png", Antena 1
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?starttime=1620367536&endtime=1620381966&source=web&token=-UdSsyHsAQjK8v6kyTGFfqcjqEQ=
 #EXTINF:0 tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primatv.png", Prima TV
-https://clever-live1ro.deja.media/prima/prima_1500k.m3u8?from=1628439153&to=1628442020&session=eJVhUW8eMwaXsdGF&source=cms&token=K81SOjbov4mOWoUBviPgfl7E3kQ=
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
 #EXTINF:0 tvg-logo="http://tvr1.tvr.ro/images/logo_footer_tvr1.png", TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/13/B1_logo_2021.png", B1 TV
@@ -82,7 +82,5 @@ https://edge213.rcs-rds.ro/V5-6685029-24f67310b2367100934af30bdec01273-154902526
 https://edge212.rcs-rds.ro/V5-1454474-8b545009dbb7d45d17ee6dbd7e1b1324-1549025263-0-1620711717-29-b1tv-b61cfce54694d8c5/digionline/b1tvhq.stream/chunklist.m3u8
 #EXTINF:0, Kiss TV
 https://edge212.rcs-rds.ro/V5-1454474-8b545009dbb7d45d17ee6dbd7e1b1324-1549025263-0-1620711717-29-b1tv-b61cfce54694d8c5/digionline/b1tvhq.stream/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/559px-Prima_TV_%28Rumaenien%29_Logo.svg.png", Prima TV
-https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/559px-Prima_TV_%28Rumaenien%29_Logo.svg.png", Prima TV
-https://clever-live1ro.deja.media/prima/prima_2600k.m3u8?from=1628439153&to=1628442020&session=eJVhUW8eMwaXsdGF&source=cms&token=K81SOjbov4mOWoUBviPgfl7E3kQ=
+#EXTINF:0 tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primatv.png", Prima TV
+https://clever-live1ro.deja.media/prima/prima_1500k.m3u8?from=1628439153&to=1628442020&session=eJVhUW8eMwaXsdGF&source=cms&token=K81SOjbov4mOWoUBviPgfl7E3kQ=
