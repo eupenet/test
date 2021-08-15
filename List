@@ -41,6 +41,8 @@ https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
 https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/1c/d3/58/1cd35875ae19d7e18197fd8fe1f5f6de.png", Kanal D
 https://stream1.kanald.ro/iphone/live.m3u8
+#EXTINF:0 tvg-logo="https://wp7-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10010_c_04c0d5a5d609f78a67a9a6774c442ffc.png", Prima TV
+https://media.primaplay.ro/live/prima/playlist.m3u8?from=1629016099&to=1629016220&session=70YWLRMWEGJLsaOE&source=cms&token=a3RGBLEN4WsZgk9_sEnAc5WBV_4=
 #EXTINF:0 tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/Antena%20Stars_m.png", Antena Stars
 https://ivm.antenaplay.ro/live/astars/playlist.m3u8?starttime=1620367701&endtime=1620382131&source=web&token=YM_FvpWdTqPYmJ2y5DP7whQsHi0=
 #EXTINF:0 tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/Happy%20Channel_m.png", Happy Channel
