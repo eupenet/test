@@ -30,9 +30,6 @@ https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:0, ABC
 http://showsport.xyz/hls/abc.m3u8
 
-#EXTINF:0, CBS Sports HQ
-https://dai.google.com/ssai/event/lKh5_XooSbam79G4T7KvYQ/master.m3u8?iu=/8264/vaw-can/desktop/cbs
-
 #EXTINF:0 tvg-logo="http://www.tvr.ro/images/logo_stations_tvr2.png", TVR 2
 https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
 #EXTINF:0 tvg-logo="http://www.tvr.ro/images/logo_stations_tvr3.png", TVR 3
@@ -80,9 +77,10 @@ https://edge213.rcs-rds.ro/V5-6685029-24f67310b2367100934af30bdec01273-154902526
 #EXTINF:0 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png", DIGI sport 4
 https://edge213.rcs-rds.ro/V5-6685029-24f67310b2367100934af30bdec01273-1549025263-0-1616997646-4-digisport4-b61cfce54694d8c5/digionline/digisport4hd.stream/chunklist.m3u8
 
+#EXTINF:0, CBS Sports HQ
+https://dai.google.com/ssai/event/lKh5_XooSbam79G4T7KvYQ/master.m3u8?iu=/8264/vaw-can/desktop/cbs
+
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
 https://edge212.rcs-rds.ro/V5-1454474-8b545009dbb7d45d17ee6dbd7e1b1324-1549025263-0-1620711717-29-b1tv-b61cfce54694d8c5/digionline/b1tvhq.stream/chunklist.m3u8
 #EXTINF:0, Kiss TV
 https://edge212.rcs-rds.ro/V5-1454474-8b545009dbb7d45d17ee6dbd7e1b1324-1549025263-0-1620711717-29-b1tv-b61cfce54694d8c5/digionline/b1tvhq.stream/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primatv.png", Prima TV
-https://clever-live1ro.deja.media/prima/prima_1500k.m3u8?from=1628439153&to=1628442020&session=eJVhUW8eMwaXsdGF&source=cms&token=K81SOjbov4mOWoUBviPgfl7E3kQ=
