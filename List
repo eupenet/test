@@ -76,6 +76,8 @@ https://cmero-ott-live-sec.ssl.cdn.cra.cz/xHSyy_gI3h8Nxjvv4_5Few==,1620551037/ch
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/1c/d3/58/1cd35875ae19d7e18197fd8fe1f5f6de.png", Kanal D
 https://stream1.kanald.ro/iphone/live.m3u8
 
+#EXTINF:0 tvg-logo="https://radiogoldfm.ro/wp-content/uploads/2021/04/logo2.png", Gold FM
+https://live.radiogoldfm.ro:8443/WP.mp3
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
 https://edge212.rcs-rds.ro/V5-1454474-8b545009dbb7d45d17ee6dbd7e1b1324-1549025263-0-1620711717-29-b1tv-b61cfce54694d8c5/digionline/b1tvhq.stream/chunklist.m3u8
 #EXTINF:0, Kiss TV
