@@ -30,7 +30,7 @@ https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:0, ABC
 http://showsport.xyz/hls/abc.m3u8
 #EXTINF:0, ABC
-https://h1.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDM6MDI6MjMgUE0maGFzaF92YWx1ZT1TYUh4UHVFZ2d1c25TcDVHNTVmMi9RPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h1.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjEgMTE6MDQ6NDggQU0maGFzaF92YWx1ZT1aOVBseTFPY2V0SlkweTA0aGFlMFp3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-logo="https://img.onesignal.com/permanent/f6e24035-95c9-4a53-832f-63aadd2edeb4.png", Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
