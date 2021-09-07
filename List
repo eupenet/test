@@ -28,7 +28,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:0, ABC
-https://h3.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjEgNzozMjozMSBBTSZoYXNoX3ZhbHVlPTVIVFdPQitxR3ZHMHVBNlZ5elRmL3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h3.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjEgMzo0MzozMyBQTSZoYXNoX3ZhbHVlPXNjanFGVkMzTGJRaHYybytVSWpTNkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:0 tvg-logo="https://img.onesignal.com/permanent/f6e24035-95c9-4a53-832f-63aadd2edeb4.png", Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
