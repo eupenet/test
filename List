@@ -14,21 +14,23 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-3932910-6d8f6ebcd37bf71fb326521dc1daa8b1-1835124042-0-1631370885-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-3626491-acc8aa00a28823d905880c598d9cf7f7-1835124042-0-1631475345-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1620335596&endtime=1620350026&source=web&token=WK8ORNQdK5zBLHJFn-8CwHmKWhg=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge213.rcs-rds.ro/V5-9036778-bf3c4b05c65ce03904037db4379dfb18-1835124042-0-1631370893-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V5-6565383-13ef798028db00484c69aef0050cc12e-1835124042-0-1631475331-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:0, ABC
-https://h1.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIxIDI6Mjk6MDEgUE0maGFzaF92YWx1ZT1oamZBa2VpeHR5c0IwODZCUU9Rb1NBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h2.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIxIDc6Mjk6MjEgUE0maGFzaF92YWx1ZT1oSHI4ZW9NQ1RVZzJJcXBBakJCYzlRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:0, NFL Red Zone
+http://streaming-cdn-5.sp0n.io/live/rdz/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://alephnews.ro/wp-content/themes/aleph-news/img/logo-alephnews-vertical.png", Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
