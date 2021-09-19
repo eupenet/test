@@ -21,7 +21,7 @@ https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1620335596&endtime=162
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=TtTO9JeNHTrotFjDGRNG&starttime=1631981149&endtime=1631995579&source=web&token=zMezsDq4CjhwkQMMrmtddDPbY2c=
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
-https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1631981149&endtime=1631995579&source=web&token=zMezsDq4CjhwkQMMrmtddDPbY2c=
+https://ivm.antenaplay.ro/live/a3free/playlist.m3u8?version=1&session=fdf0a3dff89f68ec20d6&free=1&starttime=1632048558&endtime=1632062988&source=a3web&token=ZFHZ7g0Ng6zLdTCZUtCjFwPiBBY=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
