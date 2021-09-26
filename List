@@ -14,23 +14,23 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-1672840-c0d7bac67abe9e6936df5e782ddca5e9-1835124042-0-1632648344-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-8037272-8b46f3dff3f8c0a9f0bb906cb03acbbb-1835124042-0-1632678435-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?starttime=1620335596&endtime=1620350026&source=web&token=WK8ORNQdK5zBLHJFn-8CwHmKWhg=
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
-https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=2yGsgwnaU4uKK8gvF8mQ&starttime=1632648421&endtime=1632662851&source=web&token=Up-JbO5BpHPf7tin_ONCg2qv_yA=
+https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=W3oSsyRAcWpVzjZ5ATqX&starttime=1632678442&endtime=1632692872&source=web&token=JF1ikPk096QuFQS9iJseTpu4ggw=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge210.rcs-rds.ro/V5-3809694-1004504f8a92da870352f78172fe9390-1835124042-0-1632648381-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V5-6892491-a0f00fc289a320199a9c517855a4bdfd-1835124042-0-1632678443-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:0, ABC
-https://h2.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDIxIDk6MjA6NTkgQU0maGFzaF92YWx1ZT1Hc0c3MmdDek50ZU5qY2FXdCsrZGtRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h1.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDIxIDU6NDE6MTggUE0maGFzaF92YWx1ZT1acG95NTFvWHFUK21XWVhkQW92bzRRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-logo="https://alephnews.ro/wp-content/themes/aleph-news/img/logo-alephnews-vertical.png", Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
@@ -71,6 +71,8 @@ https://edge213.rcs-rds.ro/V5-6685029-24f67310b2367100934af30bdec01273-154902526
 https://dai.google.com/ssai/event/lKh5_XooSbam79G4T7KvYQ/master.m3u8?iu=/8264/vaw-can/desktop/cbs
 #EXTINF:0, ABC
 http://showsport.xyz/hls/abc.m3u8
+#EXTINF:0, CBS
+https://h1.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDIxIDU6NDE6MzUgUE0maGFzaF92YWx1ZT1UbU9wRUdaeDBhenpNTENMSzJhM2F3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-logo="https://innadaily.files.wordpress.com/2010/08/radio_zu.jpg", Radio ZU
 https://ivm.antenaplay.ro/live/zurtv/playlist.m3u8?starttime=1620368450&endtime=1620375680&source=web&token=DlZaIsIh1uDB6pxGdsrQTeGdRv8=
