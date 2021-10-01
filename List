@@ -14,23 +14,23 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-9905950-c4d1fe8e2f3f11f13f98916ceea59836-1835124042-0-1633023996-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-5293780-73ae0e1be4e12c214c599718c867c104-1835124042-0-1633071634-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
-https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=hUCJq0Sm60US5I48UwcK&starttime=1633023996&endtime=1633038426&source=web&token=brmotaZJw60F5NxuiVOTrxduz_4=
+https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=kXuWZQMlq0Taww1WbA9T&starttime=1633071637&endtime=1633086067&source=web&token=GY9yLQEtub2a9QsHx4BJjvcHBP4=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge213.rcs-rds.ro/V5-4647844-a9d5f3e9e803d226d5f62d3556b06890-1835124042-0-1633023944-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V5-1213964-57f8a09b5ca013e7b7dcd4e51e92a369-1835124042-0-1633071612-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:0, ABC
-https://h4.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIxIDU6NDA6MzQgUE0maGFzaF92YWx1ZT1Cc045NTVNVk5KVCtUNXVVNER4ZVFRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h2.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDY6NTQ6MzcgQU0maGFzaF92YWx1ZT03K1VTcEJTVGc5RzhNK0VsUW9CY3h3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0, CBS
-https://h2.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIxIDU6NDA6NTggUE0maGFzaF92YWx1ZT1HaEkvSWM2NGZ2SDI1b3JldnRvWHVnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDY6NTU6MDAgQU0maGFzaF92YWx1ZT1kNlQyaXgxNzd1MkoxZ3JXWFpVS2xnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:0 tvg-logo="https://alephnews.ro/wp-content/themes/aleph-news/img/logo-alephnews-vertical.png", Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
