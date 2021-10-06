@@ -14,21 +14,21 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge211.rcs-rds.ro/V4-6880758-c03693c4b49b0cb0c5692142bf1f8ac5-1835124042-0-1633456123-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-1916290-8602b02850c5bd1c90d797444df41cd2-1835124042-0-1633533832-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
-https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=wcR9eTx4tjGO8mOJb3Nf&starttime=1633456130&endtime=1633470560&source=web&token=wo59PZREyWweLexjgMLlMBkNT4c=
+https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=NlNOD8EDFjQ3IhgIMjsv&starttime=1633533868&endtime=1633548298&source=web&token=FiPAFFQX0w6RGDNG55677KbKPhM=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge213.rcs-rds.ro/V5-1455709-7c676c422f6b096ab78dfbe438acc0f2-1835124042-0-1633456142-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V5-1687543-e91fffa633ba7ee281fef00adc20d2cf-1835124042-0-1633533859-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:0, ABC
-https://h3.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIxIDU6NTk6NTggQU0maGFzaF92YWx1ZT1WaDZ0NjR2VzNVTlQyNHJLQ0Y5TjVRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIxIDM6MTg6MDIgUE0maGFzaF92YWx1ZT1COG02Z2VGM0hoN2lNT1VCZWJ0YmNRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0, CBS
 https://h3.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIxIDY6MDA6MTUgQU0maGFzaF92YWx1ZT13OTR2T2N3SEVKTmRDWnp3b3lSSHVnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
