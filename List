@@ -8,20 +8,22 @@ https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/cpIuus6ZpWsaJj2ygsa8PQ==,1629
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?version=1&session=z5ClOdkRMx3edG33sRXG&starttime=1632151469&endtime=1632165899&source=web&token=QK_FEKJizzfp8LIi2w3_0-dHGs0=
 #EXTINF:0 tvg-logo="https://wp7-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10010_c_04c0d5a5d609f78a67a9a6774c442ffc.png", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
+#EXTINF:0 tvg-logo="https://wp7-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10010_c_04c0d5a5d609f78a67a9a6774c442ffc.png", Prima TV
+https://media.primaplay.ro/live/prima/playlist.m3u8?from=1633859234&to=1633860020&session=wMRu5C6MZWVuQkyU&source=cms&token=Ya1F_bB0QqR6z_zBeA2SONTYPmo=
 #EXTINF:0 tvg-logo="http://tvr1.tvr.ro/images/logo_footer_tvr1.png", TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/13/B1_logo_2021.png", B1 TV
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-4719781-6fbaae6da8f5033d107ee36f01079277-1835124042-0-1633797449-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-5433196-63f3cdc6f25b2c9121a132477c97fdd7-1835124042-0-1633859079-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
-https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=z124AVKE0qdwunkYdXXc&starttime=1633797462&endtime=1633811892&source=web&token=2r3Oqxx_lPPLCNjNSGMlowhWGJQ=
+https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=Y86euRsuigt3v3GZvybw&starttime=1633859094&endtime=1633873524&source=web&token=M8-5iWcBGlbDo__J5ukYQrboirs=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge212.rcs-rds.ro/V5-7824806-14f8d88a20c1b824ec35304d8586e004-1835124042-0-1633797472-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V5-7129161-6383e98c9c82c6aa40fe0bab9904dd6b-1835124042-0-1633859088-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
