@@ -4,6 +4,8 @@
 # ============================================================================================
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png" group-title="Principale", PRO TV
 https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/cpIuus6ZpWsaJj2ygsa8PQ==,1629024715/channels/cme-ro-protv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png", PRO TV
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/sP5bgsyWVkhrsnSPVvLjXQ==,1633999111/channels/cme-ro-protv/playlist.m3u8?url=1&cache=12:10:29&cdntoken=
 #EXTINF:0 tvg-logo="https://a1.ro/templates/default/img/a1-logo.png", Antena 1
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?version=1&session=z5ClOdkRMx3edG33sRXG&starttime=1632151469&endtime=1632165899&source=web&token=QK_FEKJizzfp8LIi2w3_0-dHGs0=
 #EXTINF:0 tvg-logo="https://wp7-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10010_c_04c0d5a5d609f78a67a9a6774c442ffc.png", Prima TV
