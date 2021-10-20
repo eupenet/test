@@ -12,6 +12,10 @@ https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=16
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/13/B1_logo_2021.png", B1 TV
 https://stream.adunity.com/b1/b1.m3u8
+#EXTINF:0 tvg-logo="https://www.tvkeep.com/uploads/b1tv.jpg", B1 TV
+https://stream.adunity.com/b1/b1.m3u8
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/LkdwrBC8BK8/maxresdefault.jpg", B1 TV
+https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
 https://edge210.rcs-rds.ro/V4-6793560-18eefafdcd6b8f267a2c88903a3912f1-1835124042-0-1634715354-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
