@@ -10,7 +10,7 @@ https://ivm.antenaplay.ro/live/a1/playlist.m3u8?version=1&session=84iV0pTqPoxpVk
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
 #EXTINF:0 tvg-logo="http://tvr1.tvr.ro/images/logo_footer_tvr1.png", TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/13/B1_logo_2021.png", B1 TV
+#EXTINF:0 tvg-logo="https://www.b1tv.ro/wp-content/uploads/2021/06/cropped-b1-favicon.png", B1 TV
 https://stream.adunity.com/b1/b1.m3u8
 #EXTINF:0 tvg-logo="https://www.tvkeep.com/uploads/b1tv.jpg", B1 TV
 https://stream.adunity.com/b1/b1.m3u8
