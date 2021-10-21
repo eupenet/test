@@ -10,22 +10,18 @@ https://ivm.antenaplay.ro/live/a1/playlist.m3u8?version=1&session=84iV0pTqPoxpVk
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
 #EXTINF:0 tvg-logo="http://tvr1.tvr.ro/images/logo_footer_tvr1.png", TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
-#EXTINF:0 tvg-logo="https://www.b1tv.ro/wp-content/uploads/2021/06/cropped-b1-favicon.png", B1 TV
-https://stream.adunity.com/b1/b1.m3u8
-#EXTINF:0 tvg-logo="https://www.tvkeep.com/uploads/b1tv.jpg", B1 TV
-https://stream.adunity.com/b1/b1.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/LkdwrBC8BK8/maxresdefault.jpg", B1 TV
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-6793560-18eefafdcd6b8f267a2c88903a3912f1-1835124042-0-1634715354-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-4885076-6c17859e0bca43aff1e8bfede0030ead-1835124042-0-1634801888-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
-https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=BRTFYyYPnQqiBD1rWyCT&starttime=1634715372&endtime=1634729802&source=web&token=GP-JkoORp3COr8O5Cq5PM-oTVFI=
+https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=oOtLMEfKNDwuLzCffexe&starttime=1634801949&endtime=1634816379&source=web&token=DYeKuaz8tscKVqguJ2ReQL86eWA=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 https://livestream.realitatea.net/livestream/new/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge214.rcs-rds.ro/V5-4718735-645e8dd171608e067d0c5a4692771ebc-1835124042-0-1634715364-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V5-4895345-04b8aaa3b56b9c3a8ef50368414fee7e-1835124042-0-1634801942-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
