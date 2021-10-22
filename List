@@ -21,7 +21,7 @@ https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=vul547sl3FkTbC
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 https://livestream.realitatea.net/livestream/new/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge210.rcs-rds.ro/V5-1938511-ae67cd6a9ced6a5bb8676d9b40ba83e2-1835124042-0-1634907397-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge212.rcs-rds.ro/V5-4868357-dcfd08d8697678e44e22873c6c46d305-1835124042-0-1634924255-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
