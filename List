@@ -4,6 +4,8 @@
 # ============================================================================================
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png" group-title="Principale", PRO TV
 https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/cpIuus6ZpWsaJj2ygsa8PQ==,1629024715/channels/cme-ro-protv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png", PRO TV
+https://sportbarchik88.com/lba/MDk1NGYxOTM5YzVlYWY3MDE1YjBkMjYxYTU1NDYwM2M=/g1/protv.m3u8?token=MDk1NGYxOTM5YzVlYWY3MDE1YjBkMjYxYTU1NDYwM2M=&id=MWEyOGJmOTMxMzQ5YWE4ZjQ3YzdkM2FlZGQ4MzZhZmE=&vip=1636653331&dip=OGQ0YmQ2MjY5MDRhNzYyOTkzNmMzNzg4MTA2ZDY3NWY=&pip=NTNhNjk2NTczY2M5YjU0N2I5NjVkMTRhMjIzYTMzNzk=&hip=ODQ2ZTU1NjE5MTViMDZjMjc5M2I1NjA2NmQzNDNhNjI=
 #EXTINF:0 tvg-logo="https://a1.ro/templates/default/img/a1-logo.png", Antena 1
 https://ivm.antenaplay.ro/live/a1/playlist.m3u8?version=1&session=dqoOFGWEjF0H8DKXGd0q&starttime=1634973695&endtime=1634988125&source=web&token=ZFHrfdgoap9g97QDx4v-HoCwLPc=
 #EXTINF:0 tvg-logo="https://wp7-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10010_c_04c0d5a5d609f78a67a9a6774c442ffc.png", Prima TV
