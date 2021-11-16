@@ -41,6 +41,17 @@ https://h2.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAv
 #EXTINF:0, CBS
 https://h3.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIxIDY6MDA6MTUgQU0maGFzaF92YWx1ZT13OTR2T2N3SEVKTmRDWnp3b3lSSHVnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
+#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/E38ZhCz.jpg",Fashion TV UHD (2160p)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV Europe UHD (2160p)
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png",Bloomberg TV+ UHD (2160p)
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Loupe4K.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true",Loupe 4K (2160p)
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+
+
+
 #EXTINF:0 tvg-logo="https://alephnews.ro/wp-content/themes/aleph-news/img/logo-alephnews-vertical.png", Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://alephbusiness.ro/wp-content/themes/aleph-biz/img/logo-alephbusiness-vertical.png", Aleph Business
