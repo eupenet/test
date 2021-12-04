@@ -14,16 +14,20 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge211.rcs-rds.ro/V4-8468619-5af41617add4fb8757a1e64b7492044a-1835124042-0-1638522941-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V4-6126311-182d27684cf1701ffb09c7bf47de28ac-1835124042-0-1638603292-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
-https://live4ro.antenaplay.ro/a3/a3_3000k.m3u8?version=1&session=mTiMqwfYCnPpHlWbpO3Q&starttime=1638522952&endtime=1638537382&source=web&token=3j0Y8U-XpSEkowOx8XLL20xYTmw=
+https://live4ro.antenaplay.ro/a3/a3_3000k.m3u8?version=1&session=JKJHECB6MbhwV0vmHkXr&starttime=1638603308&endtime=1638617738&source=web&token=UAfpoTFKxlCUej1vh6bH4FlxK8c=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 https://livestream.realitatea.net/livestream/new/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge214.rcs-rds.ro/V5-8362641-840f2bfde8c2292cf37df8da034c87b3-1835124042-0-1638522948-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V5-5798142-ca975c1186fb41bea5b5b973a280774e-1835124042-0-1638603302-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Sportivă
 https://livestream.realitatea.net/realitatea/sportiva/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Sportivă
+https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Star
+https://streamx.realitatea.net/realitatea/star_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Radio
 https://live.realitatea.net/radio/radio/playlist.m3u8
 
