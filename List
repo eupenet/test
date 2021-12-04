@@ -14,14 +14,14 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge211.rcs-rds.ro/V4-6126311-182d27684cf1701ffb09c7bf47de28ac-1835124042-0-1638603292-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V4-4841274-761970734b712640c6a92910d6de9014-1835124042-0-1638645484-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
 https://live4ro.antenaplay.ro/a3/a3_3000k.m3u8?version=1&session=JKJHECB6MbhwV0vmHkXr&starttime=1638603308&endtime=1638617738&source=web&token=UAfpoTFKxlCUej1vh6bH4FlxK8c=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 https://livestream.realitatea.net/livestream/new/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge211.rcs-rds.ro/V5-5798142-ca975c1186fb41bea5b5b973a280774e-1835124042-0-1638603302-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge212.rcs-rds.ro/V5-9777470-89fb5ba87cebb63e47eb138bd75befc5-1835124042-0-1638645490-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Sportivă
 https://livestream.realitatea.net/realitatea/sportiva/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Sportivă
@@ -109,6 +109,6 @@ https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:0 tvg-logo="https://radiogoldfm.ro/wp-content/uploads/2021/04/logo2.png", Gold FM
 https://live.radiogoldfm.ro:8443/WP.mp3
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s320/logo.png", H!T Music Channel
-https://edge212.rcs-rds.ro/V5-1454474-8b545009dbb7d45d17ee6dbd7e1b1324-1549025263-0-1620711717-29-b1tv-b61cfce54694d8c5/digionline/b1tvhq.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V5-3909988-d99d07e8a9e6da731fe3c5d9927f49f6-1835124042-0-1638645509-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
 #EXTINF:0, Kiss TV
 https://edge212.rcs-rds.ro/V5-1454474-8b545009dbb7d45d17ee6dbd7e1b1324-1549025263-0-1620711717-29-b1tv-b61cfce54694d8c5/digionline/b1tvhq.stream/chunklist.m3u8
