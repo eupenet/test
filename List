@@ -14,14 +14,14 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0, DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-3241979-5f47042f646de6ade6e89042e85b0f48-1835124042-0-1639058726-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-6714055-28bafc283dd1c9d96221d66076e3335a-1835124042-0-1639074563-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
-https://live7digi.antenaplay.ro/a3/a3_3000k.m3u8?version=1&session=XqGRautkpfb9DfL43lDM&starttime=1639058748&endtime=1639073178&source=web&token=vGGEiK2T_awWPnu30oqxez8Qcq0=
+https://live4ro.antenaplay.ro/a3/a3_3000k.m3u8?version=1&session=qdaDQNWNLhTKHLjL8z0e&starttime=1639074580&endtime=1639089010&source=web&token=Zb8gBV-jC5k420usPtEXo0Z7r5U=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 https://livestream.realitatea.net/livestream/new/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge213.rcs-rds.ro/V5-6113950-b6cc0137d67c4702a0f3c2efaac4f121-1835124042-0-1639058749-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V5-9097714-803fb23a3db974ba2ae7b53261dc241b-1835124042-0-1639074583-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Sportivă
 https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Star
