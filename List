@@ -29,6 +29,9 @@ https://streamx.realitatea.net/realitatea/star_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Radio
 https://live.realitatea.net/radio/radio/playlist.m3u8
 
+#EXTINF:0, DIGI 24 HD
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_01.mpd
+
 #EXTINF:0, Siebel Innovation
 https://ovh-vod.akamaized.net/s/enc/hls/p/2171811/sp/217181100/serveFlavor/entryId/1_49szxoxv/v/21/ev/9/flavorId/1_8flww39c/name/a.mp4/index.m3u8?__hdnea__=st=1639992490~exp=1640078890~acl=/s/enc/hls/p/2171811/sp/217181100/serveFlavor/entryId/1_49szxoxv/v/21/ev/9/flavorId/1_*~hmac=d78c44ef8fbcdf0e06bf2bbe8937ee895475db3b4fc69b8a71893fa9672980cf
 #EXTINF:0, Siebel Public Sector
