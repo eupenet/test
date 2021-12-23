@@ -29,10 +29,14 @@ https://streamx.realitatea.net/realitatea/star_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Radio
 https://live.realitatea.net/radio/radio/playlist.m3u8
 
-#EXTINF:0, Siebel Innovation
-https://ovh-vod.akamaized.net/s/enc/hls/p/2171811/sp/217181100/serveFlavor/entryId/1_49szxoxv/v/21/ev/9/flavorId/1_8flww39c/name/a.mp4/index.m3u8?__hdnea__=st=1639992490~exp=1640078890~acl=/s/enc/hls/p/2171811/sp/217181100/serveFlavor/entryId/1_49szxoxv/v/21/ev/9/flavorId/1_*~hmac=d78c44ef8fbcdf0e06bf2bbe8937ee895475db3b4fc69b8a71893fa9672980cf
-#EXTINF:0, Siebel Public Sector
-https://ovh-vod.akamaized.net/s/enc/hls/p/2171811/sp/217181100/serveFlavor/entryId/1_bifvj8yg/v/1/ev/3/flavorId/1_yh9jbvtr/name/a.mp4/index.m3u8?__hdnea__=st=1639982481~exp=1640068881~acl=/s/enc/hls/p/2171811/sp/217181100/serveFlavor/entryId/1_bifvj8yg/v/1/ev/3/flavorId/1_*~hmac=426dfccc20716e41fc5b4b07a1dbbb632199cda01101f44a1ae49f8711772d0a
+#EXTINF:0 tvg-id="TCM.us", TCM
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:0 tvg-id="TBSHD.us", TBS
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-id="TNT.us", TNT
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-id="truTV.us", TruTV
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -54,25 +58,22 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 tvg-id="Loupe4K.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true",Loupe 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
-#EXTINF:0 tvg-id="TBSHD.us", TBS East
-https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="TBSWest.us", TBS West
-https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="TCM.us", TCM East
-https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="TCMHD.us", TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:0 tvg-id="TNT.us", TNT East
-https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-id="TBSWest.us", TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="TNTHD.us", TNT West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="truTV.us", TruTV East
-https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="truTVHD.us", TruTV West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0, Preview Channel
 https://previewchannel-previewchannel-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0, Siebel Innovation
+https://ovh-vod.akamaized.net/s/enc/hls/p/2171811/sp/217181100/serveFlavor/entryId/1_49szxoxv/v/21/ev/9/flavorId/1_8flww39c/name/a.mp4/index.m3u8?__hdnea__=st=1639992490~exp=1640078890~acl=/s/enc/hls/p/2171811/sp/217181100/serveFlavor/entryId/1_49szxoxv/v/21/ev/9/flavorId/1_*~hmac=d78c44ef8fbcdf0e06bf2bbe8937ee895475db3b4fc69b8a71893fa9672980cf
+#EXTINF:0, Siebel Public Sector
+https://ovh-vod.akamaized.net/s/enc/hls/p/2171811/sp/217181100/serveFlavor/entryId/1_bifvj8yg/v/1/ev/3/flavorId/1_yh9jbvtr/name/a.mp4/index.m3u8?__hdnea__=st=1639982481~exp=1640068881~acl=/s/enc/hls/p/2171811/sp/217181100/serveFlavor/entryId/1_bifvj8yg/v/1/ev/3/flavorId/1_*~hmac=426dfccc20716e41fc5b4b07a1dbbb632199cda01101f44a1ae49f8711772d0a
 
 #EXTINF:0, ABC
 https://h2.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMSA0OjEwOjMyIFBNJmhhc2hfdmFsdWU9a2RTb0dUNGk1RGJZU2p0elpYNlhkQT09JnZhbGlkbWludXRlcz0yNDA=
