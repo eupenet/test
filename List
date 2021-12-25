@@ -62,6 +62,8 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
 #EXTINF:0 tvg-id="TCMHD.ca", TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:0 tvg-id="TurnerClassicMovies.us", TCM West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="TBSWest.us", TBS West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="TNTHD.us", TNT West
