@@ -37,7 +37,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="truTV.us", TruTV
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="TCMCanada.us", TCM West
+#EXTINF:0 tvg-id="TCMCanada.us"  tvg-logo="https://www.directv.com/images/logos/channels/dark/large/340.png", TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
