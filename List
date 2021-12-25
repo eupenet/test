@@ -29,7 +29,7 @@ https://streamx.realitatea.net/realitatea/star_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Radio
 https://live.realitatea.net/radio/radio/playlist.m3u8
 
-#EXTINF:0 tvg-id="TCM.us", TCM
+#EXTINF:0 tvg-id="TCMUS.us", TCM
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="TNT.us", TNT
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
