@@ -3,15 +3,15 @@
 # ======================================== Principale ========================================
 # ============================================================================================
 
-#EXTINF:0 tvg-id="TCM.us", TCM
+#EXTINF:0 tvg-id="TCMEast.us", TCM
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:0 tvg-id="TNT.us", TNT
+#EXTINF:0 tvg-id="TNTEast.us", TNT
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="TBSHD.us", TBS
+#EXTINF:0 tvg-id="TBSEast.us", TBS
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="truTV.us", TruTV
+#EXTINF:0 tvg-id="TruTVEast.us", TruTV
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="TCMHD.us", TCM West
+#EXTINF:0 tvg-id="TCMWest.us", TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:0 tvg-id="CNN.us", CNN
@@ -25,13 +25,13 @@ http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="HLN.us", HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
-#EXTINF:0 tvg-id="TCMHD.us", TCM West
+#EXTINF:0 tvg-id="TCMWest.us", TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="TBSWest.us", TBS West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="TNTHD.us", TNT West
+#EXTINF:0 tvg-id="TNTWest.us", TNT West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="truTVHD.us", TruTV West
+#EXTINF:0 tvg-id="TruTVWest.us", TruTV West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0, Preview Channel
