@@ -25,7 +25,7 @@ http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="HLN.us", HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
-#EXTINF:0 tvg-id="TCMWest.us", TCM West
+#EXTINF:0 tvg-id="TCMCanada.us", TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="TBSWest.us", TBS West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
