@@ -1,38 +1,65 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/it/mediaset.it.epg.xml,https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
 
-#EXTINF:0 tvg-id="TCMUS.us", TCM East
+#EXTINF:0 tvg-id="TCMUS.us" tvg-country="US", TCM East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:0 tvg-id="TCMUS.us", TCM West
+#EXTINF:0 tvg-id="TCMUS.us" tvg-country="US", TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:0 tvg-id="CNN.us", CNN
+#EXTINF:0 tvg-id="CNN.us" tvg-country="US", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
+#EXTINF:0 tvg-id="FOXNewsChannel.us" tvg-country="US", FOX News
 http://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
-#EXTINF:0 tvg-id="MSNBC.us", MSNBC
+#EXTINF:0 tvg-id="MSNBC.us" tvg-country="US", MSNBC
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 
-#EXTINF:0 tvg-id="TNTEast.us", TNT East
+#EXTINF:0 tvg-id="TNTEast.us" tvg-country="US", TNT East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="TNTWest.us", TNT West
+#EXTINF:0 tvg-id="TNTWest.us" tvg-country="US", TNT West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="TBSEast.us", TBS East
+#EXTINF:0 tvg-id="TBSEast.us" tvg-country="US", TBS East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="TBSWest.us", TBS West
+#EXTINF:0 tvg-id="TBSWest.us" tvg-country="US", TBS West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="TruTVEast.us", TruTV East
+#EXTINF:0 tvg-id="TruTVEast.us" tvg-country="US", TruTV East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="TruTVWest.us", TruTV West
+#EXTINF:0 tvg-id="TruTVWest.us" tvg-country="US", TruTV West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="HLN.us", HLN
+#EXTINF:0 tvg-id="HLN.us" tvg-country="US", HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
-#EXTINF:0 tvg-id="ABCEast.us", ABC
+#EXTINF:0 tvg-id="ABCEast.us" tvg-country="US", ABC
 https://h2.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMSA0OjEwOjMyIFBNJmhhc2hfdmFsdWU9a2RTb0dUNGk1RGJZU2p0elpYNlhkQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:0 tvg-id="CBSEast.us", CBS
+#EXTINF:0 tvg-id="CBSEast.us" tvg-country="US", CBS
 https://h3.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIxIDY6MDA6MTUgQU0maGFzaF92YWx1ZT13OTR2T2N3SEVKTmRDWnp3b3lSSHVnPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
+#EXTINF:0 tvg-id="FOXNewsChannel.us" tvg-country="US", FOX News
 http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 
 #EXTINF:0, Preview Channel
 https://previewchannel-previewchannel-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-id="BBCOne.uk" tvg-country="UK", BBC One
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:0 tvg-id="BBCTwo.uk" tvg-country="UK", BBC Two
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:0 tvg-id="BBCFour.uk" tvg-country="UK", BBC Four
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:0 tvg-id="BBCRedButton1.uk" tvg-country="UK" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/24907/bbcredbutton_colordark.png", BBC Red Button 1
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_01.m3u8
+
+#EXTINF:0 tvg-id="TGCom24.it" tvg-country="IT", TGCom 24
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:0 tvg-id="Canale5.it" tvg-country="IT", Canale 5
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+#EXTINF:0 tvg-id="Rete4.it" tvg-country="IT", Rete 4
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:0 tvg-id="Italia1.it" tvg-country="IT", Italia 1
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+
+#EXTINF:0 tvg-id="RaiNews24.it" tvg-country="IT", Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:0 tvg-id="Rai1.it" tvg-country="IT", Rai 1
+http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:0 tvg-id="Rai2.it" tvg-country="IT", Rai Due
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:0 tvg-id="Rai3.it" tvg-country="IT", Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
