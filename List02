@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/it/mediaset.it.epg.xml,https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml"
 
 #EXTINF:0 tvg-id="TCMUS.us" tvg-country="US", TCM East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
@@ -31,13 +31,6 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="HLN.us" tvg-country="US", HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-
-#EXTINF:0 tvg-id="ABCEast.us" tvg-country="US", ABC
-https://h2.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMSA0OjEwOjMyIFBNJmhhc2hfdmFsdWU9a2RTb0dUNGk1RGJZU2p0elpYNlhkQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:0 tvg-id="CBSEast.us" tvg-country="US", CBS
-https://h3.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIxIDY6MDA6MTUgQU0maGFzaF92YWx1ZT13OTR2T2N3SEVKTmRDWnp3b3lSSHVnPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:0 tvg-id="FOXNewsChannel.us" tvg-country="US", FOX News
-http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 
 #EXTINF:0, Preview Channel
 https://previewchannel-previewchannel-1.vizio.wurl.com/manifest/playlist.m3u8
