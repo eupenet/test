@@ -5,6 +5,11 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1
 #EXTINF:0 tvg-id="TCMUS.us" tvg-country="US", TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
+#EXTINF:0 tvg-id="TCMUS.us" tvg-country="US", TCM East - Lo
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_3_1928000.m3u8
+#EXTINF:0 tvg-id="TCMUS.us" tvg-country="US", TCM West - Lo
+https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_3_1928000.m3u8
+
 #EXTINF:0 tvg-id="CNN.us" tvg-country="US", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="FOXNewsChannel.us" tvg-country="US", FOX News
@@ -43,23 +48,3 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0 tvg-id="BBCFour.uk" tvg-country="UK", BBC Four
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:0 tvg-id="BBCRedButton1.uk" tvg-country="UK" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/24907/bbcredbutton_colordark.png", BBC Red Button 1
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_01.m3u8
-
-#EXTINF:0 tvg-id="TGCom24.it" tvg-country="IT", TGCom 24
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-#EXTINF:0 tvg-id="Canale5.it" tvg-country="IT", Canale 5
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
-#EXTINF:0 tvg-id="Rete4.it" tvg-country="IT", Rete 4
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
-#EXTINF:0 tvg-id="Italia1.it" tvg-country="IT", Italia 1
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
-
-#EXTINF:0 tvg-id="RaiNews24.it" tvg-country="IT", Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:0 tvg-id="Rai1.it" tvg-country="IT", Rai 1
-http://ott-cdn.ucom.am/s29/index.m3u8
-#EXTINF:0 tvg-id="Rai2.it" tvg-country="IT", Rai Due
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
-#EXTINF:0 tvg-id="Rai3.it" tvg-country="IT", Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
