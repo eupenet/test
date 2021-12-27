@@ -2,12 +2,12 @@
 
 #EXTINF:0 tvg-id="TCMUS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12852_dark_360w_270h.png", TCM East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:0 tvg-id="TCMUS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12852_dark_360w_270h.png", TCM West
+#EXTINF:0 tvg-id="TCMUS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" tvg-shift="+3", TCM West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:0 tvg-id="TCMUS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12852_dark_360w_270h.png", TCM East - Lo
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_3_1928000.m3u8
-#EXTINF:0 tvg-id="TCMUS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12852_dark_360w_270h.png", TCM West - Lo
+#EXTINF:0 tvg-id="TCMUS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" tvg-shift="+3", TCM West - Lo
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_3_1928000.m3u8
 
 #EXTINF:0 tvg-id="CNN.us" tvg-country="US", CNN
