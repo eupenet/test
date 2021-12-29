@@ -6,7 +6,7 @@
 #EXTINF:0 tvg-id="ProTV.ro" tvg-logo="https://cloudia.cms.protvplus.ro/rx/b9e55242-3105-4765-acbe-51ed8563e341.png" group-title="Principale", PRO TV
 https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/cpIuus6ZpWsaJj2ygsa8PQ==,1629024715/channels/cme-ro-protv/playlist.m3u8
 #EXTINF:0 tvg-id="Antena1.ro" tvg-logo="https://a1.ro/templates/default/img/a1-logo.png", Antena 1
-https://live4ro.antenaplay.ro/a1/a1_3000k.m3u8?version=1&session=ew4L0rH1DUOlmJc46hWs&starttime=1640616366&endtime=1640630796&source=web&token=IEk27wEbgPIdri3-PVRONgEHpiM=
+https://live7digi.antenaplay.ro/a1/a1_3000k.m3u8?version=1&session=HcTcJ1zZmq2LsV3YTD3H&starttime=1640780060&endtime=1640794490&source=web&token=fPP4F0GktAepJP5_6Fxv9xdxD-8=
 #EXTINF:0 tvg-id="PrimaTV.ro" tvg-logo="https://wp7-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10010_c_04c0d5a5d609f78a67a9a6774c442ffc.png", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
 #EXTINF:0 tvg-id="TVR1.ro" tvg-logo="http://tvr1.tvr.ro/images/logo_footer_tvr1.png", TVR 1
@@ -15,11 +15,11 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0 tvg-id="Digi24.ro", DIGI 24 HD
-https://edge211.rcs-rds.ro/V4-7071601-dcc3610c342d469641184a6d5fd1e2f6-1835124042-0-1640616348-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge210.rcs-rds.ro/V4-9531144-0782904dd58d4d35ff9c6fd32768136c-1835124042-0-1640780040-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
-https://live4ro.antenaplay.ro/a3/a3_3000k.m3u8?version=1&session=hUXEwsN1cJMPga3WYWu4&starttime=1640616389&endtime=1640630819&source=web&token=dwvDVl7ks0gHGDJCiToFLbAK4Lc=
+https://live3ro.antenaplay.ro/a3/a3_3000k.m3u8?version=1&session=RdhLqw0hBs7m9S9DRXQ4&starttime=1640780078&endtime=1640794508&source=web&token=HtaQ0mLHa7BhwHMX3SMvfOIiWrg=
 #EXTINF:0 tvg-id="RomaniaTV.ro" tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
-https://edge213.rcs-rds.ro/V5-5688957-8acf56d42ffc87ddbb0cf39a3bd01336-1835124042-0-1640616364-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
+https://edge214.rcs-rds.ro/V5-4981344-dde0c06d50235e2edfc0ada9cc0a2dd8-1835124042-0-1640780058-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="RealitateaPlus.ro" tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 https://livestream.realitatea.net/livestream/new/playlist.m3u8
