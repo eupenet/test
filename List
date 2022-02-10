@@ -28,6 +28,13 @@ https://edge74.rcs-rds.ro/V5-4943212-84d4ab288a520b02685af0ab72314fa5-1835124042
 #EXTINF:0 tvg-id="Eurosport2.ro", Eurosport 2
 https://edge214.rcs-rds.ro/V5-9782788-ba513c17aa11c1012a1a07d27623996f-1835124042-0-1642480732-32-eurosport2-b61cfce54694d8c5/digionline/eurosport2hd.stream/chunklist.m3u8
 
+#EXTINF:0, Tucker
+https://content-ause2-ur-fox1.uplynk.com/a3d372a9d9fa4d9ab2c247a3a8952956/i.m3u8?pbs=8dff655641c84cec885ad76d6f640049
+#EXTINF:0, Hannity
+https://content-ausw1-ur-fox1.uplynk.com/aa0aa1a5f93b40969dbcadc87eb5576d/i.m3u8?pbs=41616167fbc646bc962fa0856cd53c76
+#EXTINF:0, Laura
+https://content-ausw1-ur-fox1.uplynk.com/b2687069c89b424d9e5f618358e9015f/i.m3u8?pbs=017ab51dda364c14be83b14c2bb7d3c7
+
 #EXTINF:0 tvg-id="FOXNews.us", FOX News
 https://h5.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIyIDQ6Mzg6MjcgQU0maGFzaF92YWx1ZT1uZHZtdXVDblEyYkZHbFZNamFsbDB3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
