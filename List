@@ -17,9 +17,9 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:0 tvg-id="Digi24.ro", DIGI 24 HD
-https://edge210.rcs-rds.ro/V4-6080504-a04ff21e9cc7f6d43d25b450cee49a62-1835124042-0-1642480480-4-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge24.rcs-rds.ro/V4-3969509-1fb66bada156eb27b62eff38b56280a9-1835124042-0-1648833622-4-digi24/digi24/digi24-abr.m3u8?is=4&ns=digi24&p=Browser&s=site&sn=digionline.ro&t=00000000000000000000000000000000&t4=V4-3969509-1fb66bada156eb27b62eff38b56280a9-1835124042-0-1648833622-4-digi24&t5=V5-2914269-2f8c2e71320a044fa7c435cd7cdd7d74-1835124042-0-1648833622-4-digi24-b61cfce54694d8c5
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
-https://live7digi.antenaplay.ro/a3/a3_3000k.m3u8?version=1&session=nR0hIuq7UeM08wByEMkr&starttime=1642481042&endtime=1642495472&source=web&token=-Q8zLeHKjrvoItoA2GnSYtNr-t4=
+https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=hPKXefsuajjeHWmWpBoV&starttime=1648833612&endtime=1648848042&source=web&token=B6X826Pqq7GBSni1VwgEA6-ryNo=
 #EXTINF:0 tvg-id="RomaniaTV.ro" tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
 https://edge212.rcs-rds.ro/V5-6410604-37b9e8de7c4d6927efe4d3a10e41b4f1-1835124042-0-1642480505-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvhq.stream/chunklist.m3u8
 
@@ -36,7 +36,7 @@ https://content-ausw1-ur-fox1.uplynk.com/aa0aa1a5f93b40969dbcadc87eb5576d/i.m3u8
 https://content-ausw1-ur-fox1.uplynk.com/b2687069c89b424d9e5f618358e9015f/i.m3u8?pbs=017ab51dda364c14be83b14c2bb7d3c7
 
 #EXTINF:0 tvg-id="FOXNews.us", FOX News
-https://h5.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIyIDQ6Mzg6MjcgQU0maGFzaF92YWx1ZT1uZHZtdXVDblEyYkZHbFZNamFsbDB3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h2.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjIgNTowOToxMyBQTSZoYXNoX3ZhbHVlPTlyaVdWOEg1UTNoekI2dGQwNy9SRUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:0 tvg-id="RealitateaPlus.ro" tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 https://livestream.realitatea.net/livestream/new/playlist.m3u8
