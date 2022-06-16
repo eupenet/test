@@ -1,0 +1,393 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/p87vnr3qq9hwx41y41jm"
+#EXTINF:-1 tvg-id="PROTV(src01).ro" tvg-name="PRO TV" tvg-logo="https://wp5-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10007_c_ef39c647fd28ea4adabbb1136959a103.png" group-title="Principale",PRO TV
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="Antena1(src01).ro" tvg-name="Antena 1" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3MDJfMTI5ODcwMl9B/bnRlbmEtMS1IRC5wbmcmaGFzaD1lZGIw/NDA0MzdlMDliMTgwZTE3MDZiN2UxY2U4NTg1NA==.png" group-title="Principale",Antena 1
+https://netwrk.ru.com/cdn/eantena1/chunks.m3u8
+#EXTINF:-1 tvg-id="KanalD(src01).ro" tvg-name="Kanal D" tvg-logo="https://wp16-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10087_c_3c72e8a7c17666b5e2ae90c146f872c6.png" group-title="Principale",Kanal D
+https://edge212.rcs-rds.ro/V5-7970800-40a8c0c3a1b9ad95fdd7d60a99b387fd-1835124042-0-1652641093-123-looksportplus-b61cfce54694d8c5/digionline/looksportplushd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="PrimaTV(src01).ro" tvg-name="Prima TV" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/a2e118b17d0c49e88354ba5883d91b0e.png" group-title="Principale",Prima TV
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
+#EXTINF:-1 tvg-id="TVR1(src01).ro" tvg-name="TVR 1" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg2ODdfMTI5ODY4N19U/VlItMS1IRC5wbmcmaGFzaD1mMzUwYzBh/NWUwNjQwNzY4MzZmM2UwZTE2Y2RkZWM0Mw==.png" group-title="Principale",TVR 1
+https://edge214.rcs-rds.ro/V5-2262607-19fdc8075e088ff13d74c175c9919ece-1835124042-0-1652551467-24-tvr1-b61cfce54694d8c5/digionline/tvr1hq.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="B1(src01).ro" tvg-name="B1 TV" tvg-logo="https://wp27-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10038_c_967b90e5c5c7330e4f07d3784594346c.png" group-title="Principale",B1 TV
+https://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 tvg-id="Digi24(src01).ro" tvg-name="DIGI 24 HD" tvg-logo="https://www.digionline.ro/static/theme-ui-frontend/bin/images/footer/digi-24.png" group-title="Principale",DIGI 24 HD
+https://edge84.rcs-rds.ro/V4-9750733-734c1867b5e8e4a5f4ecb314d50a502a-1835124042-0-1655217327-4-digi24/digi24/digi24mq.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="Antena3(src01).ro" tvg-name="Antena 3" tvg-logo="https://wp16-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10006_c_9fcd858eb2771a6ad89434ab389a2a39.png" group-title="Principale",Antena 3
+https://live3ro.antenaplay.ro/live2_testdai/live2_testdai_600k.m3u8?version=1&session=HGWlvNUnBeNxTT09Z6Uc&starttime=1655217362&endtime=1655231792&source=web&token=jqDKX6Luv2nKRN23SLby_BIwnmg=
+#EXTINF:-1 tvg-id="RomaniaTV(src01).ro" tvg-name="Romania TV" tvg-logo="https://wp16-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10116_c_d5947271c836cb58360d44a4b9f8ba93.png" group-title="Principale",Romania TV
+https://edge213.rcs-rds.ro/V5-6829123-0d7319b1bae5b2f7a8550b774790c09b-1835124042-0-1649488957-27-romaniatv-b61cfce54694d8c5/digionline/romaniatv-abr.m3u8?is=27&ns=romaniatv&p=Browser&s=site&sn=digionline.ro&t=00000000000000000000000000000000&t4=V4-6407830-523ced023a4ac3880c413ad0585fc10e-1835124042-0-1649488957-27-romaniatv&t5=V5-6829123-0d7319b1bae5b2f7a8550b774790c09b-1835124042-0-1649488957-27-romaniatv-b61cfce54694d8c5
+#EXTINF:-1 tvg-id="RealitateaPlus(src01).ro" tvg-name="Realitatea Plus" tvg-logo="https://pbs.twimg.com/profile_images/1412037726422147072/xJhdWRh7_400x400.jpg" group-title="Principale",Realitatea Plus
+https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
+#EXTINF:-1 tvg-id="prof" tvg-name="Profit TV" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/5c8e5b0b76f0655962a9af83d709d3d3.png" group-title="Principale",Profit TV
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="euronews Romania" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s67870_dark_360w_270h.png" group-title="Principale",euronews Romania
+https://www.youtube.com/watch?v=tdwXKd9Gqb8
+#EXTINF:-1 tvg-id="TVR2(src01).ro" tvg-name="TVR 2" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg2OTNfMTI5ODY5M19U/VlItMi1IRC5wbmcmaGFzaD1jNjA1MDA4/ZjNkMmYxOTlhMzJiNzE1NTRhNThkNmJhMQ==.png" group-title="Principale",TVR 2
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVR3(src01).ro" tvg-name="TVR 3" tvg-logo="https://wp8-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10145_c_6fd2183c7ba6c96fd2daf3d12f4300d2.png" group-title="Principale",TVR 3
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
+#EXTINF:-1 tvg-id="prima" tvg-name="Look Sport +" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/243cbdf4adfb511592b97f9c18defddc.png" group-title="Principale",Look Sport +
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
+#EXTINF:-1 tvg-id="LookSport(src01).ro" tvg-name="Look Sport" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/3eb2be3e219db37d12e1d2eac6ef6e08.png" group-title="Principale",Look Sport
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1617596874&wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=&wowzatokenstarttime=1617553674
+#EXTINF:-1 tvg-id="LOOKSPORT2(src01).ro" tvg-name="Look Sport 2" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/08ea904a2fcc28a20127e284c868c968.png" group-title="Principale",Look Sport 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1616918728&wowzatokenhash=VSA7jv0u-Omn3CnlShcjJEklf8e2rR8jAQ8wwDG1_GY=&wowzatokenstarttime=1616879128
+#EXTINF:-1 tvg-id="LOOKSPORT3(src01).ro" tvg-name="Look Sport 3" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/7ba90d6c98a932efd538951f53f66c88.png" group-title="Principale",Look Sport 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
+#EXTINF:-1 tvg-id="DigiSport1(src01).ro" tvg-name="DIGI sport 1" tvg-logo="http://www.digisport.hu/images/style/digisport-1_gomb52.png" group-title="Principale",DIGI sport 1
+https://edge210.rcs-rds.ro/V5-8197994-259d8da4d72a0c3d99c03c7c1066407f-1835124042-0-1654364501-123-looksportplus-b61cfce54694d8c5/digionline/looksportplushd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="DigiSport2(src01).ro" tvg-name="DIGI sport 2" tvg-logo="http://www.digisport.hu/images/style/digisport-2_gomb52.png" group-title="Principale",DIGI sport 2
+https://edge74.rcs-rds.ro/V5-2521351-56cbd770bcb1297bff5a228b35847e10-1835124042-0-1652550013-1-digisport1-b61cfce54694d8c5/sponline/digisport1.smil/manifest.mpd?is=1&ns=digisport1&p=Browser&s=site&sn=digionline.ro&t=00000000000000000000000000000000&t4=V4-1356172-890ec371371af9505374fcdc41b18831-1835124042-0-1652550013-1-digisport1&t5=V5-2521351-56cbd770bcb1297bff5a228b35847e10-1835124042-0-1652550013-1-digisport1-b61cfce54694d8c5
+#EXTINF:-1 tvg-id="DigiSport3(src01).ro" tvg-name="DIGI sport 3" tvg-logo="http://www.digisport.hu/images/style/digisport-3_gomb52.png" group-title="Principale",DIGI sport 3
+https://edge213.rcs-rds.ro/V5-6685029-24f67310b2367100934af30bdec01273-1549025263-0-1616997646-3-digisport3-b61cfce54694d8c5/digionline/digisport3hd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="DigiSport4(src01).ro" tvg-name="DIGI sport 4" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png" group-title="Principale",DIGI sport 4
+https://edge75.rcs-rds.ro/V5-9927111-b247fad65523c5ce785b2faeebeac776-1835124042-0-1649001017-1-digisport1-b61cfce54694d8c5/sponline/digisport1.smil/manifest.mpd?is=1&ns=digisport1&p=Browser&s=site&sn=digionline.ro&t=00000000000000000000000000000000&t4=V4-2436055-b41248bc9055436bce74870dd49ffb14-1835124042-0-1649001017-1-digisport1&t5=V5-9927111-b247fad65523c5ce785b2faeebeac776-1835124042-0-1649001017-1-digisport1-b61cfce54694d8c5
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News",FOX News
+https://h5.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIyIDI6MjE6MjQgUE0maGFzaF92YWx1ZT1CaEYrcXpHMDAxQkFPOGhORmZMZXB3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://siriusxm-art-dd.akamaized.net/images/chan/65/e2b2f3-cc37-2319-f30d-5585b5afbfae.png" group-title="News",MSNBC
+https://h5.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIyIDI6MjE6MzcgUE0maGFzaF92YWx1ZT1OSmFMR0YyZVBWWXhjak1RNVUvWjJBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logod.png" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="FOX Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="News",FOX Business
+https://rtmp.livenewsof.com/hls/fox.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-name="OAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82542_dark_360w_270h.png" group-title="News",OAN
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax" tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="News",Newsmax
+https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="TheFirst.us" tvg-name="The First" tvg-logo="https://tf-a1.azureedge.net/static/images/header-logo2.png" group-title="News",The First
+https://thefirst-distroscale.amagi.tv/index360p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BlazeTV" tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/get.blazetv.com/6d59809e-btv-brand-logo-whitered_107a02e06y02a00c004028.png" group-title="News",BlazeTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId=
+#EXTINF:-1 tvg-id="TalkTV(src01).uk" tvg-name="Talk TV" tvg-logo="https://talk.tv/media/fs5n4ha2/ttv-logo.png" group-title="News",Talk TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/7908228d-09e3-4df6-87fb-2976ff6f679b/0.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAoDik6SnycC4LEQdTpbB130o0yLoB9Ko5rQ&usqp=CAU" group-title="News",GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=1499968.m3u8
+#EXTINF:-1 tvg-id="RT.uk" tvg-name="RT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s98986_dark_360w_270h.png" group-title="News",RT
+https://rtmp.livenewsof.com/hls/fx.m3u8
+#EXTINF:-1 tvg-id="ChannelOneRussia(Russian).it" tvg-name="Channel One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s53822_dark_360w_270h.png" group-title="News",Channel One
+https://247.foxbusiness.com/hls/live/2003756/FBNHLSv3/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="News" tvg-shift="0",ABC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:-1 tvg-id="FOXWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="News",FOX Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="AccuWeather.us" tvg-name="AccuWeather" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91994_dark_360w_270h.png" group-title="News",AccuWeather
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-rokuus/playlist.m3u8?rdid=837c2977-4999-53e2-92a4-566fb603dffa&coppa=false&content=04e3c54b739b5f58bdad839baa854bb5&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=accuweather&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F97.0.4692.99+Safari%2F537.36&is_lat=1&channel_id=151908
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="News",HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CBSNewsStreaming(English).it" tvg-name="CBS News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" group-title="News",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-name="Cheddar News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109332_dark_360w_270h.png" group-title="News",Cheddar News
+https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10146_dark_360w_270h.png" group-title="News",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="EuroNews.us" tvg-name="Euronews" tvg-logo="https://static.euronews.com/website/images/euronews_logo.png" group-title="News",Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC Europe" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68892_dark_360w_270h.png" group-title="News",CNBC Europe
+http://ott-cdn.ucom.am/s65/index.m3u8
+#EXTINF:-1 tvg-id="GlobalNewsBC1(English).ca" tvg-name="Global News" tvg-logo="https://assets.vms.corusappservices.com/upload/pjn341imiu-3awbemwxjk/global%20news%2072.png" group-title="News",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-id="CTVNewsChannel(English).ca" tvg-name="CTV News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76921_dark_360w_270h.png" group-title="News",CTV News
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 tvg-id="MediasetTGCOM24.it" tvg-name="TGCom 24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84650_dark_360w_270h.png" group-title="News",TGCom 24
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78803_dark_360w_270h.png" group-title="News",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90472_dark_360w_270h.png" group-title="News",BFM TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgz4t1
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="C-News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s52091_dark_360w_270h.png" group-title="News",C-News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90509_dark_360w_270h.png" group-title="News",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="CGTN(English).it" tvg-name="CGTN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104529_dark_360w_270h.png" group-title="News",CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-id="WNBCDT.us" tvg-name="NBC4 NY (WNBC)" tvg-logo="https://ib1.hulu.com/v2/artwork/cea81fcd-a082-4ed4-999c-0de3402c8115?base_image_bucket_name=image_manager&base_image=3734e420-e8ca-4ac3-82ed-9ea3f18600db&size=original&format=png" group-title="US",NBC4 NY (WNBC)
+https://v-ny.mybtv.net/live/548/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC7 NY (WABC-TV)" tvg-logo="https://lh3.googleusercontent.com/3cW6WFvbI8UgBK2kg5jx4wJNM_EOHsp42ShynjCwYO9KJTfsb58AvJZkoqQHUthV4Bn1DW5g_0y5bg=v2-s300" group-title="US",ABC7 NY (WABC-TV)
+https://v-ny.mybtv.net/live/554/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS2 NY (WCBS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="US",CBS2 NY (WCBS)
+https://v-ny.mybtv.net/live/545/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX5 NY (WNYW)" tvg-logo="https://assets.brandfetch.io/6f429ba2bd7f483.png" group-title="US",FOX5 NY (WNYW)
+https://v-ny.mybtv.net/live/550/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WPIX.us" tvg-name="PIX11 (WPIX)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="US",PIX11 (WPIX)
+https://v-ny.mybtv.net/live/562/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM" tvg-logo="https://prod-images.tcm.com/img/global/logo-TCM_white.png" group-title="US",TCM
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_3_1928000.m3u8
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="US" tvg-shift="+3",TCM West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_3_1928000.m3u8
+#EXTINF:-1 tvg-id="WNYWDT2.us" tvg-name="Movies!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s81275_dark_360w_270h.png" group-title="US",Movies!
+https://v-ny.mybtv.net/live/551/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WJLPDT.us" tvg-name="MeTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="US",MeTV
+https://v-ny.mybtv.net/live/637/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WNBCDT2.us" tvg-name="COZI TV" tvg-logo="https://www.cozitv.com/wp-content/themes/cozi/static/images/cozilogo.png" group-title="US",COZI TV
+https://v-ny.mybtv.net/live/549/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14988_dark_360w_270h.png" group-title="US",FXM
+https://h2.ustvgo.la/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIyIDU6NDM6MzEgUE0maGFzaF92YWx1ZT14Uk16dWtoT3dCNzY3eThYaEJjNDJnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="US",TNT
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="US",TBS
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="TruTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="US",TruTV
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="US",AMC
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14873_dark_360w_270h.png" group-title="US",IFC
+https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassicRerunsTV.us" tvg-name="Classic Reruns TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s118608_dark_360w_270h.png" group-title="US",Classic Reruns TV
+https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
+#EXTINF:-1 tvg-id="WPIXDT4.us" tvg-name="Rewind TV" tvg-logo="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_white_withtagline-300x92.png" group-title="US",Rewind TV
+https://v-ny.mybtv.net/live/565/640x480.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WNET.us" tvg-name="PBS New York NY (WNET)" tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/themes/wnet/libs/images/station-logo-thirteen.png" group-title="US",PBS New York NY (WNET)
+https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+#EXTINF:-1 tvg-id="CBLTCBCToronto(English).ca" tvg-name="CBC Toronto" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="US",CBC Toronto
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+#EXTINF:-1 tvg-id="WXTV(Spanish).us" tvg-name="Univision NY (WXTV)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="US",Univision NY (WXTV)
+https://v-ny.mybtv.net/live/643/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WKOBLD(Spanish).us" tvg-name="Azteca America (WKOB)" tvg-logo="https://aztecaamerica.com/wp-content/uploads/2021/05/LOGO_AZA_COLOR_BLANCO-2-e1620230157524.png" group-title="US",Azteca America (WKOB)
+https://v-ny.mybtv.net/live/645/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="CHARGE.us" tvg-name="Charge!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s102148_dark_360w_270h.png" group-title="US",Charge!
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="US",Comet
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Redbox Spotlight" tvg-logo="https://logodix.com/logo/1337653.png" group-title="US",Redbox Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT(Pacific).us" tvg-name="TNT West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s42642_dark_360w_270h.png" group-title="US",TNT West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="TBS(Pacific).us" tvg-name="TBS West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58515_dark_360w_270h.png" group-title="US",TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="truTV(Pacific).us" tvg-name="TruTV West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s64490_dark_360w_270h.png" group-title="US",TruTV West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83285_dark_360w_270h.png" group-title="UK",BBC News
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17153_dark_360w_270h.png" group-title="UK",BBC One
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17154_dark_360w_270h.png" group-title="UK",BBC Two
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAoDik6SnycC4LEQdTpbB130o0yLoB9Ko5rQ&usqp=CAU" group-title="UK",GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=1499968.m3u8
+#EXTINF:-1 tvg-id="TalkTV(src01).uk" tvg-name="Talk TV" tvg-logo="https://talk.tv/media/fs5n4ha2/ttv-logo.png" group-title="UK",Talk TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83282_dark_360w_270h.png" group-title="UK",BBC Four
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16234_dark_360w_270h.png" group-title="UK",Sky News
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 tvg-id="MediasetTGCOM24.it" tvg-name="TGCom 24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84650_dark_360w_270h.png" group-title="IT",TGCom 24
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84622_dark_360w_270h.png" group-title="IT",Italia 1
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s54779_dark_360w_270h.png" group-title="IT",Rete 4
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/164049140-2971546e-5c08-4907-a707-a9a4645fe34d.png" group-title="IT",Canale 5
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai Uno" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84696_dark_360w_270h.png" group-title="IT",Rai Uno
+http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai Due" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84694_dark_360w_270h.png" group-title="IT",Rai Due
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai Tre" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84695_dark_360w_270h.png" group-title="IT",Rai Tre
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91205_dark_360w_270h.png" group-title="IT",Sky TG24
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+#EXTINF:-1 tvg-id="rai4k(src01).it" tvg-name="Rai 4K" tvg-logo="https://i.imgur.com/5gkt9DD.png" group-title="IT",Rai 4K
+https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-id="Venti.it" tvg-name="Mediaset 20 (geo-blocked)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s108194_dark_360w_270h.png" group-title="IT",Mediaset 20 (geo-blocked)
+https://live3.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:-1 tvg-id="La5.it" tvg-name="La 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75500_dark_360w_270h.png" group-title="IT",La 5
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:-1 tvg-id="MediasetItalia2.it" tvg-name="Italia 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84648_dark_360w_270h.png" group-title="IT",Italia 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine 34" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115689_dark_360w_270h.png" group-title="IT",Cine 34
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84647_dark_360w_270h.png" group-title="IT",Mediaset Extra
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84609_dark_360w_270h.png" group-title="IT",Focus
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TOP Crime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84717_dark_360w_270h.png" group-title="IT",TOP Crime
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84621_dark_360w_270h.png" group-title="IT",IRIS
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84597_dark_360w_270h.png" group-title="IT",Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90130_dark_360w_270h.png" group-title="IT",Real Time
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84614_dark_360w_270h.png" group-title="IT",Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s98967_dark_360w_270h.png" group-title="IT",DMAX
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111101_dark_360w_270h.png" group-title="IT",Motor Trend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 tvg-id="Spike.it" tvg-name="Spike" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109843_dark_360w_270h.png" group-title="IT",Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84141_dark_360w_270h.png" group-title="IT",TV2000
+http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1 tvg-id="VH1.it" tvg-name="VH-1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s100111_dark_360w_270h.png" group-title="IT",VH-1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="R101TV(src01).it" tvg-name="R101 TV" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/173157520-772bf963-ba70-405a-87aa-0ebee29adef8.png" group-title="IT",R101 TV
+https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
+#EXTINF:-1 tvg-id="VirginRadio(src01).fr" tvg-name="Virgin Radio TV" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/173249950-3bfed90a-5c13-49df-9727-e622ca0d3b0a.png" group-title="IT",Virgin Radio TV
+https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Monte Carlo" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/173450829-1dbe9133-170c-4058-a730-6595506c27b1.png" group-title="IT",Radio Monte Carlo
+https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84696_dark_360w_270h.png" group-title="IT",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84694_dark_360w_270h.png" group-title="IT",Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84695_dark_360w_270h.png" group-title="IT",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91204_dark_360w_270h.png" group-title="IT",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s100806_dark_360w_270h.png" group-title="IT",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 tvg-id="RaiSportpiu(src01).it" tvg-name="Rai Sport+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s54777_dark_360w_270h.png" group-title="IT",Rai Sport+
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="ARD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90447_dark_360w_270h.png" group-title="DE",ARD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s86886_dark_360w_270h.png" group-title="DE",ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelle(Engl)(src01).de" tvg-name="DW English" tvg-logo="https://w12studios.com/wp-content/uploads/2018/08/DW_Logo.png" group-title="DE",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s67200_dark_360w_270h.png" group-title="DE",Welt
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelle(Deutsch).de" tvg-name="DW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116024_dark_360w_270h.png" group-title="DE",DW
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66621_dark_360w_270h.png" group-title="DE",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="ABCWABC(src01).us" tvg-name="ABC NY HD" tvg-logo="https://lh3.googleusercontent.com/3cW6WFvbI8UgBK2kg5jx4wJNM_EOHsp42ShynjCwYO9KJTfsb58AvJZkoqQHUthV4Bn1DW5g_0y5bg=v2-s300" group-title="HD",ABC NY HD
+https://v-ny.mybtv.net/live/554/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="FOX(WNYW)NewYorkNY(src01).us" tvg-name="FOX NY HD" tvg-logo="https://assets.brandfetch.io/6f429ba2bd7f483.png" group-title="HD",FOX NY HD
+https://v-ny.mybtv.net/live/550/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="NBCWNBC(src01).us" tvg-name="NBC NY HD" tvg-logo="https://ib1.hulu.com/v2/artwork/cea81fcd-a082-4ed4-999c-0de3402c8115?base_image_bucket_name=image_manager&base_image=3734e420-e8ca-4ac3-82ed-9ea3f18600db&size=original&format=png" group-title="HD",NBC NY HD
+https://v-ny.mybtv.net/live/548/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WCBSTVWCBSDT(src01).us" tvg-name="CBS NY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="HD",CBS NY HD
+https://v-ny.mybtv.net/live/545/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WPIX.us" tvg-name="PIX11 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="HD",PIX11 HD
+https://v-ny.mybtv.net/live/562/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM HD" tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=TCM%20On%20Demand&productId=FMOD&sourceType=colorHybrid" group-title="HD",TCM HD
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM West HD" tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=TCM%20On%20Demand&productId=FMOD&sourceType=colorHybrid" group-title="HD" tvg-shift="+3",TCM West HD
+https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="WJLPDT.us" tvg-name="MeTV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="HD",MeTV HD
+https://v-ny.mybtv.net/live/637/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WXTV(Spanish).us" tvg-name="Univision NY HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="HD",Univision NY HD
+https://v-ny.mybtv.net/live/643/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WKOBLD(Spanish).us" tvg-name="Azteca NY HD" tvg-logo="https://aztecaamerica.com/wp-content/uploads/2021/05/LOGO_AZA_COLOR_BLANCO-2-e1620230157524.png" group-title="HD",Azteca NY HD
+https://v-ny.mybtv.net/live/645/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WNBCDT.us" tvg-name="NBC NY FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="HD",NBC NY FHD
+https://v-ny.mybtv.net/live/548/1920x1080.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WCBSDT.us" tvg-name="CBS NY FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="HD",CBS NY FHD
+https://v-ny.mybtv.net/live/545/1920x1080.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WPIX.us" tvg-name="PIX11 FHD" tvg-logo="https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png" group-title="HD",PIX11 FHD
+https://v-ny.mybtv.net/live/562/1920x1080.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WPVIDT.us" tvg-name="ABC PI HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28708_dark_360w_270h.png" group-title="HD",ABC PI HD
+https://v-pi.mybtv.net/live/333/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WTXFDT.us" tvg-name="FOX PI HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="HD",FOX PI HD
+https://v-pi.mybtv.net/live/369/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WNBCDT.us" tvg-name="NBC PI HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="HD",NBC PI HD
+https://v-pi.mybtv.net/live/345/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="KYWDT.us" tvg-name="CBS PI HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="HD",CBS PI HD
+https://v-pi.mybtv.net/live/318/1280x720.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WNBCDT.us" tvg-name="NBC PI FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="HD",NBC PI FHD
+https://v-pi.mybtv.net/live/345/1920x1080.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="KYWDT.us" tvg-name="CBS PI FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="HD",CBS PI FHD
+https://v-pi.mybtv.net/live/318/1920x1080.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="HD",TNT
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNT(Pacific).us" tvg-name="TNT West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s42642_dark_360w_270h.png" group-title="HD",TNT West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="HD",TBS
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TBS(Pacific).us" tvg-name="TBS West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58515_dark_360w_270h.png" group-title="HD",TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="TruTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="HD",TruTV
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="truTV(Pacific).us" tvg-name="TruTV West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s64490_dark_360w_270h.png" group-title="HD",TruTV West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News Radio" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="Radio" tvg-shift="+1",FOX News Radio
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WFLA 970 AM Tampa FL" tvg-logo="https://cdn-profiles.tunein.com/s28771/images/logog.jpg" group-title="Radio",WFLA 970 AM Tampa FL
+https://stream.revma.ihrhls.com/zc2823/hls.m3u8?streamid=2823&zip=90014&clientType=web&host=webapp.US&listenerId=&modTime=1644008205473&profileid=5008185364&terminalid=159&territory=US&us_privacy=1-N-&callLetters=WFLA-AM&devicename=web-desktop&stationid=2823&dist=iheart&country=US&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fnewsradio-wfla-2823%2F&triton-uid=cookie%3Ab9b410c7-d066-4ed2-a440-be4858ca820a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="710 WOR" tvg-logo="https://i.iheart.com/v3/re/assets.brands/595543e852e033394f67a9f1" group-title="Radio",710 WOR
+https://stream.revma.ihrhls.com/zc5874/hls.m3u8?streamid=5874&zip=90014&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=5008185364&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.US&listenerId=2d1b035e1c56039cf5978ef539783558&playedFrom=157&pname=live_profile&profileId=5008185364&stationid=5874&terminalId=159&territory=US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWRC Radio" tvg-logo="https://cdn.saleminteractivemedia.com/shared/images/logos/230/template3_logo.png" group-title="Radio",WWRC Radio
+http://22073.live.streamtheworld.com/WWRCAMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-025&csegid=888&dist=triton-web&tdsdk=js-2.9&banners=300x250%2C728x90
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WFLA 100.7 FM" tvg-logo="https://cdn-profiles.tunein.com/s27676/images/logog.jpg" group-title="Radio",WFLA 100.7 FM
+https://stream.revma.ihrhls.com/zc2819/hls.m3u8?streamid=2819&zip=90014&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=5008185364&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.US&listenerId=62a3fafee4c407510b7ccc124e8076a5&playedFrom=157&pname=live_profile&profileId=5008185364&stationid=2819&terminalId=159&territory=US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="România Actualităţi" tvg-logo="https://www.rador.ro/wp-content/uploads/2015/10/radio-romania-actualitati_logo1.jpg" group-title="Radio",România Actualităţi
+http://89.238.227.6:8000/
+#EXTINF:-1 tvg-id="Digi24(src01).ro" tvg-name="DIGI 24 FM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Digi_24_FM.svg/revision/latest/scale-to-width-down/250?cb=20210929144824" group-title="Radio",DIGI 24 FM
+https://edge76.rcs-rds.ro/digifm/digi24fm.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Realitatea FM" tvg-logo="https://realitateafm.net/wp-content/uploads/2022/01/LOGO-PLAYER-370x370.png" group-title="Radio",Realitatea FM
+https://shout.realitatea.net:8001/rfmweb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Europa FM" tvg-logo="https://3.bp.blogspot.com/-eBJGCclr9NY/W40tJOco1nI/AAAAAAAAL1A/NLt8B_hnkQoR6hXaCUiHu5Uj9rTFMmTsACKgBGAs/s1600/europafm-live.png" group-title="Radio",Europa FM
+http://astreaming.europafm.ro:8000/europafm_mp3_64k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI FM" tvg-logo="https://www.digifm.ro/static/theme-repo/bin/images/logo-digifm.png" group-title="Radio",DIGI FM
+http://edge76.rdsnet.ro:84/digifm/digifm.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tucker Carlson Tonight" tvg-logo="https://p-img.movetv.com/cms/images/82873488c5647eb8526d575b19c8b722a2cd3faf.jpg" group-title="OD",Tucker Carlson Tonight
+https://content-ausw2-ur-fox1.uplynk.com/bcdc7cc117c34750a8c3fdfbfaa784c6/e.m3u8?pbs=353010fb72614a29b00c7711331df1ad
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hannity" tvg-logo="https://p-img.movetv.com/cms/images/c5a89d92fdf0d04e17fc5a1d3ac2c1a56c3fb200.jpg" group-title="OD",Hannity
+https://content-ausw1-ur-fox1.uplynk.com/fbfb08ae8c3446aeb8741abb9360c394/e.m3u8?pbs=2a20e2e7fec24c2294b39f3945d81bb8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Ingraham Angle" tvg-logo="https://p-img.movetv.com/cms/images/dff4b896fbd98df8bfeaaae5eee0bfe812240478.jpg" group-title="OD",The Ingraham Angle
+https://content-ausw2-ur-fox1.uplynk.com/00ff225cd7fc40048fdd7120255cf1cd/e.m3u8?pbs=d7d5e07a80e240928a4e7e1cacdb611f
+#EXTINF:-1 tvg-id="PrimaTV(src01).ro" tvg-name="Prima TV" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/a2e118b17d0c49e88354ba5883d91b0e.png" group-title="DIGI",Prima TV
+https://edge211.rcs-rds.ro/V5-8835200-4ebb776c7190fbb82a5b61d53aba22e6-1835124042-0-1654364392-133-primatv-b61cfce54694d8c5/digionline/primatv-abr.m3u8?is=133&ns=primatv&p=Browser&s=site&sn=digionline.ro&t=00000000000000000000000000000000&t4=V4-7939342-264cf08fb77ccaa9010ee7cbb99627e5-1835124042-0-1654364392-133-primatv&t5=V5-8835200-4ebb776c7190fbb82a5b61d53aba22e6-1835124042-0-1654364392-133-primatv-b61cfce54694d8c5
+#EXTINF:-1 tvg-id="AXN(src01).ro" tvg-name="AXN" tvg-logo="https://wp6-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10026_c_0a800a87da2494849f1cc8aeaba0f4ab.png" group-title="DIGI",AXN
+https://edge210.rcs-rds.ro/V5-7471543-55d9b9872800a07a51e7d67f65534312-1835124042-0-1652549562-44-axn-b61cfce54694d8c5/digionline/axnhd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="AMC(src01).ro" tvg-name="AMC" tvg-logo="https://wp22-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10012_c_1ea569f3a9e35cc16d8b3b175946fd50.png" group-title="DIGI",AMC
+https://edge212.rcs-rds.ro/V5-4581718-881c03dc12ca6a3eb394f73c488a59fe-1835124042-0-1652549584-102-amc-b61cfce54694d8c5/digionline/amchq.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TCM(src01).ro" tvg-name="Warner TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115812_dark_360w_270h.png" group-title="DIGI",Warner TV
+https://edge211.rcs-rds.ro/V5-3315312-a9049bc627bfae97885f9ba5e7818124-1835124042-0-1652549596-91-tnt-b61cfce54694d8c5/digionline/tnthq.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral(src01).ro" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="DIGI",Comedy Central
+https://edge213.rcs-rds.ro/V5-8672340-1c1b76daf1b269e41d9de6c77000426b-1835124042-0-1652549612-58-comedycentral-b61cfce54694d8c5/digionline/comedycentralhq.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV1000(src01).ro" tvg-name="TV1000" tvg-logo="https://wp18-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10140_c_0e2e12c24e3d060e4224e2ac73ab7cf8.png" group-title="DIGI",TV1000
+https://edge213.rcs-rds.ro/V5-3716276-38946840ec85772a3012dac31fbd25bf-1835124042-0-1652549638-43-tv1000-b61cfce54694d8c5/digionline/tv1000hq.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="FilmCafe(src01).ro" tvg-name="Film Cafe" tvg-logo="https://wp22-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10013_c_89dcb7dee190b36d9e2b43ceba0daffb.png" group-title="DIGI",Film Cafe
+https://edge213.rcs-rds.ro/V5-8455869-159b1a63348d09db01ec3c0a29d043ae-1835124042-0-1652549653-94-filmcafe-b61cfce54694d8c5/digionline/filmcafehq.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="DivaUniversal(src01).ro" tvg-name="DIVA" tvg-logo="https://wp25-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10054_c_5d39466c3d3423a2c33c4178f28efea9.png" group-title="DIGI",DIVA
+https://edge211.rcs-rds.ro/V5-2017019-f3c91c92381380f7d8d822bdd42e266c-1835124042-0-1652549673-106-diva-b61cfce54694d8c5/digionline/divahq.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemaraton" tvg-logo="https://www.cinemaraton.ro/wp-content/uploads/2015/01/Cinemaraton.png" group-title="DIGI",Cinemaraton
+https://edge210.rcs-rds.ro/V5-4379249-348298d730a72a72b1de12e00adc0d20-1835124042-0-1652549685-99-cinemaraton-b61cfce54694d8c5/digionline/cinemaratonhq.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="Eurosport1Romania(src01).ro" tvg-name="Eurosport 1" tvg-logo="https://wp7-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10061_c_2951d12de2b974eb317800639c1db3aa.png" group-title="DIGI",Eurosport 1
+https://edge24.rcs-rds.ro/V5-7209084-bd65d0a1985dd780b40db163696aa800-1835124042-0-1643993019-31-eurosport-b61cfce54694d8c5/digionline/eurosport-abr.m3u8?is=31&ns=eurosport&p=Browser&s=site&sn=digionline.ro&t=00000000000000000000000000000000&t4=V4-3368734-8cc81950596885dbfd21ea1eff0bb53b-1835124042-0-1643993019-31-eurosport&t5=V5-7209084-bd65d0a1985dd780b40db163696aa800-1835124042-0-1643993019-31-eurosport-b61cfce54694d8c5
+#EXTINF:-1 tvg-id="Eurosport2Romania(src01).ro" tvg-name="Eurosport 2" tvg-logo="https://wp6-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10064_c_f0c0642f099d146ec92aefa069f5413f.png" group-title="DIGI",Eurosport 2
+https://ivm.antenaplay.ro/live/zutv/playlist.m3u8?version=1&session=hOLGrYHlh9EatvBvTYq8&starttime=1645292001&endtime=1645306431&source=web&token=FMbyjra27cIrqddQcM-Ol-y3Wb0=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H!T Music Channel" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3NzdfMTI5ODc3N19I/VC1NVVNJQy1DSEFOTkVMLnBuZyZoYXNo/PWRkN2IzOWRjZTU3NTk3YjU1NjdlMzYwN2NhMWUxZTk2.png" group-title="DIGI",H!T Music Channel
+https://edge214.rcs-rds.ro/V5-6555740-5693d39496db72c6aad53d9d5d5d1c29-1835124042-0-1652465912-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="KissTV(src01).ro" tvg-name="Kiss TV" tvg-logo="https://wp10-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10090_c_7a82a77ca8267b577206384c9414ab4e.png" group-title="DIGI",Kiss TV
+https://edge213.rcs-rds.ro/V5-9354452-acf0f0e531ddc657b216c95e10d5df30-1835124042-0-1652465933-34-kisstv-b61cfce54694d8c5/digionline/kisstvhq.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="UTV(src01).ro" tvg-name="UTV" tvg-logo="https://wp26-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10147_c_aed9d99df5827b99be57d94840d28020.png" group-title="DIGI",UTV
+https://edge214.rcs-rds.ro/V5-3229170-b1f1a36066bed0591a9e4aadd941bbad-1835124042-0-1652465949-9-utv-b61cfce54694d8c5/digionline/utvhq.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magic TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg4MDNfMTI5ODgwM19N/QUdJQy1UVi5wbmcmaGFzaD1lMDAxYzNm/Y2FhOGM4MjU5MWFjZjFjMzdiYzVkOGI5Mg==.png" group-title="DIGI",Magic TV
+https://edge213.rcs-rds.ro/V5-9842098-60f2f5f4cbf9fc1735e378e6d974852b-1835124042-0-1652465968-124-magictv-b61cfce54694d8c5/digionline/magictvhd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="ZUTV(src01).ro" tvg-name="ZU TV" tvg-logo="https://zutv.ro/templates/default/img/logo-zutv.png" group-title="DIGI",ZU TV
+https://ivm.antenaplay.ro/live/zutv/playlist.m3u8?version=1&session=8VUvENk0f4e7aJjxmfU5&starttime=1650558039&endtime=1650572469&source=web&token=n3QnI2pafiNJSlnX1l_cgJw2WQE=
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC7 NY (WABC-TV)" tvg-logo="https://lh3.googleusercontent.com/3cW6WFvbI8UgBK2kg5jx4wJNM_EOHsp42ShynjCwYO9KJTfsb58AvJZkoqQHUthV4Bn1DW5g_0y5bg=v2-s300" group-title="US Local",ABC7 NY (WABC-TV)
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8?ad._v=2&ad.preroll=1&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316918&rays=ihgfedc
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX5 NY (WNYW)" tvg-logo="https://assets.brandfetch.io/6f429ba2bd7f483.png" group-title="US Local",FOX5 NY (WNYW)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS2 NY (WCBS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="US Local",CBS2 NY (WCBS)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc48170e280c80009a861ab&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=206&terminate=false&userId=
+#EXTINF:-1 tvg-id="WNBCDT.us" tvg-name="NBC4 NY (WNBC)" tvg-logo="https://ib1.hulu.com/v2/artwork/cea81fcd-a082-4ed4-999c-0de3402c8115?base_image_bucket_name=image_manager&base_image=3734e420-e8ca-4ac3-82ed-9ea3f18600db&size=original&format=png" group-title="US Local",NBC4 NY (WNBC)
+https://wnbclive-f.akamaihd.net/i/NY_STREAM1@13992/master.m3u8
+#EXTINF:-1 tvg-id="KABC.us" tvg-name="ABC7 LA (KABC-TV)" tvg-logo="https://lh3.googleusercontent.com/eMROJMnHzgaijoAxv3Al7PBYrC0rZB307W4Vhv7xjIJYmAfrAD59vh7BId4L607WPciIUnWXv0ln=v2-s300" group-title="US Local",ABC7 LA (KABC-TV)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCwatch.m3u8
+#EXTINF:-1 tvg-id="KTTV.us" tvg-name="FOX11 LA (KTTV)" tvg-logo="https://drcortney.com/wp-content/uploads/2021/06/fts-los-angeles-a.png" group-title="US Local",FOX11 LA (KTTV)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
+#EXTINF:-1 tvg-id="KCBS.us" tvg-name="CBS2 LA (KCBS)" tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/4/2021/05/1200px-CBS_2.svg_.png" group-title="US Local",CBS2 LA (KCBS)
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+#EXTINF:-1 tvg-id="KNBC.us" tvg-name="NBC4 LA (KNBC)" tvg-logo="https://media.nbclosangeles.com/2021/04/Los-Angeles.png" group-title="US Local",NBC4 LA (KNBC)
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 tvg-id="KGODT.us" tvg-name="ABC7 SF (KGO-TV)" tvg-logo="https://lh3.googleusercontent.com/REam5lkGkpEZ3nB2OPVYGV9bRgIPqen2ELjxkcWB2IkngWdCUklkMyH8ME1yTkotTFpJRa2vP1Bw=v2-s300" group-title="US Local",ABC7 SF (KGO-TV)
+https://api.abcotvs.com/v3/kgo/m3u8/url?id=530971&key=yuemix
+#EXTINF:-1 tvg-id="KTVUDT.us" tvg-name="FOX2 SF (KTVU)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19571_dark_360w_270h.png" group-title="US Local",FOX2 SF (KTVU)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
+#EXTINF:-1 tvg-id="KPIXDT.us" tvg-name="CBS5 SF (KPIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/KPIX-TV_Logo.svg/800px-KPIX-TV_Logo.svg.png" group-title="US Local",CBS5 SF (KPIX)
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
+#EXTINF:-1 tvg-id="KNBC.us" tvg-name="NBC11 SF (KNTV)" tvg-logo="https://ib4.hulu.com/v2/artwork/f3fdc2f6-5ce6-4c35-b6e4-d7ff732f171b?base_image_bucket_name=image_manager&base_image=26459878-b78c-4530-b9cd-29cc2f167a96&size=original&format=png" group-title="US Local",NBC11 SF (KNTV)
+https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
+#EXTINF:-1 tvg-id="WNBCDT.us" tvg-name="NBC10 PI (WCAU)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG9ctjAcMx3y7auMwtjdMiuE2xv8ltjMsgpiNz-gyOUnzT5mtv4KieWAqGzn-9me-2INI&usqp=CAU" group-title="US Local",NBC10 PI (WCAU)
+https://v-pi.mybtv.net/live/345/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WPVIDT.us" tvg-name="ABC6 PI (WPVI)" tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wpvi_icon.png" group-title="US Local",ABC6 PI (WPVI)
+https://v-pi.mybtv.net/live/333/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="KYWDT.us" tvg-name="CBS3 PI (KYW-TV)" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/10/CBS_3_News_Philly_logo.png" group-title="US Local",CBS3 PI (KYW-TV)
+https://v-pi.mybtv.net/live/318/768x432.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="WTXFDT.us" tvg-name="FOX 29 PI (WTXF-TV)" tvg-logo="https://therapymindbodysoul.com/wp-content/uploads/2019/09/logo-fox-29-philadelphia-wtxf-alt.png" group-title="US Local",FOX 29 PI (WTXF-TV)
+https://v-pi.mybtv.net/live/369/768x432.m3u8?env=prd&uid=-1&x=1
