@@ -16,7 +16,7 @@ https://edge74.rcs-rds.ro/V4-3165015-9329d9bb0f2b036797aa8dc08c7f0683-1835124042
 #EXTINF:-1 tvg-id="Antena3(src01).ro" tvg-name="Antena 3" tvg-logo="https://wp16-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10006_c_9fcd858eb2771a6ad89434ab389a2a39.png" group-title="Principale",Antena 3
 https://live4ro.antenaplay.ro/live2_testdai/live2_testdai_600k.m3u8?version=1&session=Ob2v0DYxYVnI9X3GmxAF&starttime=1655380472&endtime=1655394902&source=web&token=U769BB4XX5Q8QHf79HqS5_7JUXc=
 #EXTINF:-1 tvg-id="RomaniaTV(src01).ro" tvg-name="Romania TV" tvg-logo="https://wp16-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10116_c_d5947271c836cb58360d44a4b9f8ba93.png" group-title="Principale",Romania TV
-https://edge213.rcs-rds.ro/V5-6829123-0d7319b1bae5b2f7a8550b774790c09b-1835124042-0-1649488957-27-romaniatv-b61cfce54694d8c5/digionline/romaniatv-abr.m3u8?is=27&ns=romaniatv&p=Browser&s=site&sn=digionline.ro&t=00000000000000000000000000000000&t4=V4-6407830-523ced023a4ac3880c413ad0585fc10e-1835124042-0-1649488957-27-romaniatv&t5=V5-6829123-0d7319b1bae5b2f7a8550b774790c09b-1835124042-0-1649488957-27-romaniatv-b61cfce54694d8c5
+https://edge210.rcs-rds.ro/V5-1472531-b8e3ee812050277074ce3fdfa0714dd5-1835124042-0-1655386637-27-romaniatv-b61cfce54694d8c5/digionline/romaniatvmq.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus(src01).ro" tvg-name="Realitatea Plus" tvg-logo="https://pbs.twimg.com/profile_images/1412037726422147072/xJhdWRh7_400x400.jpg" group-title="Principale",Realitatea Plus
 https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 #EXTINF:-1 tvg-id="prof" tvg-name="Profit TV" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/5c8e5b0b76f0655962a9af83d709d3d3.png" group-title="Principale",Profit TV
