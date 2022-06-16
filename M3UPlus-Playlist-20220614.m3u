@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p87vnr3qq9hwx41y41jm"
-#EXTINF:-1 tvg-id="PROTV(src01).ro" tvg-name="PRO TV" tvg-logo="https://wp5-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10007_c_ef39c647fd28ea4adabbb1136959a103.png" group-title="Principale",PRO TV
+#EXTINF:-1 tvg-id="PROTV(src01).ro" tvg-name="PRO TV" tvg-logo="https://wp5-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10007_c_ef39c647fd28ea4adabbb1136959a103.png" group-title="Principale",PRO TV RO
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="Antena1(src01).ro" tvg-name="Antena 1" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3MDJfMTI5ODcwMl9B/bnRlbmEtMS1IRC5wbmcmaGFzaD1lZGIw/NDA0MzdlMDliMTgwZTE3MDZiN2UxY2U4NTg1NA==.png" group-title="Principale",Antena 1
 https://netwrk.ru.com/cdn/eantena1/chunks.m3u8
