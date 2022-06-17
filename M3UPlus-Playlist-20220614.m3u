@@ -322,9 +322,9 @@ http://astreaming.europafm.ro:8000/europafm_mp3_64k
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGI FM" tvg-logo="https://www.digifm.ro/static/theme-repo/bin/images/logo-digifm.png" group-title="Radio",DIGI FM
 http://edge76.rdsnet.ro:84/digifm/digifm.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tucker Carlson Tonight" tvg-logo="https://p-img.movetv.com/cms/images/82873488c5647eb8526d575b19c8b722a2cd3faf.jpg" group-title="OD",Tucker Carlson Tonight
-https://content-ausw2-ur-fox1.uplynk.com/bcdc7cc117c34750a8c3fdfbfaa784c6/e.m3u8?pbs=353010fb72614a29b00c7711331df1ad
+https://content-ause1-ur-fox1.uplynk.com/cbcda72d32eb49ebb4f934ee88a6b7fa/e.m3u8?pbs=eeb8e76b3e994c389457aa6452a274c5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hannity" tvg-logo="https://p-img.movetv.com/cms/images/c5a89d92fdf0d04e17fc5a1d3ac2c1a56c3fb200.jpg" group-title="OD",Hannity
-https://content-ausw1-ur-fox1.uplynk.com/fbfb08ae8c3446aeb8741abb9360c394/e.m3u8?pbs=2a20e2e7fec24c2294b39f3945d81bb8
+https://content-ause1-ur-fox1.uplynk.com/9d6f461459a348189d345344fecb2bb9/e.m3u8?pbs=5edbdb6d125b4760bdcc8f0099157639
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Ingraham Angle" tvg-logo="https://p-img.movetv.com/cms/images/dff4b896fbd98df8bfeaaae5eee0bfe812240478.jpg" group-title="OD",The Ingraham Angle
 https://content-ausw2-ur-fox1.uplynk.com/00ff225cd7fc40048fdd7120255cf1cd/e.m3u8?pbs=d7d5e07a80e240928a4e7e1cacdb611f
 #EXTINF:-1 tvg-id="PrimaTV(src01).ro" tvg-name="Prima TV" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/a2e118b17d0c49e88354ba5883d91b0e.png" group-title="DIGI",Prima TV
