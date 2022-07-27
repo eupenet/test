@@ -66,7 +66,7 @@ https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-aud
 #EXTINF:-1 tvg-id="RT.uk" tvg-name="RT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s98986_dark_360w_270h.png" group-title="News",RT
 https://rtmp.livenewsof.com/hls/fx.m3u8
 #EXTINF:-1 tvg-id="NewsNation.us" tvg-name="NewsNation" tvg-logo="https://cdn.mos.cms.futurecdn.net/7RkNcznqnBuUAmkomRXkV4-970-75.png" group-title="News",NewsNation
-https://dcs-live-ue4.mp.lura.live/server/play/p0d3eNBh3XOxUQP7/rendition.m3u8?track=video-0&anvsid=m177635101-na17725e64111e8abc9995b46b73c0011&ts=1658917058&anvtrid=13be7997a53d72858a31de0d351a091e
+https://dcs-live-ue4.mp.lura.live/server/play/p0d3eNBh3XOxUQP7/rendition.m3u8?track=video-0&anvsid=m177635097-n156b1ba0f89bb43c28eaaf3285ca4af3&ts=1658917391&anvtrid=6117471bd047c696fbc1af4994da2d1d
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="News" tvg-shift="0",ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 tvg-id="FOXWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="News",FOX Weather
