@@ -65,8 +65,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/790822
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=1499968.m3u8
 #EXTINF:-1 tvg-id="RT.uk" tvg-name="RT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s98986_dark_360w_270h.png" group-title="News",RT
 https://rtmp.livenewsof.com/hls/fx.m3u8
-#EXTINF:-1 tvg-id="ChannelOneRussia(Russian).it" tvg-name="Channel One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s53822_dark_360w_270h.png" group-title="News",Channel One
-https://247.foxbusiness.com/hls/live/2003756/FBNHLSv3/master.m3u8
+#EXTINF:-1 tvg-id="NewsNation.us" tvg-name="NewsNation" tvg-logo="https://cdn.mos.cms.futurecdn.net/7RkNcznqnBuUAmkomRXkV4-970-75.png" group-title="News",NewsNation
+https://dcs-live-ue4.mp.lura.live/server/play/p0d3eNBh3XOxUQP7/rendition.m3u8?track=video-1&anvsid=m177635092-nbd8740370a9bbe3237500fbd539ee19c&ts=1658904224&anvtrid=34bdb6275d46147a4ebf69ace8c59ffd
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="News" tvg-shift="0",ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 tvg-id="FOXWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="News",FOX Weather
