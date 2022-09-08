@@ -47,9 +47,9 @@ https://edge213.rcs-rds.ro/V5-6685029-24f67310b2367100934af30bdec01273-154902526
 https://edge75.rcs-rds.ro/V5-9927111-b247fad65523c5ce785b2faeebeac776-1835124042-0-1649001017-1-digisport1-b61cfce54694d8c5/sponline/digisport1.smil/manifest.mpd?is=1&ns=digisport1&p=Browser&s=site&sn=digionline.ro&t=00000000000000000000000000000000&t4=V4-2436055-b41248bc9055436bce74870dd49ffb14-1835124042-0-1649001017-1-digisport1&t5=V5-9927111-b247fad65523c5ce785b2faeebeac776-1835124042-0-1649001017-1-digisport1-b61cfce54694d8c5
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News",FOX News
-https://h3.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjIgODoyMToxMiBQTSZoYXNoX3ZhbHVlPW5wbHRRYWRXckt1Z0FqMzRxSUZGbEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjIgMTA6NTU6NDcgUE0maGFzaF92YWx1ZT1xWTNsc3pLNHM2Ky8vTk1MLzlRT1pnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://siriusxm-art-dd.akamaized.net/images/chan/65/e2b2f3-cc37-2319-f30d-5585b5afbfae.png" group-title="News",MSNBC
-https://h3.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjIgODoyMTo0OSBQTSZoYXNoX3ZhbHVlPWNTNkhCanI2MWZQVmZwaHpIMG14aUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h3.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjIgMTA6NTY6MTAgUE0maGFzaF92YWx1ZT1VWGlpZ3NPMU9sNUVIbFFGOVdVcmlRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logod.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
