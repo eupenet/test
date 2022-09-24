@@ -354,15 +354,15 @@ https://edge24.rcs-rds.ro/V5-9373120-5e87f01f1104df05bc4b6fb1c7674006-1835124042
 #EXTINF:-1 tvg-id="Eurosport2Romania(src01).ro" tvg-name="Eurosport 2" tvg-logo="https://wp6-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10064_c_f0c0642f099d146ec92aefa069f5413f.png" group-title="DIGI",Eurosport 2
 https://edge30.rcs-rds.ro/V5-7671408-a4cf1c7611cddc202c24b80709074ef1-1835124042-0-1661692775-32-eurosport2-b61cfce54694d8c5/digionline/eurosport2hd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H!T Music Channel" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3NzdfMTI5ODc3N19I/VC1NVVNJQy1DSEFOTkVMLnBuZyZoYXNo/PWRkN2IzOWRjZTU3NTk3YjU1NjdlMzYwN2NhMWUxZTk2.png" group-title="DIGI",H!T Music Channel
-https://edge211.rcs-rds.ro/V5-2361131-7c482ec41eefe80db070025a86056207-1835124042-0-1660401767-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V5-4061915-70be784212d6757cd9158aefc358850e-1835124042-0-1664031889-35-hitmusicchannel-b61cfce54694d8c5/digionline/hitmusicchannelhq.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="KissTV(src01).ro" tvg-name="Kiss TV" tvg-logo="https://wp10-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10090_c_7a82a77ca8267b577206384c9414ab4e.png" group-title="DIGI",Kiss TV
-https://edge212.rcs-rds.ro/V5-9820637-8b743ee910a5b89590a7a749690b5d89-1835124042-0-1660401793-34-kisstv-b61cfce54694d8c5/digionline/kisstvhq.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V5-9670534-b30a37fba2b6dd88b94d35ca7c3c08ab-1835124042-0-1664031914-34-kisstv-b61cfce54694d8c5/digionline/kisstvhq.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="UTV(src01).ro" tvg-name="UTV" tvg-logo="https://wp26-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10147_c_aed9d99df5827b99be57d94840d28020.png" group-title="DIGI",UTV
-https://edge210.rcs-rds.ro/V5-3097291-a3e450ce21c203c664bb347a34bbb423-1835124042-0-1660401814-9-utv-b61cfce54694d8c5/digionline/utvhd.stream/chunklist.m3u8
+https://edge211.rcs-rds.ro/V5-1768567-9addce12545f02ee0d71f9783e843470-1835124042-0-1664031846-9-utv-b61cfce54694d8c5/digionline/utvhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magic TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg4MDNfMTI5ODgwM19N/QUdJQy1UVi5wbmcmaGFzaD1lMDAxYzNm/Y2FhOGM4MjU5MWFjZjFjMzdiYzVkOGI5Mg==.png" group-title="DIGI",Magic TV
-https://edge211.rcs-rds.ro/V5-4862794-cce677d2e8ee2f96cc01a88e63afcbd6-1835124042-0-1660401830-124-magictv-b61cfce54694d8c5/digionline/magictvhd.stream/chunklist.m3u8
+https://edge213.rcs-rds.ro/V5-4729039-3bb405c54ec510367826383674dfa5aa-1835124042-0-1664031935-25-musicchannel-b61cfce54694d8c5/digionline/musicchannelhq.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ZUTV(src01).ro" tvg-name="ZU TV" tvg-logo="https://zutv.ro/templates/default/img/logo-zutv.png" group-title="DIGI",ZU TV
-https://ivm.antenaplay.ro/live/live2_zutv/playlist.m3u8?version=1&session=yPnR00SlcGz9fIcBpKRI&starttime=1660401843&endtime=1660416273&source=web&token=XmdE4bFiQS4dyVaxRGyc3Q7PvT8=
+https://edge211.rcs-rds.ro/V5-6133476-85a980a169de437e95658ea1020f7ac3-1835124042-0-1664031976-110-vh1-b61cfce54694d8c5/digionline/vh1hq.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC7 NY (WABC-TV)" tvg-logo="https://lh3.googleusercontent.com/3cW6WFvbI8UgBK2kg5jx4wJNM_EOHsp42ShynjCwYO9KJTfsb58AvJZkoqQHUthV4Bn1DW5g_0y5bg=v2-s300" group-title="US Local",ABC7 NY (WABC-TV)
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8?ad._v=2&ad.preroll=1&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316918&rays=ihgfedc
 #EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX5 NY (WNYW)" tvg-logo="https://assets.brandfetch.io/6f429ba2bd7f483.png" group-title="US Local",FOX5 NY (WNYW)
