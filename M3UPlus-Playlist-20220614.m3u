@@ -5,7 +5,7 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 https://live3ro.antenaplay.ro/live2_testdai/live2_testdai_600k.m3u8?version=1&session=6CTQbClP5s2gkhUlpiTY&starttime=1661246682&endtime=1661261112&source=web&token=h_yh5rlxiQYd6IWPJyqPVf2qcDk=
 
 #EXTINF:-1 tvg-id="Digi24(src01).ro" tvg-name="DIGI 24 HD" tvg-logo="https://www.digionline.ro/static/theme-ui-frontend/bin/images/footer/digi-24.png" group-title="Principale",DIGI 24 HD
-https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/fe3b1fab-7981-4de6-8ed6-78c0ffc6423e:CHS/master.m3u8
+https://edge70.rcs-rds.ro/V4-9516648-7f2e2c0d3677ed052d91406fe884f7a4-1835124042-0-1665486742-4-digi24/digi24/digi24-abr.m3u8?is=4&ns=digi24&p=Browser&s=site&sn=digionline.ro&t=00000000000000000000000000000000&t4=V4-9516648-7f2e2c0d3677ed052d91406fe884f7a4-1835124042-0-1665486742-4-digi24&t5=V5-9309771-cbee7bb615028a65cb8ddece5c42e1be-1835124042-0-1665486742-4-digi24-b61cfce54694d8c5
 #EXTINF:-1 tvg-id="Antena3(src01).ro" tvg-name="Antena 3" tvg-logo="https://i0.1616.ro/media/601/3161/38616/20866789/5/antena-3-cnn-4.png?width=250" group-title="Principale",Antena 3
 https://ivm.antenaplay.ro/live/live2_testdai/playlist.m3u8?version=1&session=RTt1XtYOcyMFthOB2Gkv&starttime=1665472532&endtime=1665486962&source=web&token=vLBQllzgmQs6HyB_qJoFK4rMvs4=
 
