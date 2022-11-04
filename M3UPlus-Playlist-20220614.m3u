@@ -5,9 +5,9 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 https://live3ro.antenaplay.ro/live2_testdai/live2_testdai_600k.m3u8?version=1&session=6CTQbClP5s2gkhUlpiTY&starttime=1661246682&endtime=1661261112&source=web&token=h_yh5rlxiQYd6IWPJyqPVf2qcDk=
 
 #EXTINF:-1 tvg-id="Digi24(src01).ro" tvg-name="DIGI 24 HD" tvg-logo="https://www.digionline.ro/static/theme-ui-frontend/bin/images/footer/digi-24.png" group-title="Principale",DIGI 24 HD
-https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/af569fd4-215a-4e4c-a13c-791eb84e9858:GRQ/master.m3u8
-#EXTINF:-1 tvg-id="Antena3(src01).ro" tvg-name="Antena 3" tvg-logo="https://i0.1616.ro/media/601/3161/38616/20866789/5/antena-3-cnn-4.png?width=250" group-title="Principale",Antena 3
-https://ivm.antenaplay.ro/live/live2_testdai/playlist.m3u8?version=1&session=Yzct91jtT3rGdSVPuVaT&starttime=1667599419&endtime=1667613849&source=web&token=kdP3v-bKtX-p48yh8T25psMg5Zs=
+https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/32caba8c-8a5b-4d16-9cba-d4b573fddda1:DLS/master.m3u8
+#EXTINF:-1 tvg-id="Antena3(src01).bg" tvg-name="Antena 3" tvg-logo="https://i0.1616.ro/media/601/3161/38616/20866789/5/antena-3-cnn-4.png?width=250" group-title="Principale",Antena 3
+https://ivm.antenaplay.ro/live/live2_testdai/playlist.m3u8?version=1&session=Hmi44fFp00heikZHuBX6&starttime=1667599808&endtime=1667614238&source=web&token=G2NynjDv7GheQc1DSqbEuSbW7eQ=
 
 #EXTINF:-1 tvg-id="KanalD(src01).ro" tvg-name="Kanal D" tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/KanalD%20HD_m.png" group-title="Principale",Kanal D
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
@@ -47,9 +47,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a8
 https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=9999468&ads.xumo_channelName=AmericasTestKitchen&ads.xumo_contentId=1066&ads.xumo_contentName=AmericasTestKitchen&ads.xumo_providerId=1066&ads.xumo_providerName=AmericasTestKitchen&ads.xumo_adsystem=mediatailor&ads.roku_rtid=NBJHmWGsqQl87BZIn4nt&ads.roku_ads_kids_content=0&ads.roku_ads_tracking_id=4b960fc4-42b3-5e4e-a1aa-d628e9b119ee&ads.roku_ads_limit_tracking=1&ads.roku_ads_content_genre=ROKU_ADS_CONTENT_GENRE&ads.roku_ads_content_id=8261dbb2128258b18159b2b63b2021f5&ads.rok
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News",FOX News
-https://h2.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIyIDEwOjAzOjA5IFBNJmhhc2hfdmFsdWU9QWF3bkltbVlEVFZjOUYxazVVMlRLZz09JnZhbGlkbWludXRlcz0yNDA=
+https://h5.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIyIDEwOjA5OjU0IFBNJmhhc2hfdmFsdWU9c1RSazZqZ2lGOG1xOGltekNXQjRkdz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://siriusxm-art-dd.akamaized.net/images/chan/65/e2b2f3-cc37-2319-f30d-5585b5afbfae.png" group-title="News",MSNBC
-https://h2.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIyIDEwOjAzOjMyIFBNJmhhc2hfdmFsdWU9ZGx2eUFyRk1yMjNJK3lnMXVlMEF6QT09JnZhbGlkbWludXRlcz0yNDA=
+https://h5.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIyIDEwOjA5OjQyIFBNJmhhc2hfdmFsdWU9MnhmTHJZTFpWTGF2cU9USURTL1VXdz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logod.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
