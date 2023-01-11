@@ -4,38 +4,40 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 #EXTINF:-1 tvg-id="Antena1(src01).ro" tvg-name="Antena 1" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3MDJfMTI5ODcwMl9B/bnRlbmEtMS1IRC5wbmcmaGFzaD1lZGIw/NDA0MzdlMDliMTgwZTE3MDZiN2UxY2U4NTg1NA==.png" group-title="Principale",Antena 1
 https://live3ro.antenaplay.ro/live2_testdai/live2_testdai_600k.m3u8?version=1&session=6CTQbClP5s2gkhUlpiTY&starttime=1661246682&endtime=1661261112&source=web&token=h_yh5rlxiQYd6IWPJyqPVf2qcDk=
 #EXTINF:-1 tvg-id="Digi24(src01).ro" tvg-name="DIGI 24 HD" tvg-logo="https://www.digionline.ro/static/theme-ui-frontend/bin/images/footer/digi-24.png" group-title="Principale",DIGI 24 HD
-https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/40ac74a1-f894-44ed-bb8f-232df06cde14:CBF2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/219813ca-fd69-4293-88bb-dac0a7505a8e:CHS/master.m3u8
 #EXTINF:-1 tvg-id="Antena3(src01).bg" tvg-name="Antena 3 CNN" tvg-logo="https://assets.antenaplay.ro/2022/10/24/HUA4X5c2dFIsScrTa0KZ.png" group-title="Principale",Antena 3 CNN
-https://ivm.antenaplay.ro/live/live2_testdai/playlist.m3u8?version=1&session=3tV6dyD2e0tUwi3n60t6&starttime=1673445539&endtime=1673459969&source=web&token=7TxUsaN9EwHprizFuLIgF0zB_7U=
+https://ivm.antenaplay.ro/live/live2_testdai/playlist.m3u8?version=1&session=pNLrjMSV6UAjvs1uHkZU&starttime=1673455842&endtime=1673470272&source=web&token=_6Flt4pcE_VlxGPTrviGZ-VWdTo=
 #EXTINF:-1 tvg-id="KanalD(src01).ro" tvg-name="Kanal D" tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/KanalD%20HD_m.png" group-title="Principale",Kanal D
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 #EXTINF:-1 tvg-id="PrimaTV(src01).ro" tvg-name="Prima TV" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/a2e118b17d0c49e88354ba5883d91b0e.png" group-title="Principale",Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
 #EXTINF:-1 tvg-id="TVR1(src01).ro" tvg-name="TVR 1" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg2ODdfMTI5ODY4N19U/VlItMS1IRC5wbmcmaGFzaD1mMzUwYzBh/NWUwNjQwNzY4MzZmM2UwZTE2Y2RkZWM0Mw==.png" group-title="Principale",TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
-#EXTINF:-1 tvg-id="tvr" tvg-name="TVR Info" tvg-logo="http://www.tvr.ro/images/logo_stations_tvrinfo.png" group-title="Principale",TVR Info
+#EXTINF:-1 tvg-id="TVRInternational(src01).ro" tvg-name="TVR Info" tvg-logo="http://www.tvr.ro/images/logo_stations_tvrinfo.png" group-title="Principale",TVR Info
 https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/index.m3u8
+#EXTINF:-1 tvg-id="TVRCultural(src01).ro" tvg-name="TVR Cultural" tvg-logo="http://www.tvr.ro/images/logo_stations_tvrcultural.png" group-title="Principale",TVR Cultural
+https://mn-nl.mncdn.com/tvr_cultural/tvrcultural/index.m3u8
+#EXTINF:-1 tvg-id="TVR2(src01).ro" tvg-name="TVR 2" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg2OTNfMTI5ODY5M19U/VlItMi1IRC5wbmcmaGFzaD1jNjA1MDA4/ZjNkMmYxOTlhMzJiNzE1NTRhNThkNmJhMQ==.png" group-title="Principale",TVR 2
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVR3(src01).ro" tvg-name="TVR 3" tvg-logo="http://www.tvr.ro/images/logo_stations_tvr3.png" group-title="Principale",TVR 3
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus(src01).ro" tvg-name="Realitatea Plus" tvg-logo="https://pbs.twimg.com/profile_images/1412037726422147072/xJhdWRh7_400x400.jpg" group-title="Principale",Realitatea Plus
 https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 #EXTINF:-1 tvg-id="prof" tvg-name="Profit TV" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/5c8e5b0b76f0655962a9af83d709d3d3.png" group-title="Principale",Profit TV
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="B1(src01).ro" tvg-name="B1 TV" tvg-logo="http://b1tv.ro/wp-content/uploads/2021/11/b1-tv.jpg" group-title="Principale",B1 TV
-https://stream.adunity.com/b1/b1.m3u8
+https://live1.cdn.dejacast.com/b1tv/b1tv.m3u8?from=1673255790&to=1673259390&session=J3fxHzLbzQLFdAHj&source=cms&token=hj7rH9tRPzZ7Ad4nGyzU2R1AwTA=
 #EXTINF:-1 tvg-id="RomaniaTV(src01).ro" tvg-name="Romania TV" tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/Romania%20TV_m.png" group-title="Principale",Romania TV
-https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR2(src01).ro" tvg-name="TVR 2" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg2OTNfMTI5ODY5M19U/VlItMi1IRC5wbmcmaGFzaD1jNjA1MDA4/ZjNkMmYxOTlhMzJiNzE1NTRhNThkNmJhMQ==.png" group-title="Principale",TVR 2
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
-#EXTINF:-1 tvg-id="TVR3(src01).ro" tvg-name="TVR 3" tvg-logo="http://www.tvr.ro/images/logo_stations_tvr3.png" group-title="Principale",TVR 3
-https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
-#EXTINF:-1 tvg-id="TVRInternational(Romanian).us" tvg-name="TVR Cultural" tvg-logo="http://www.tvr.ro/images/logo_stations_tvrcultural.png" group-title="Principale",TVR Cultural
-https://mn-nl.mncdn.com/tvr_cultural/tvrcultural/index.m3u8
-#EXTINF:-1 tvg-id="TransilvaniaLVE(src01).ro" tvg-name="Prima Sport 1" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport1.png" group-title="Principale",Prima Sport 1
+https://livestream.romaniatv.net/clients/romaniatv/chunklist.m3u8
+#EXTINF:-1 tvg-id="PrimaTV(src01).ro" tvg-name="Prima News" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/2dd616c04a9531decf47beba2f0324f8.png" group-title="Principale",Prima News
+https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=227ac85cab7fc8f2232107ba5d277b65a4d08fe1
+#EXTINF:-1 tvg-id="PrimaSport1(src01).ro" tvg-name="Prima Sport 1" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport1.png" group-title="Principale",Prima Sport 1
 https://webudi.openhd.lol/ddy2/premium400/index.m3u8
-#EXTINF:-1 tvg-id="prima" tvg-name="Prima Sport 2" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport2.png" group-title="Principale",Prima Sport 2
+#EXTINF:-1 tvg-id="PrimaSport2(src01).ro" tvg-name="Prima Sport 2" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport2.png" group-title="Principale",Prima Sport 2
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
-#EXTINF:-1 tvg-id="LOOKSPORT2(src01).ro" tvg-name="Prima Sport 3" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport3.png" group-title="Principale",Prima Sport 3
+#EXTINF:-1 tvg-id="PrimaSport3(src01).ro" tvg-name="Prima Sport 3" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport3.png" group-title="Principale",Prima Sport 3
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1616918728&wowzatokenhash=VSA7jv0u-Omn3CnlShcjJEklf8e2rR8jAQ8wwDG1_GY=&wowzatokenstarttime=1616879128
-#EXTINF:-1 tvg-id="LOOKSPORT3(src01).ro" tvg-name="Prima Sport 4" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport4.png" group-title="Principale",Prima Sport 4
+#EXTINF:-1 tvg-id="PrimaSport4(src01).ro" tvg-name="Prima Sport 4" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport4.png" group-title="Principale",Prima Sport 4
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
 #EXTINF:-1 tvg-id="DigiSport1(src01).ro" tvg-name="DIGI sport 1" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-1.png" group-title="Principale",DIGI sport 1
 https://dai.google.com/linear/hls/pa/event/kIanX1fxR7isFhfnvLSKTA/stream/9f134cb4-d30b-4f3b-83e8-0c6a8455fb40:MRN2/variant/85a50f8b6896ae9db639f51b7489eb59/bandwidth/1504800.m3u8
@@ -46,13 +48,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a8
 #EXTINF:-1 tvg-id="DigiSport4(src01).ro" tvg-name="DIGI sport 4" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png" group-title="Principale",DIGI sport 4
 https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=9999468&ads.xumo_channelName=AmericasTestKitchen&ads.xumo_contentId=1066&ads.xumo_contentName=AmericasTestKitchen&ads.xumo_providerId=1066&ads.xumo_providerName=AmericasTestKitchen&ads.xumo_adsystem=mediatailor&ads.roku_rtid=NBJHmWGsqQl87BZIn4nt&ads.roku_ads_kids_content=0&ads.roku_ads_tracking_id=4b960fc4-42b3-5e4e-a1aa-d628e9b119ee&ads.roku_ads_limit_tracking=1&ads.roku_ads_content_genre=ROKU_ADS_CONTENT_GENRE&ads.roku_ads_content_id=8261dbb2128258b18159b2b63b2021f5&ads.rok
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News",FOX News
-https://h1.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIzIDE6NTY6MzggUE0maGFzaF92YWx1ZT1FRUw1NnVLRldrOGU5SFQ5VVBvdDhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h3.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIzIDQ6NTE6NTIgUE0maGFzaF92YWx1ZT1nWFJaTFB3ZXk4RkFpc3d1aktmdlRRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://siriusxm-art-dd.akamaized.net/images/chan/65/e2b2f3-cc37-2319-f30d-5585b5afbfae.png" group-title="News",MSNBC
-https://h4.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIzIDE6NTY6MzggUE0maGFzaF92YWx1ZT1FRUw1NnVLRldrOGU5SFQ5VVBvdDhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIzIDQ6NTI6MDYgUE0maGFzaF92YWx1ZT1pM1N5WERjckllcGsrTFpURGlucGxnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logod.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82547_dark_360w_270h.png" group-title="News",FOX Sports 1
-https://webdi.openhd.lol/wiki/wiki58/index.m3u8
+https://ivm.antenaplay.ro/live/live2_testsrt/playlist.m3u8?version=1&session=0Wy3apoxbwOOlEafpNDC&starttime=1673424126&endtime=1673438556&source=web&token=l6-Sep9nEy962SqpQict1CmXoZw=
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-name="OAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82542_dark_360w_270h.png" group-title="News",OAN
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax" tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="News",Newsmax
@@ -68,7 +70,7 @@ https://dcs-live.mp.lura.live/server/play/p0d3eNBh3XOxUQP7/manifest.m3u8?encp=8q
 #EXTINF:-1 tvg-id="TalkTV(src01).uk" tvg-name="Talk TV" tvg-logo="https://talk.tv/talktv/assets/logo.png" group-title="News",Talk TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAoDik6SnycC4LEQdTpbB130o0yLoB9Ko5rQ&usqp=CAU" group-title="News",GB News
-https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=1499968.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/GBNewsOnline/live
 #EXTINF:-1 tvg-id="RTRplaneta(src01).rs" tvg-name="RTR Planeta" tvg-logo="https://a-russia.ru/wp-content/uploads/2015/12/rtr-logo-65.jpg" group-title="News",RTR Planeta
 http://ott-cdn.ucom.am/s15/index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="News" tvg-shift="0",ABC News
@@ -172,7 +174,7 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17154_dark_360w_270h.png" group-title="UK",BBC Two
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAoDik6SnycC4LEQdTpbB130o0yLoB9Ko5rQ&usqp=CAU" group-title="UK",GB News
-https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=1499968.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/GBNewsOnline/live
 #EXTINF:-1 tvg-id="TalkTV(src01).uk" tvg-name="Talk TV" tvg-logo="https://talk.tv/media/fs5n4ha2/ttv-logo.png" group-title="UK",Talk TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83282_dark_360w_270h.png" group-title="UK",BBC Four
@@ -180,33 +182,35 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_h
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16234_dark_360w_270h.png" group-title="UK",Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 tvg-id="ITV1(Anglia).uk" tvg-name="ITV 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21824_dark_360w_270h.png" group-title="UK",ITV 1
-https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20630_dark_360w_270h.png" group-title="UK",ITV 2
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-ITV2/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44643_dark_360w_270h.png" group-title="UK",ITV 3
-https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-ITV3/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48020_dark_360w_270h.png" group-title="UK",ITV 4
-https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-ITV4/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17155_dark_360w_270h.png" group-title="UK",Channel 4
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaTV(src01).ro" tvg-name="Prima TV" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/a2e118b17d0c49e88354ba5883d91b0e.png" group-title="DIGI",Prima TV
-https://edge212.rcs-rds.ro/V5-2202172-f28b2854e61887eed5e55ccd53849724-1835124042-0-1665735831-133-primatv-b61cfce54694d8c5/digionline/primatvhd.stream/chunklist.m3u8
+https://ivm.antenaplay.ro/live/live2_ifight3/playlist.m3u8?version=1&session=0Wy3apoxbwOOlEafpNDC&starttime=1673424126&endtime=1673438556&source=web&token=l6-Sep9nEy962SqpQict1CmXoZw=
 #EXTINF:-1 tvg-id="AXN(src01).ro" tvg-name="AXN" tvg-logo="https://www.axn.ro/sites/ro.fern.axn/files/axn_main_logo_1.png" group-title="DIGI",AXN
-https://edge210.rcs-rds.ro/V5-6033879-ae6130003356f03ff4dadf7981c67977-1835124042-0-1665735854-44-axn-b61cfce54694d8c5/digionline/axnhd.stream/chunklist.m3u8
+https://ivm.antenaplay.ro/live/live2_ifight2/playlist.m3u8?version=1&session=0Wy3apoxbwOOlEafpNDC&starttime=1673424126&endtime=1673438556&source=web&token=l6-Sep9nEy962SqpQict1CmXoZw=
 #EXTINF:-1 tvg-id="AMC(src01).ro" tvg-name="AMC" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" group-title="DIGI",AMC
-https://edge213.rcs-rds.ro/V5-3508022-48352d10705e99ef5bc3f3b7602d82bd-1835124042-0-1665735868-102-amc-b61cfce54694d8c5/digionline/amchd.stream/chunklist.m3u8
+https://ivm.antenaplay.ro/live/live2_ifight1/playlist.m3u8?version=1&session=0Wy3apoxbwOOlEafpNDC&starttime=1673424126&endtime=1673438556&source=web&token=l6-Sep9nEy962SqpQict1CmXoZw=
 #EXTINF:-1 tvg-id="TCM(src01).ro" tvg-name="Warner TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115812_dark_360w_270h.png" group-title="DIGI",Warner TV
-https://edge211.rcs-rds.ro/V5-7425901-913b3833b0f388ab6eb4b16f4e88a486-1835124042-0-1665735888-91-tnt-b61cfce54694d8c5/digionline/tnthd.stream/chunklist.m3u8
+https://ivm.antenaplay.ro/live/live2_ai/playlist.m3u8?version=1&session=0Wy3apoxbwOOlEafpNDC&starttime=1673424126&endtime=1673438556&source=web&token=l6-Sep9nEy962SqpQict1CmXoZw=
 #EXTINF:-1 tvg-id="ComedyCentral(src01).ro" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="DIGI",Comedy Central
-https://edge210.rcs-rds.ro/V5-2090544-c903d4a42f61ef7fdf2710be0bc5464f-1835124042-0-1665735901-58-comedycentral-b61cfce54694d8c5/digionline/comedycentralhq.stream/chunklist.m3u8
+https://stream1.antenaplay.ro/live/AntenaMonden/index.m3u8?version=1&session=L9OZ4pMrfRin8m6idhef&starttime=1671723144&endtime=1671737574&source=web&token=C66XanOn7eppw7HRG2Idq5-s4CM=
 #EXTINF:-1 tvg-id="TV1000(src01).ro" tvg-name="TV1000" tvg-logo="https://www.tv1000.com.ro/assets/images/logo100.png" group-title="DIGI",TV1000
-https://edge210.rcs-rds.ro/V5-5909649-8d6c52bef11e1c3cca1fde11f4eea3d6-1835124042-0-1665735913-43-tv1000-b61cfce54694d8c5/digionline/tv1000hq.stream/chunklist.m3u8
+https://stream1.antenaplay.ro/live/ComedyPlay/index.m3u8?version=1&session=uLsHm7fomGTtr08u8ZT4&starttime=1671723168&endtime=1671737598&source=web&token=lvTOU2ADmVug1y8LcusbkKC5wiE=
 #EXTINF:-1 tvg-id="FilmCafe(src01).ro" tvg-name="Film Cafe" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzk3XzE1NTMzOTdf/RmlsbV9DYWZlLnBuZyZoYXNoPTAwZDM4/Yjc5YWVlMDQ0NjBhNWQzZDAxYzVmNDVhMTU1.png" group-title="DIGI",Film Cafe
-https://edge211.rcs-rds.ro/V5-2933073-cf57b9963fd0a14597858b184c78867e-1835124042-0-1665735926-94-filmcafe-b61cfce54694d8c5/digionline/filmcafehq.stream/chunklist.m3u8
+https://stream1.antenaplay.ro/live/HelloTaste/index.m3u8?version=1&session=MyQ3dlmsIUhoTWQBiLt5&starttime=1671723278&endtime=1671737708&source=web&token=oSruDQLJtppldF86Fz6PU_ZCHyc=
 #EXTINF:-1 tvg-id="DivaUniversal(src01).ro" tvg-name="DIVA" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzc4XzE1NTMzNzhf/RGl2YV9UVi5wbmcmaGFzaD03YjIxMTNm/MmE4ZjhmOGRmNTk4MWNmYTBkM2IxMGUyOA==.png" group-title="DIGI",DIVA
-https://edge213.rcs-rds.ro/V5-5858018-a56108a331461f6c6a97a6fdd07382c1-1835124042-0-1665735938-106-diva-b61cfce54694d8c5/digionline/divahq.stream/chunklist.m3u8
+https://stream1.antenaplay.ro/live/MireasaExtra/index.m3u8?version=1&session=XlAqXGoscdAkqj6RAuNt&starttime=1671723300&endtime=1671737730&source=web&token=neqqbmu0dUYzXkPLdCdlfxOEYDw=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemaraton" tvg-logo="https://www.cinemaraton.ro/wp-content/uploads/2015/01/Cinemaraton.png" group-title="DIGI",Cinemaraton
-https://edge214.rcs-rds.ro/V5-8751611-7ae3260d486c107649e20c7d3bb713a1-1835124042-0-1665735952-99-cinemaraton-b61cfce54694d8c5/digionline/cinemaratonhd.stream/chunklist.m3u8
+https://stream1.antenaplay.ro/live/CaTine/index.m3u8?version=1&session=N2xtSGLLTzso4Uw8nbx3&starttime=1671723386&endtime=1671737816&source=web&token=SQ1AgTgrkU7UZclhCmRATtw7LvA=
 #EXTINF:-1 tvg-id="Eurosport1Romania(src01).ro" tvg-name="Eurosport 1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eurosport_1_Serbia.png" group-title="DIGI",Eurosport 1
-https://edge24.rcs-rds.ro/V5-4684702-ff371bc5a3168cab1e1021e89b962990-1835124042-0-1665735968-31-eurosport-b61cfce54694d8c5/digionline/eurosporthd.stream/chunklist.m3u8
+https://stream1.antenaplay.ro/live/ComedyPlay/index.m3u8?version=1&session=BZUs3v2hkeOttU6VwpJH&starttime=1671757088&endtime=1671771518&source=web&token=k4-eOEmtQehv6L_dyBDoE4AuhzM=
 #EXTINF:-1 tvg-id="Eurosport2Romania(src01).ro" tvg-name="Eurosport 2" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eurosport_2_Serbia.png" group-title="DIGI",Eurosport 2
 https://edge24.rcs-rds.ro/V5-4938843-8b62c9dae6d5455f7b6d87cde0c3338f-1835124042-0-1665735980-32-eurosport2-b61cfce54694d8c5/digionline/eurosport2hd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="HTMusicChannel(src01).ro" tvg-name="H!T Music Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/a/a0/H%21TMusicChannelLogo.png" group-title="DIGI",H!T Music Channel
@@ -291,7 +295,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s86886_dark_360w_270h.png" group-title="DE",ZDF
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelle(Engl)(src01).de" tvg-name="DW English" tvg-logo="https://w12studios.com/wp-content/uploads/2018/08/DW_Logo.png" group-title="DE",DW English
+#EXTINF:-1 tvg-id="DeutscheWelle(Engl)(src01).de" tvg-name="DW English" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116024_dark_360w_270h.png" group-title="DE",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s67200_dark_360w_270h.png" group-title="DE",Welt
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
@@ -299,6 +303,18 @@ https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66621_dark_360w_270h.png" group-title="DE",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52564_dark_360w_270h.png" group-title="DE",RTL
+https://s6.hopslan.com/rtlu111/index.m3u8
+#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="RTL II" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66610_dark_360w_270h.png" group-title="DE",RTL II
+https://s6.hopslan.com/rtl2q1/index.m3u8?token=839c647709c5b65cf73281bb69139f9d55f34cb4-1ebbacd8dc1b771db43b18b9f1581242-1670632776-1670621976
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="PRO 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67203_dark_360w_270h.png" group-title="DE",PRO 7
+https://s6.hopslan.com/pro7q1/index.m3u8?token=603ad7cbdab76c4c488df5513f803643a5ec1b5a-62c1a0aee566b7b653b96cca7bb78a7e-1670632776-1670621976
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21842_dark_360w_270h.png" group-title="DE",SAT 1
+https://s6.hopslan.com/sat1q1/index.m3u8?token=80fdb1890923995f12a5b82ab964b67108518968-c011cdc32d8cfaccc5513f99c7b420eb-1670632777-1670621977
+#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66616_dark_360w_270h.png" group-title="DE",VOX
+https://s6.hopslan.com/voxq1/index.m3u8?token=1bd3abc8ae93ee580933a2c1b4cf8ee61bfcc137-cf975fe93b7b777b16dfd91a2e90c6c7-1670632776-1670621976
+#EXTINF:-1 tvg-id="kabeleins.de" tvg-name="Kabel 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67197_dark_360w_270h.png" group-title="DE",Kabel 1
+https://s6.hopslan.com/kabel1q1/index.m3u8?token=000673a0c6c10b5b8c7a53811c6434ad12e0a4f8-3a8fe06ca9b40d594883486b183a692c-1670632778-1670621978
 #EXTINF:-1 tvg-id="ABCWABC(src01).us" tvg-name="ABC NY HD" tvg-logo="https://lh3.googleusercontent.com/3cW6WFvbI8UgBK2kg5jx4wJNM_EOHsp42ShynjCwYO9KJTfsb58AvJZkoqQHUthV4Bn1DW5g_0y5bg=v2-s300" group-title="HD",ABC NY HD
 https://v-ny.mybtv.net/live/554/1280x720.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-id="FOX(WNYW)NewYorkNY(src01).us" tvg-name="FOX NY HD" tvg-logo="https://assets.brandfetch.io/6f429ba2bd7f483.png" group-title="HD",FOX NY HD
@@ -349,6 +365,12 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="truTV(Pacific).us" tvg-name="TruTV West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s64490_dark_360w_270h.png" group-title="HD",TruTV West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="NOVA(src01).bg" tvg-name="Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png" group-title="BG",Nova
+https://e203-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/at=O0M9MTA5Ljk3LjE5Ny43NDtFPTE2NzA3ODYyMDQ7QT0xO0s9MztQPTAxMTEwO1M9NDM3N2ZmYmYyYmQ3MzMzYWM0MDI3OWUyOGQzZWIyNmM3YmQwODdjYg==/playlist.m3u8
+#EXTINF:-1 tvg-id="NOVANews(src01).bg" tvg-name="Nova News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nova_News_Bulgaria_logo.png" group-title="BG",Nova News
+https://e203-ts.cdn.bg/ntv/fls/NNHD.stream/playlist.m3u8?at=7ba309ef897112dcdf0515ccf35b1019
+#EXTINF:-1 tvg-id="BNT1(src01).bg" tvg-name="BNT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/BNT4.png/250px-BNT4.png" group-title="BG",BNT 4
+http://e203-ts.cdn.bg/bnt1/fls/bntW.stream/at=O0M9MTA5Ljk3LjE5Ny43NDtFPTE2NzA3ODYyMzg7QT0xO0s9MztQPTAxMTEwO1M9ODQ2MDFjODJkN2ViYTIwMjBiNmM0MTQ0YTUxZmE5OGUwNWMxY2JkMA==/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature4K(English).ca" tvg-name="Love Nature 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s105598_dark_360w_270h.png" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-id="Clarity4K.us" tvg-name="Clarity 4K" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png" group-title="4K",Clarity 4K
