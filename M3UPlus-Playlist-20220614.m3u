@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p87vnr3qq9hwx41y41jm"
 #EXTINF:-1 tvg-id="PROTV(src01).ro" tvg-name="PRO TV" tvg-logo="https://cmero-ott-images-avod.ssl.cdn.cra.cz/rx/23daa37d-7b69-41ab-90ab-383cc67f3c05?default=b507a3ad-e712-494d-9667-5274d0c05bca" group-title="Principale",PRO TV
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+https://www.hlsrundle-stream-iptv.gq/api/hls/protv.m3u8
 #EXTINF:-1 tvg-id="Antena1(src01).ro" tvg-name="Antena 1" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3MDJfMTI5ODcwMl9B/bnRlbmEtMS1IRC5wbmcmaGFzaD1lZGIw/NDA0MzdlMDliMTgwZTE3MDZiN2UxY2U4NTg1NA==.png" group-title="Principale",Antena 1
-https://live3ro.antenaplay.ro/live2_testdai/live2_testdai_600k.m3u8?version=1&session=6CTQbClP5s2gkhUlpiTY&starttime=1661246682&endtime=1661261112&source=web&token=h_yh5rlxiQYd6IWPJyqPVf2qcDk=
+https://rundle.deta.dev/hls/LIVE$Antena1/6.m3u8/Level(19012010)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="Digi24(src01).ro" tvg-name="DIGI 24 HD" tvg-logo="https://www.digionline.ro/static/theme-ui-frontend/bin/images/footer/digi-24.png" group-title="Principale",DIGI 24 HD
-https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/219813ca-fd69-4293-88bb-dac0a7505a8e:CHS/master.m3u8
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="Antena3(src01).bg" tvg-name="Antena 3 CNN" tvg-logo="https://assets.antenaplay.ro/2022/10/24/HUA4X5c2dFIsScrTa0KZ.png" group-title="Principale",Antena 3 CNN
-https://ivm.antenaplay.ro/live/live2_testdai/playlist.m3u8?version=1&session=pNLrjMSV6UAjvs1uHkZU&starttime=1673455842&endtime=1673470272&source=web&token=_6Flt4pcE_VlxGPTrviGZ-VWdTo=
+https://rundle.deta.dev/hls/LIVE$Antena3/6.m3u8/Level(19012010)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="KanalD(src01).ro" tvg-name="Kanal D" tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/KanalD%20HD_m.png" group-title="Principale",Kanal D
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 #EXTINF:-1 tvg-id="PrimaTV(src01).ro" tvg-name="Prima TV" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/a2e118b17d0c49e88354ba5883d91b0e.png" group-title="Principale",Prima TV
