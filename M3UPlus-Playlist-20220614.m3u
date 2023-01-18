@@ -63,6 +63,8 @@ https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://thefirst-distroscale.amagi.tv/index360p.m3u8
 #EXTINF:-1 tvg-id="BlazeLive.us" tvg-name="BlazeTV" tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/get.blazetv.com/6d59809e-btv-brand-logo-whitered_107a02e06y02a00c004028.png" group-title="News",BlazeTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId=
+#EXTINF:-1 tvg-id="RAVTV.us" tvg-name="Real Americas Voice" tvg-logo="https://cdn.americasvoice.news/static/images/nav-logo/original.png" group-title="News",Real Americas Voice
+https://rumble.com/live-hls-dvr/23a9ku/playlist.m3u8?
 #EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" tvg-logo="https://p-img.movetv.com/cms/images/5cff26904a7a280b4078e4e3b2bb6f1877d21324.png" group-title="News",Newsy
 https://v-ny.mybtv.net/live/609/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-id="NewsNation.us" tvg-name="News Nation" tvg-logo="https://cdn.mos.cms.futurecdn.net/7RkNcznqnBuUAmkomRXkV4-970-75.png" group-title="News",News Nation
