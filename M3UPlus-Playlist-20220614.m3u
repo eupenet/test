@@ -59,9 +59,9 @@ http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15406
 http://pls.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FDigi4K%2Fvideo.m3u8&login=utrennik&key=X9ILnPx
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News",FOX News
-https://h2.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDY6MTc6MTQgUE0maGFzaF92YWx1ZT0xc3dMRW9hYm1DWmcyVzhUK0g3Snd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h2.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDk6NTA6NTEgUE0maGFzaF92YWx1ZT1uV2xqU3FkODhoRUp1WjNMUW9WYWZRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://siriusxm-art-dd.akamaized.net/images/chan/65/e2b2f3-cc37-2319-f30d-5585b5afbfae.png" group-title="News",MSNBC
-https://h2.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDY6MTc6MzggUE0maGFzaF92YWx1ZT00c1QyOUxWRVYzL2NCUmJ2OElxY2FBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h1.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDk6NTE6NDcgUE0maGFzaF92YWx1ZT1sQ0VqS0paSTd2SU5JSkdvR1A2ZGhnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logod.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
