@@ -68,8 +68,8 @@ https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CugEK9eJOOsQ76USO1YgR19bDoF
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logod.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14988_dark_360w_270h.png" group-title="News",FXM
-http://bandookk.xyz:8000/Geniptv/persian_share/31500
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",FOX
+https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-name="OAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82542_dark_360w_270h.png" group-title="News",OAN
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax" tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="News",Newsmax
