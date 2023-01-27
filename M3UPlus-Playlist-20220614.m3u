@@ -511,7 +511,7 @@ http://localiptv.site:85/LoganExSk/3VV4qfSU/356
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="US Cable",FOX News
 http://pls.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FHTM46713%2Fvideo.m3u8&login=utrennik&key=X9ILnPx
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="US Cable",FOX News
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15821
+http://c8bcc51f.ottrast.com/iptv/ZCMH78WDSG7QQU/19147/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="US Cable",FOX News
 http://62.182.83.91:80/adagio-discord/xZpWNf4md2/881
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="US Cable",MSNBC
