@@ -28,9 +28,13 @@ https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="B1(src01).ro" tvg-name="B1 TV" tvg-logo="http://b1tv.ro/wp-content/uploads/2021/11/b1-tv.jpg" group-title="Principale",B1 TV
 https://rundle.deta.dev/hls/LIVE$B1/6.m3u8/Level(19012010)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="RomaniaTV(src01).ro" tvg-name="Romania TV" tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/Romania%20TV_m.png" group-title="Principale",Romania TV
-http://localiptv.site:85/LoganExSk/3VV4qfSU/133
+https://rundle.deta.dev/hls/LIVE$RomaniaTV.ro/6.m3u8/Level(19012010)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="PrimaTV(src01).ro" tvg-name="Prima News" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/2dd616c04a9531decf47beba2f0324f8.png" group-title="Principale",Prima News
-https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=227ac85cab7fc8f2232107ba5d277b65a4d08fe1
+https://rundle.deta.dev/hls/LIVE$PrimaNews.ro/6.m3u8/Level(19012010)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="PRO2(src01).ro" tvg-name="PRO Arena" tvg-logo="https://cmero-ott-images-avod.ssl.cdn.cra.cz/rx/6f605742-48ec-45b1-a131-4d0b6d37e2a8.png" group-title="Principale",PRO Arena
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist/rum/live_fullhd.m3u8?offsetSeconds=3&url=3
+#EXTINF:-1 tvg-id="PRO2(src01).ro" tvg-name="PRO Arena" tvg-logo="https://cmero-ott-images-avod.ssl.cdn.cra.cz/rx/6f605742-48ec-45b1-a131-4d0b6d37e2a8.png" group-title="Principale",PRO Arena
+https://rundle.deta.dev/hls/LIVE$PROArena.ro/6.m3u8/Level(19012010)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="OrangeSport1(src01).ro" tvg-name="Orange Sport 1" tvg-logo="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/attachments/OS1.png" group-title="Principale",Orange Sport 1
 http://pls.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FTelekomSport1HDRO%2Fvideo.m3u8&login=utrennik&key=X9ILnPx
 #EXTINF:-1 tvg-id="OrangeSport2(src01).ro" tvg-name="Orange Sport 2" tvg-logo="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/attachments/OS2.png" group-title="Principale",Orange Sport 2
@@ -40,13 +44,15 @@ http://pls.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2F
 #EXTINF:-1 tvg-id="OrangeSport4(src01).ro" tvg-name="Orange Sport 4" tvg-logo="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/attachments/OS4.png" group-title="Principale",Orange Sport 4
 http://pls.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FTelekomSport4HDRO%2Fvideo.m3u8&login=utrennik&key=X9ILnPx
 #EXTINF:-1 tvg-id="PrimaSport1(src01).ro" tvg-name="Prima Sport 1" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport1.png" group-title="Principale",Prima Sport 1
-http://pls.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FLookSportPlusHDRO%2Fvideo.m3u8&login=utrennik&key=X9ILnPx
+https://rundle.deta.dev/hls/LIVE$PrimaSport1.ro/6.m3u8/Level(19012010)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="PrimaSport2(src01).ro" tvg-name="Prima Sport 2" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport2.png" group-title="Principale",Prima Sport 2
-http://pls.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FLookSportHDRO%2Fvideo.m3u8&login=utrennik&key=X9ILnPx
+https://rundle.deta.dev/hls/LIVE$PrimaSport2.roLooksport/6.m3u8/Level(19012010)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="PrimaSport3(src01).ro" tvg-name="Prima Sport 3" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport3.png" group-title="Principale",Prima Sport 3
-http://pls.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FLookSport3HDRO%2Fvideo.m3u8&login=utrennik&key=X9ILnPx
+https://rundle.deta.dev/hls/LIVE$PrimaSport3.ro/6.m3u8/Level(19012010)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="PrimaSport4(src01).ro" tvg-name="Prima Sport 4" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport4.png" group-title="Principale",Prima Sport 4
-http://pls.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FLookSport2HDRO%2Fvideo.m3u8&login=utrennik&key=X9ILnPx
+https://rundle.deta.dev/hls/LIVE$PrimaSport4.roLooksport2/6.m3u8/Level(19012010)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="PrimaSport5(src01).ro" tvg-name="Prima Sport 5" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport4.png" group-title="Principale",Prima Sport 5
+https://rundle.deta.dev/hls/LIVEPrimaSport5.ro/6.m3u8/Level(19012010)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="DigiSport1(src01).ro" tvg-name="DIGI sport 1" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-1.png" group-title="Principale",DIGI sport 1
 http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15401
 #EXTINF:-1 tvg-id="DigiSport2(src01).ro" tvg-name="DIGI sport 2" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-2.png" group-title="Principale",DIGI sport 2
@@ -557,3 +563,13 @@ https://v-pi.mybtv.net/live/318/768x432.m3u8?env=prd&uid=-1&x=1
 https://v-pi.mybtv.net/live/369/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-id="WHTMDT.us" tvg-name="PHL17 (WPHL-DT1)" tvg-logo="https://phl17.com/wp-content/uploads/sites/7/2020/01/favicon.png?strip=1&w=250" group-title="US Local",PHL17 (WPHL-DT1)
 https://v-pi.mybtv.net/live/355/768x432.m3u8?env=prd&uid=-1&x=1
+
+#EXTINF:-1 tvg-id="WNBCDT.us" tvg-name="NBC PB PA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG9ctjAcMx3y7auMwtjdMiuE2xv8ltjMsgpiNz-gyOUnzT5mtv4KieWAqGzn-9me-2INI&usqp=CAU" group-title="US Local",NBC PB PA
+http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/683365.ts
+#EXTINF:-1 tvg-id="WPVIDT.us" tvg-name="ABC PB PA" tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wpvi_icon.png" group-title="US Local",ABC PB PA
+http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/683277.ts
+#EXTINF:-1 tvg-id="KYWDT.us" tvg-name="CBS PB PA" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/10/CBS_3_News_Philly_logo.png" group-title="US Local",CBS PB PA
+http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/683315.ts
+#EXTINF:-1 tvg-id="WTXFDT.us" tvg-name="FOX PB PA" tvg-logo="https://livetv.wtvpc.com/wp-content/uploads/2017/09/wtxf_live_online.png" group-title="US Local",FOX PB PA
+http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/683379.ts
+
