@@ -54,13 +54,13 @@ https://rundle.deta.dev/hls/LIVE$PrimaSport4.roLooksport2/6.m3u8/Level(19012010)
 #EXTINF:-1 tvg-id="PrimaSport5(src01).ro" tvg-name="Prima Sport 5" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport4.png" group-title="Principale",Prima Sport 5
 https://rundle.deta.dev/hls/LIVEPrimaSport5.ro/6.m3u8/Level(19012010)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="DigiSport1(src01).ro" tvg-name="DIGI sport 1" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-1.png" group-title="Principale",DIGI sport 1
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15401
+http://cdn.spmr.tv:8080/co3k2z/video.m3u8?token=0S4ML82WMM
 #EXTINF:-1 tvg-id="DigiSport2(src01).ro" tvg-name="DIGI sport 2" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-2.png" group-title="Principale",DIGI sport 2
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15402
+http://cdn.spmr.tv:8080/h4jgxs/video.m3u8?token=0S4ML82WMM
 #EXTINF:-1 tvg-id="DigiSport3(src01).ro" tvg-name="DIGI sport 3" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-3.png" group-title="Principale",DIGI sport 3
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15404
+http://cdn.spmr.tv:8080/hmx73d/video.m3u8?token=0S4ML82WMM
 #EXTINF:-1 tvg-id="DigiSport4(src01).ro" tvg-name="DIGI sport 4" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport-4.png" group-title="Principale",DIGI sport 4
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15406
+http://cdn.spmr.tv:8080/m0e9d8/video.m3u8?token=0S4ML82WMM
 #EXTINF:-1 tvg-id="DigiSport1(src01).ro" tvg-name="DIGI 4K" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0d/Digi_4K_%282018-.n.v.%29.png" group-title="Principale",DIGI 4K
 http://pls.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FDigi4K%2Fvideo.m3u8&login=utrennik&key=X9ILnPx
 #EXTINF:-1 tvg-id="Eurosport1Romania(src01).ro" tvg-name="Eurosport 4K" tvg-logo="https://www.nwradu.ro/wp-content/uploads/2020/01/feat_eurosport_4k.png" group-title="Principale",Eurosport 4K
