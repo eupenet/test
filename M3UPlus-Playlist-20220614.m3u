@@ -564,12 +564,12 @@ https://v-pi.mybtv.net/live/369/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-id="WHTMDT.us" tvg-name="PHL17 (WPHL-DT1)" tvg-logo="https://phl17.com/wp-content/uploads/sites/7/2020/01/favicon.png?strip=1&w=250" group-title="US Local",PHL17 (WPHL-DT1)
 https://v-pi.mybtv.net/live/355/768x432.m3u8?env=prd&uid=-1&x=1
 
-#EXTINF:-1 tvg-id="WNBCDT.us" tvg-name="NBC PB PA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG9ctjAcMx3y7auMwtjdMiuE2xv8ltjMsgpiNz-gyOUnzT5mtv4KieWAqGzn-9me-2INI&usqp=CAU" group-title="US Local",NBC PB PA
+#EXTINF:-1 tvg-id="WPXIDT.us" tvg-name="NBC PB PA" tvg-logo="https://hopeforghana.com/wp-content/uploads/2019/11/wpxi1.png" group-title="US Local",NBC11 (WPXI)
 http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/683365.ts
-#EXTINF:-1 tvg-id="WPVIDT.us" tvg-name="ABC PB PA" tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wpvi_icon.png" group-title="US Local",ABC PB PA
+#EXTINF:-1 tvg-id="WTAEDT.us" tvg-name="ABC PB PA" tvg-logo="https://static.wikia.nocookie.net/annex/images/2/27/WTAE-ABC-Black.jpg" group-title="US Local",ABC4 (WTAE)
 http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/683277.ts
-#EXTINF:-1 tvg-id="KYWDT.us" tvg-name="CBS PB PA" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/10/CBS_3_News_Philly_logo.png" group-title="US Local",CBS PB PA
+#EXTINF:-1 tvg-id="KDKADT.us" tvg-name="CBS PB PA" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/08/KDKA_TV_logo.png" group-title="US Local",CBS2 (KDKA)
 http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/683315.ts
-#EXTINF:-1 tvg-id="WTXFDT.us" tvg-name="FOX PB PA" tvg-logo="https://livetv.wtvpc.com/wp-content/uploads/2017/09/wtxf_live_online.png" group-title="US Local",FOX PB PA
+#EXTINF:-1 tvg-id="WPGHDT.us" tvg-name="FOX PB PA" tvg-logo="https://wpgh53.com/resources/assets/wpgh/images/brand-icons/WPGH-16x9.jpg" group-title="US Local",FOX53 (WPGH)
 http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/683379.ts
 
