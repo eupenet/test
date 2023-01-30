@@ -512,7 +512,7 @@ http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/39363.ts
 #EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="US Cable" tvg-shift="0",HBO Comedy
 http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/39364.ts
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="US Cable",HBO Family
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15880
+http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/39367.ts
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59363_dark_360w_270h.png" group-title="US Cable",HBO Signature
 http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/39368.ts
 #EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59845_dark_360w_270h.png" group-title="US Cable",HBO Zone
