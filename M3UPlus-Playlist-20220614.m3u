@@ -508,7 +508,7 @@ http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15915
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="US Cable",HBO
 http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/39366.ts
 #EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="US Cable",HBO 2
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15876
+http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/39363.ts
 #EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="US Cable" tvg-shift="0",HBO Comedy
 http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15878
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="US Cable",HBO Family
