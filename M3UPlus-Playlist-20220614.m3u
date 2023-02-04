@@ -594,12 +594,18 @@ http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/39322.ts
 http://c8bcc51f.ottrast.com/iptv/ZCMH78WDSG7QQU/19147/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="US Cable",FOX News
 http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/39629.ts
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="US Cable",FOX News
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15821
 #EXTINF:-1 tvg-id="NewsNation.us" tvg-name="NewsNation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91096_dark_360w_270h.png" group-title="US Cable",NewsNation
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/8356
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="FOX Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="US Cable",FOX Business
 http://titancode.one:2082/live/@Mutimulti/xvVa7sBIW1/39316.ts
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="US Cable",MSNBC
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1051
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="US Cable",MSNBC
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15828
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logod.png" group-title="US Cable",CNN
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15819
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC7 NY (WABC-TV)" tvg-logo="https://lh3.googleusercontent.com/3cW6WFvbI8UgBK2kg5jx4wJNM_EOHsp42ShynjCwYO9KJTfsb58AvJZkoqQHUthV4Bn1DW5g_0y5bg=v2-s300" group-title="US Local",ABC7 NY (WABC-TV)
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8?ad._v=2&ad.preroll=1&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316918&rays=ihgfedc
 #EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX5 NY (WNYW)" tvg-logo="https://assets.brandfetch.io/6f429ba2bd7f483.png" group-title="US Local",FOX5 NY (WNYW)
