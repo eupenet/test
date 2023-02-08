@@ -60,7 +60,9 @@ http://84.17.61.203:8086/udp/238.2.25.83:1234
 #EXTINF:-1 tvg-id="DigiSport1(src01).ro" tvg-name="DIGI 4K" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0d/Digi_4K_%282018-.n.v.%29.png" group-title="Principale",DIGI 4K
 http://pls.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FDigi4K%2Fvideo.m3u8&login=utrennik&key=X9ILnPx
 #EXTINF:-1 tvg-id="Eurosport1Romania(src01).ro" tvg-name="Eurosport 4K" tvg-logo="https://www.nwradu.ro/wp-content/uploads/2020/01/feat_eurosport_4k.png" group-title="Principale",Eurosport 4K
-http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=0S4ML82WMM
+http://canalelive-xyz.website:8880/GutaMarin/HWRAvC6FdUqx/17478
+#EXTINF:-1 tvg-id="PrimaSport1(src01).ro" tvg-name="Prima Sport 4K" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/primasport1.png" group-title="Principale",Prima Sport 4K
+http://canalelive-xyz.website:8880/GutaMarin/HWRAvC6FdUqx/17481
 
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News",FOX News
