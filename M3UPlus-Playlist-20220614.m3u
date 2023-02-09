@@ -84,6 +84,7 @@ https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="TheFirst.us" tvg-name="The First" tvg-logo="https://tf-a1.azureedge.net/static/images/header-logo2.png" group-title="News",The First
 https://thefirst-distroscale.amagi.tv/index360p.m3u8
+
 #EXTINF:-1 tvg-id="BlazeLive.us" tvg-name="BlazeTV" tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/get.blazetv.com/6d59809e-btv-brand-logo-whitered_107a02e06y02a00c004028.png" group-title="News",BlazeTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Americas Voice" tvg-logo="https://cdn.americasvoice.news/static/images/nav-logo/original.png" group-title="News",Real Americas Voice
