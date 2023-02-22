@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p87vnr3qq9hwx41y41jm"
 #EXTINF:-1 tvg-id="PROTV(src01).ro" tvg-name="PRO TV" tvg-logo="https://cmero-ott-images-avod.ssl.cdn.cra.cz/rx/23daa37d-7b69-41ab-90ab-383cc67f3c05?default=b507a3ad-e712-494d-9667-5274d0c05bca" group-title="Principale",PRO TV
-http://localiptv.site:85/LoganExSk/3VV4qfSU/134
+https://play.stirilepe.net/protvhd/video.m3u8
 #EXTINF:-1 tvg-id="Antena1(src01).ro" tvg-name="Antena 1" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3MDJfMTI5ODcwMl9B/bnRlbmEtMS1IRC5wbmcmaGFzaD1lZGIw/NDA0MzdlMDliMTgwZTE3MDZiN2UxY2U4NTg1NA==.png" group-title="Principale",Antena 1
 http://canalelive-xyz.website:8880/GutaMarin/HWRAvC6FdUqx/7
 #EXTINF:-1 tvg-id="Digi24(src01).ro" tvg-name="DIGI 24 HD" tvg-logo="https://www.digionline.ro/static/theme-ui-frontend/bin/images/footer/digi-24.png" group-title="Principale",DIGI 24 HD
@@ -62,7 +62,7 @@ http://84.17.61.203:8086/udp/238.2.25.83:1234
 #EXTINF:-1 tvg-id="DigiSport1(src01).ro" tvg-name="DIGI 4K" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0d/Digi_4K_%282018-.n.v.%29.png" group-title="Principale",DIGI 4K
 http://pls.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FDigi4K%2Fvideo.m3u8&login=utrennik&key=X9ILnPx
 #EXTINF:-1 tvg-id="Eurosport1Romania(src01).ro" tvg-name="Eurosport 4K" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/eurosport_4k_wide.png" group-title="Principale",Eurosport 4K
-http://canalelive-xyz.website:8880/GutaMarin/HWRAvC6FdUqx/17478
+https://play.stirilepe.net/eurosportsd/video.m3u8
 #EXTINF:-1 tvg-id="PrimaSport1(src01).ro" tvg-name="Prima 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Prima_4K_2022.svg/revision/latest/scale-to-width-down/250?cb=20230127045842" group-title="Principale",Prima 4K
 http://canalelive-xyz.website:8880/GutaMarin/HWRAvC6FdUqx/17481
 
