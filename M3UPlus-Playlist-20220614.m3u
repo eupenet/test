@@ -392,7 +392,7 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAoDik6SnycC4LEQdTpbB130o0yLoB9Ko5rQ&usqp=CAU" group-title="UK",GB News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/GBNewsOnline/live
 #EXTINF:-1 tvg-id="TalkTV(src01).uk" tvg-name="Talk TV" tvg-logo="https://talk.tv/media/fs5n4ha2/ttv-logo.png" group-title="UK",Talk TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/95548a7c-d9d6-48ca-bbfb-b3afe29842a7/0.m3u8
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83282_dark_360w_270h.png" group-title="UK",BBC Four
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16234_dark_360w_270h.png" group-title="UK",Sky News
