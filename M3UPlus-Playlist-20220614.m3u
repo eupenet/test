@@ -111,6 +111,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playli
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/GBNewsOnline/live
 #EXTINF:-1 tvg-id="RTRplaneta(src01).rs" tvg-name="RTR Planeta" tvg-logo="https://a-russia.ru/wp-content/uploads/2015/12/rtr-logo-65.jpg" group-title="News",RTR Planeta
 http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:-1 tvg-id="RTRplaneta(src01).rs" tvg-name="Rossiya 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/1200px-Rossiya-1_Logo.svg.png" group-title="News",Rossiya 1
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist.m3u8?md5=BxxLxVnmq5HmjwpusQW9xA&e=1683629280
+#EXTINF:-1 tvg-id="RTRplaneta(src01).rs" tvg-name="Rossiya 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/2560px-Rossiya-24_Logo.svg.png" group-title="News",Rossiya 24
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist.m3u8?md5=-YN40vmWpTfG33eiVzkRqw&e=1683640980
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="News" tvg-shift="0",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="FOXWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="News",FOX Weather
