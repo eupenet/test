@@ -113,7 +113,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/GBNew
 http://ott-cdn.ucom.am/s15/index.m3u8
 #EXTINF:-1 tvg-id="RTRplaneta(src01).rs" tvg-name="Rossiya 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/1200px-Rossiya-1_Logo.svg.png" group-title="News",Rossiya 1
 https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist.m3u8?md5=BxxLxVnmq5HmjwpusQW9xA&e=1683629280
-#EXTINF:-1 tvg-id="RTRplaneta(src01).rs" tvg-name="Rossiya 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/2560px-Rossiya-24_Logo.svg.png" group-title="News",Rossiya 24
+#EXTINF:-1 tvg-id="Rossiya24(Russian).us" tvg-name="Rossiya 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/2560px-Rossiya-24_Logo.svg.png" group-title="News",Rossiya 24
 https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist.m3u8?md5=-YN40vmWpTfG33eiVzkRqw&e=1683640980
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="News" tvg-shift="0",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -129,7 +129,7 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10146_dark_360w_270h.png" group-title="News",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="ChannelOneRussia(Russian).de" tvg-name="Euronews" tvg-logo="https://static.euronews.com/website/images/euronews_logo.png" group-title="News",Euronews
+#EXTINF:-1 tvg-id="ChannelOneRussiaWorldwideNetwork(Russian).us" tvg-name="Euronews" tvg-logo="https://static.euronews.com/website/images/euronews_logo.png" group-title="News",Euronews
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC Europe" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68892_dark_360w_270h.png" group-title="News",CNBC Europe
 http://ott-cdn.ucom.am/s65/index.m3u8
