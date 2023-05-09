@@ -129,7 +129,7 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10146_dark_360w_270h.png" group-title="News",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="RTRplaneta(src01).rs" tvg-name="RTR Planeta" tvg-logo="https://a-russia.ru/wp-content/uploads/2015/12/rtr-logo-65.jpg" group-title="News",RTR Planeta
+#EXTINF:-1 tvg-id="RTRplaneta(src01).rs" tvg-name="RTR Planeta" tvg-logo="https://thumbs.dfs.ivi.ru/storage8/contents/d/0/21d6a0977ee98a6da959a17dbb2dbf.png" group-title="News",RTR Planeta
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC Europe" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68892_dark_360w_270h.png" group-title="News",CNBC Europe
 http://ott-cdn.ucom.am/s65/index.m3u8
