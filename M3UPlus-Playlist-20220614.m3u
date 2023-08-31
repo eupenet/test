@@ -68,7 +68,7 @@ http://canalelive-xyz.website:8880/GutaMarin/HWRAvC6FdUqx/17481
 
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News",FOX News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687386648/ei/uCWTZLH1MtLj8wSvloDYBg/ip/109.97.197.74/id/py0stU519gs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qEK7B07B63biXVc4KvHmA0c3d0DNPgGeu7wSK4jcXg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000012/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZAeIKNdok3mKA2gaRmcqsRUvNM344JlwltjitYCJfpkCIQCh4UCoB6j3yC7pa7aiiHDGrcY4ohRoctpNBohwog6e1g%3D%3D/file/index.m3u8
+https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8
 
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://siriusxm-art-dd.akamaized.net/images/chan/65/e2b2f3-cc37-2319-f30d-5585b5afbfae.png" group-title="News",MSNBC
@@ -77,14 +77,6 @@ https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/Cp8FsuSPgC5sPPm9dlrOO6BhrIH
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logod.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-
-
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News",FOX News - BK
-https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8
-
-
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://siriusxm-art-dd.akamaized.net/images/chan/65/e2b2f3-cc37-2319-f30d-5585b5afbfae.png" group-title="News",MSNBC - BK
-https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CqUF_eaqyEs1NsedwfybLru4pYCfriM6SXQY6oChBHw6KAIpLfW1sOoXHjNlVSCblI1pLnZCYu8xft33b5qzi7p3W7Ouxwcz7AH3O7xWEKT61kuet3Sh9Wf8KuwAbHPUiPfIEc9Lh82XQXt3kv3PW1RqT5xk09noSEW88oIr10RxM771p3ZkmUQoxoKn7UoSVmASBHTyBV6-LFugzmosVINrq5u5H7dXDMvbNnYK22Tm_h2nhnzt-Z_o0adlM-5FlMWSyYoYmPVldOI8ZodVc6dG3GtP3n11UNQlhMU_MF1t166yTlAa7603DGJ4oadrm-BYM3EMnZ48qegzdhgZvWOHLINKdtrrr7NWb1dI4ZFUM6MBOqe6chd1OTEgmqNDqA_XyMK1JLLPt4M6dwnEGpJarnOzX7TdwYKxPL3iL2YiFDp2bKsOhdWGJbNZkK_Uq5F7pWC19BDCeHV8TV51hM4N2gqMkLHC3FOKH1GUgMLr9mKyhJPYoLdb2yJBMw1FtieTc96r_5kl9LxMrb9M80XnTzr3CmJhc4j60907TkjXuu2aK5CM5w083RBNvd1muqBBeQFyR9_H7HPkVNTZahqMPrVNIGcXKAIkIIjvWPPI2L3MubYTFeiidYLWqdUfExTaF6J8ckGCD3xkjHhsa_F_njIxE6oHHUSqf4X5geI7YWs7_XvGcOTpPBIa6o89V1Ncyq69jp7Ube_bzRK_JvIfbLD07rVYCBpPGCITTkT3RX-SxUWn0A8HDCW52_DjMUUI0xp9QymyeZARaJHWHwRtgrBKCVMHTMK0pZkfkE7ebedi2EZ28m-oQ7mPDG6qzxKVWOcsWDXR27ySHjRczJxWUkt8OXsWByDdJ2xfuwuVI0gnuBlDymt4i4slpxOchEYSB8vMjLQaDDLNjvmhXwb59-RkTCABKgl1cy13ZXN0LTIwrgc.m3u8
 
 
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="FOX Business Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="News",FOX Business Network
@@ -117,6 +109,16 @@ https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist.m3u8?md5=oGn_SJ9-l6LX1v
 https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist.m3u8?md5=-YN40vmWpTfG33eiVzkRqw&e=1683640980
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="News" tvg-shift="0",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News",FOX News - BK
+https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8
+
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://siriusxm-art-dd.akamaized.net/images/chan/65/e2b2f3-cc37-2319-f30d-5585b5afbfae.png" group-title="News",MSNBC - BK
+https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CqUF_eaqyEs1NsedwfybLru4pYCfriM6SXQY6oChBHw6KAIpLfW1sOoXHjNlVSCblI1pLnZCYu8xft33b5qzi7p3W7Ouxwcz7AH3O7xWEKT61kuet3Sh9Wf8KuwAbHPUiPfIEc9Lh82XQXt3kv3PW1RqT5xk09noSEW88oIr10RxM771p3ZkmUQoxoKn7UoSVmASBHTyBV6-LFugzmosVINrq5u5H7dXDMvbNnYK22Tm_h2nhnzt-Z_o0adlM-5FlMWSyYoYmPVldOI8ZodVc6dG3GtP3n11UNQlhMU_MF1t166yTlAa7603DGJ4oadrm-BYM3EMnZ48qegzdhgZvWOHLINKdtrrr7NWb1dI4ZFUM6MBOqe6chd1OTEgmqNDqA_XyMK1JLLPt4M6dwnEGpJarnOzX7TdwYKxPL3iL2YiFDp2bKsOhdWGJbNZkK_Uq5F7pWC19BDCeHV8TV51hM4N2gqMkLHC3FOKH1GUgMLr9mKyhJPYoLdb2yJBMw1FtieTc96r_5kl9LxMrb9M80XnTzr3CmJhc4j60907TkjXuu2aK5CM5w083RBNvd1muqBBeQFyR9_H7HPkVNTZahqMPrVNIGcXKAIkIIjvWPPI2L3MubYTFeiidYLWqdUfExTaF6J8ckGCD3xkjHhsa_F_njIxE6oHHUSqf4X5geI7YWs7_XvGcOTpPBIa6o89V1Ncyq69jp7Ube_bzRK_JvIfbLD07rVYCBpPGCITTkT3RX-SxUWn0A8HDCW52_DjMUUI0xp9QymyeZARaJHWHwRtgrBKCVMHTMK0pZkfkE7ebedi2EZ28m-oQ7mPDG6qzxKVWOcsWDXR27ySHjRczJxWUkt8OXsWByDdJ2xfuwuVI0gnuBlDymt4i4slpxOchEYSB8vMjLQaDDLNjvmhXwb59-RkTCABKgl1cy13ZXN0LTIwrgc.m3u8
+
+
 #EXTINF:-1 tvg-id="FOXWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="News",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="AccuWeather.us" tvg-name="AccuWeather" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91994_dark_360w_270h.png" group-title="News",AccuWeather
