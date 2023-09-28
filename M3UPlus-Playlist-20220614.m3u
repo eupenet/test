@@ -6,7 +6,7 @@ http://canalelive-xyz.website:8880/GutaMarin/HWRAvC6FdUqx/7
 #EXTINF:-1 tvg-id="Digi24(src01).ro" tvg-name="DIGI 24 HD" tvg-logo="https://www.digionline.ro/static/theme-ui-frontend/bin/images/footer/digi-24.png" group-title="Principale",DIGI 24 HD
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="Antena3(src01).bg" tvg-name="Antena 3 CNN" tvg-logo="https://assets.antenaplay.ro/2022/10/24/HUA4X5c2dFIsScrTa0KZ.png" group-title="Principale",Antena 3 CNN
-https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=NJevm5sQ48E28koPjXfx&starttime=1692812821&endtime=1692827251&source=web&token=7I0Tha8WYtzMR6fnoLAMBd6Py7Q=
+https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=GcfiFXEGIDjpyddTRYJu&starttime=1695886518&endtime=1695900948&source=web&token=_pzJWrHaOjXOxXCr4eLkTbhmWJ8=
 #EXTINF:-1 tvg-id="PrimaTV(src01).ro" tvg-name="Prima TV" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/a2e118b17d0c49e88354ba5883d91b0e.png" group-title="Principale",Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
 #EXTINF:-1 tvg-id="KanalD(src01).ro" tvg-name="Kanal D" tvg-logo="https://oro.solocoo.tv/oroiphone/mmchan/channelicons/KanalD%20HD_m.png" group-title="Principale",Kanal D
