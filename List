@@ -27,7 +27,7 @@ https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
 #EXTINF:0 tvg-id="TVR3.ro" tvg-logo="http://www.tvr.ro/images/logo_stations_tvr3.png", TVR 3
 https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
-#EXTINF:0 tvg-id="PrimaTV.ro" tvg-logo="https://www.primasport.ro/assets/imgs/footer-clever/logo-primatv.png", Prima TV
+#EXTINF:0 tvg-id="PrimaTV.ro" tvg-logo="https://clever-media.ro/wp-content/themes/clever-media2/assets/imgs/homepage/prima-tv-new.jpg", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
 #EXTINF:0 tvg-id="KanalD.ro" tvg-logo="https://wp16-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10087_c_3c72e8a7c17666b5e2ae90c146f872c6.png", Kanal D
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
