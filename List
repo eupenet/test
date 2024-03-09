@@ -10,33 +10,21 @@ https://ivm.antenaplay.ro/live/a1/playlist.m3u8?version=1&session=4q1cSmNL9WPiSR
 #EXTINF:0 tvg-id="PrimaTV.ro" tvg-logo="https://wp7-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10010_c_04c0d5a5d609f78a67a9a6774c442ffc.png", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
 #EXTINF:0 tvg-id="KanalD.ro" tvg-logo="https://wp16-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10087_c_3c72e8a7c17666b5e2ae90c146f872c6.png", Kanal D
-https://edge214.rcs-rds.ro/V5-2563424-26a66a2b38fc1a0c0d1bce3dbe5a4018-1835124042-0-1642480520-30-kanald-b61cfce54694d8c5/digionline/kanaldhd.stream/chunklist.m3u8
+https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 #EXTINF:0 tvg-id="TVR1.ro" tvg-logo="http://tvr1.tvr.ro/images/logo_footer_tvr1.png", TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 #EXTINF:0 tvg-id="B1.ro" tvg-logo="https://i.ytimg.com/vi/LkdwrBC8BK8/maxresdefault.jpg", B1 TV
-https://stream.adunity.com/b1/b1.m3u8
+https://app.dejacast.com/player/d0mwnvrf/live-b1tv.js?playbackURL=https%3A%2F%2Flive-milos.cdn.dejacast.com%2Fb1tv%2Fb1tv.m3u8%3Ffrom%3D1710008528%26to%3D1710030128%26session%3DRfdUsQEeJs7wskZy%26source%3Dcms%26token%3DSd__AzvgqswpID7fss36_LPXVBs%3D
 
 #EXTINF:0 tvg-id="Digi24.ro", DIGI 24 HD
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/antena3_ro-160x90.png", Antena 3
-https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=hPKXefsuajjeHWmWpBoV&starttime=1648833612&endtime=1648848042&source=web&token=B6X826Pqq7GBSni1VwgEA6-ryNo=
+https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=UH11HMviBdA6zpjOEOtf&starttime=1710008397&endtime=1710022827&source=web&token=46S73A30PP6fUisCDIh1Cm-nSp4=
 #EXTINF:0 tvg-id="RomaniaTV.ro" tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 
-#EXTINF:0 tvg-id="Eurosport.ro", Eurosport
-https://edge74.rcs-rds.ro/V5-4943212-84d4ab288a520b02685af0ab72314fa5-1835124042-0-1642480760-31-eurosport-b61cfce54694d8c5/digionline/eurosporthd.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="Eurosport2.ro", Eurosport 2
-https://edge214.rcs-rds.ro/V5-9782788-ba513c17aa11c1012a1a07d27623996f-1835124042-0-1642480732-32-eurosport2-b61cfce54694d8c5/digionline/eurosport2hd.stream/chunklist.m3u8
-
-#EXTINF:0, Tucker
-https://content-ause2-ur-fox1.uplynk.com/a3d372a9d9fa4d9ab2c247a3a8952956/i.m3u8?pbs=8dff655641c84cec885ad76d6f640049
-#EXTINF:0, Hannity
-https://content-ausw1-ur-fox1.uplynk.com/aa0aa1a5f93b40969dbcadc87eb5576d/i.m3u8?pbs=41616167fbc646bc962fa0856cd53c76
-#EXTINF:0, Laura
-https://vod3ro.antenaplay.ro/antena1/2022/12/30/aaa67624210352c725100db3eda310dca269674297f079292af2e8b6a1c7f96b_,480p-wide,720p-wide,.mp4.urlset/master.m3u8?starttime=1672912675&endtime=1672919875&source=web&token=fEQFvWHrzy2Ov5_9bl8YM09h-OA=
-
 #EXTINF:0 tvg-id="FOXNews.us", FOX News
-https://h2.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjIgNTowOToxMyBQTSZoYXNoX3ZhbHVlPTlyaVdWOEg1UTNoekI2dGQwNy9SRUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/77
 
 #EXTINF:0 tvg-id="RealitateaPlus.ro" tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
 https://stream.realitatea.net/realitatea/plus_hd/playlist.m3u8
