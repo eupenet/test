@@ -48,14 +48,14 @@ https://shout.realitatea.net:8001/mixt
 #EXTINF:0 tvg-id="RomaniaTV.ro" tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://www.metropolatv.ro/wp-content/uploads/2020/12/Metropola_logo.png", Metropola TV
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:0 tvg-id="AlephNews.ro"  tvg-logo="https://alephnews.ro/wp-content/themes/aleph-news/img/logo-alephnews-vertical.png", Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://alephbusiness.ro/wp-content/themes/aleph-biz/img/logo-alephbusiness-vertical.png", Aleph Business
 https://stream-aleph.m.ro/Aleph/Alephbiz.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.onesignal.com/permanent/f6e24035-95c9-4a53-832f-63aadd2edeb4.png", Smart TV
 https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.metropolatv.ro/wp-content/uploads/2020/12/Metropola_logo.png", Metropola TV
-https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://innadaily.files.wordpress.com/2010/08/radio_zu.jpg", Radio ZU
