@@ -13,9 +13,9 @@ https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="https://assets.antenaplay.ro/2022/10/24/HUA4X5c2dFIsScrTa0KZ.png", Antena 3
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=UH11HMviBdA6zpjOEOtf&starttime=1710008397&endtime=1710022827&source=web&token=46S73A30PP6fUisCDIh1Cm-nSp4=
 
-#EXTINF:0 tvg-id="FOXNews.us", FOX News
+#EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
 http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/77
-#EXTINF:0 tvg-id="MSNBC.us", MSNBC
+#EXTINF:0 tvg-id="MSNBCHD.us", MSNBC
 http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/106
 #EXTINF:0 tvg-id="CNN.us", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
