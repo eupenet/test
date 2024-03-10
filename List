@@ -6,18 +6,20 @@
 #EXTINF:0 tvg-id="ProTV.ro" tvg-logo="https://cmero-ott-images-avod.ssl.cdn.cra.cz/rx/23daa37d-7b69-41ab-90ab-383cc67f3c05?default=b507a3ad-e712-494d-9667-5274d0c05bca" group-title="Principale", PRO TV
 https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/LOxGyvTKM3dW6fqU55dNpQ==,1710022013/channels/cme-ro-voyo-news/playlist-live_lq.m3u8
 #EXTINF:0 tvg-id="Antena1.ro" tvg-logo="https://assets.antenaplay.ro/2023/08/17/s7ORLTEcvXhoMzR9L22V.png", Antena 1
-https://ivm.antenaplay.ro/live/a1/playlist.m3u8?version=1&session=CLrgmRUOWijMyFQTs3Lc&starttime=1710013100&endtime=1710027530&source=web&token=aj1pVm0DAsjFoI6GIk0lVYNJtjw=
+https://ivm.antenaplay.ro/live/a1/playlist.m3u8?version=1&session=hs5SXD5M6gLsLsyTfIQu&starttime=1710096830&endtime=1710111260&source=web&token=tr7MUyt9srmW_rZw49s8IuEZjuA=
 
 #EXTINF:0 tvg-id="Digi24.ro", DIGI 24 HD
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:0 tvg-id="Antena3.ro" tvg-logo="https://assets.antenaplay.ro/2022/10/24/HUA4X5c2dFIsScrTa0KZ.png", Antena 3
-https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=UH11HMviBdA6zpjOEOtf&starttime=1710008397&endtime=1710022827&source=web&token=46S73A30PP6fUisCDIh1Cm-nSp4=
+https://ivm.antenaplay.ro/live/a3/playlist.m3u8?version=1&session=vd7yaOIizp4Kd8QGtBr2&starttime=1710096888&endtime=1710111318&source=web&token=qELHvF6E-01CGL61uEt9b8-TmH0=
+#EXTINF:0 tvg-id="RealitateaPlus.ro" tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea TV
+https://stream.realitatea.net/realitatea/plus_hd/playlist.m3u8
 
-#EXTINF:0 tvg-id="FOXNewsChannel.us", FOX News
+#EXTINF:0 tvg-id="FOXNewsChannel.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg2OTkyYjQtYmFmNC00YjVlLTgyYWItNGY5YWQ1OTI2YWUxXkEyXkFqcGdeQXVyMDY3OTcyOQ@@._V1_FMjpg_UY6000_.jpg", FOX News
 http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/77
-#EXTINF:0 tvg-id="MSNBCHD.us", MSNBC
+#EXTINF:0 tvg-id="MSNBCHD.us" tvg-logo="https://cdn.icon-icons.com/icons2/2699/PNG/512/msnbc_logo_icon_170936.png", MSNBC
 http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/106
-#EXTINF:0 tvg-id="CNN.us", CNN
+#EXTINF:0 tvg-id="CNN.us" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logod.png", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 
 #EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us", NBC
@@ -28,10 +30,10 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/129599
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/129846
 #EXTINF:0 tvg-id="WNYWNewYorkFOXEast.us", FOX
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/129874
-#EXTINF:0 tvg-id="TCM.us", TCM
+#EXTINF:0 tvg-id="TCM.us" tvg-logo="https://prod-images.tcm.com/img/global/logo-TCM_white.png", TCM
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_3_1928000.m3u8
-#EXTINF:0 tvg-id="TCM.us", WBTV Classic Cinema
-https://lnc-wbd-classic-cinema.tubi.video/playlist.m3u8
+#EXTINF:0 tvg-id="HBO.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png", HBO US
+http://ptvja.xyz:8080/Jokertv2022/MMGYJA4WSh/1301
 
 
 #EXTINF:0 tvg-id="TVR1.ro" tvg-logo="http://tvr1.tvr.ro/images/logo_footer_tvr1.png", TVR 1
@@ -48,18 +50,18 @@ https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1607599409&wowzatokenhash=ox6pwORkin3mBN5a_f_rT7fwCJJIrqGy0sBYSc2krpY=&wowzatokenstarttime=1607556209
 #EXTINF:0 tvg-id="KanalD.ro" tvg-logo="https://wp16-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10087_c_3c72e8a7c17666b5e2ae90c146f872c6.png", Kanal D
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
-#EXTINF:0 tvg-id="B1.ro" tvg-logo="http://b1tv.ro/wp-content/uploads/2021/11/b1-tv.jpg", B1 TV
-https://app.dejacast.com/player/d0mwnvrf/live-b1tv.js?playbackURL=https%3A%2F%2Flive-milos.cdn.dejacast.com%2Fb1tv%2Fb1tv.m3u8%3Ffrom%3D1710008528%26to%3D1710030128%26session%3DRfdUsQEeJs7wskZy%26source%3Dcms%26token%3DSd__AzvgqswpID7fss36_LPXVBs%3D
-#EXTINF:0 tvg-id="RealitateaPlus.ro" tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Plus
-https://stream.realitatea.net/realitatea/plus_hd/playlist.m3u8
 #EXTINF:0 tvg-id="RealitateaPlus.ro" tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Sportivă
 https://stream.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 #EXTINF:0 tvg-id="RealitateaPlus.ro" tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Star
 https://stream.realitatea.net/realitatea/star_md/playlist.m3u8
-#EXTINF:0 tvg-id="RealitateaPlus.ro" tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea Radio
+#EXTINF:0 tvg-id="DIGI24.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Digi_24_FM.svg/revision/latest/scale-to-width-down/250?cb=20210929144824", DIGI 24 FM
+https://edge76.rcs-rds.ro/digifm/digi24fm.mp3
+#EXTINF:0 tvg-id="RealitateaPlus.ro" tvg-logo="https://i.ytimg.com/vi/BoZdQLeU0G4/hqdefault.jpg" aspect-ratio="4:3", Realitatea FM
 https://shout.realitatea.net:8001/mixt
 #EXTINF:0 tvg-id="RomaniaTV.ro" tvg-logo="http://bazavan.ro/wp-content/uploads/2013/01/romania-tv-logo-300x138.jpg" aspect-ratio="4:3", Romania TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+#EXTINF:0 tvg-id="B1.ro" tvg-logo="http://b1tv.ro/wp-content/uploads/2021/11/b1-tv.jpg", B1 TV
+https://app.dejacast.com/player/d0mwnvrf/live-b1tv.js?playbackURL=https%3A%2F%2Flive-milos.cdn.dejacast.com%2Fb1tv%2Fb1tv.m3u8%3Ffrom%3D1710008528%26to%3D1710030128%26session%3DRfdUsQEeJs7wskZy%26source%3Dcms%26token%3DSd__AzvgqswpID7fss36_LPXVBs%3D
 
 #EXTINF:0 tvg-logo="https://www.metropolatv.ro/wp-content/uploads/2020/12/Metropola_logo.png", Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
@@ -75,5 +77,3 @@ https://ivm.antenaplay.ro/live/zutv/playlist.m3u8?starttime=1620367755&endtime=1
 
 #EXTINF:0 tvg-logo="https://radiogoldfm.ro/wp-content/uploads/2021/04/logo2.png", Gold FM
 https://live.radiogoldfm.ro:8443/WP.mp3
-#EXTINF:0, Kiss TV
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
