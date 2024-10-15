@@ -4,7 +4,7 @@ https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/pGIYoqBhlhjQ5TCgA3DWEg==,1710
 #EXTINF:-1 tvg-id="Antena1(src01).ro" tvg-name="Antena 1" tvg-logo="https://assets.antenaplay.ro/2023/08/17/s7ORLTEcvXhoMzR9L22V.png" group-title="Principale",Antena 1
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 #EXTINF:-1 tvg-id="Antena1(src01).ro" tvg-name="Antena 1 HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3MDJfMTI5ODcwMl9B/bnRlbmEtMS1IRC5wbmcmaGFzaD1lZGIw/NDA0MzdlMDliMTgwZTE3MDZiN2UxY2U4NTg1NA==.png" group-title="Principale",Antena 1 HD
-https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+https://ivm.antenaplay.ro/live/a1/playlist.m3u8?version=1&session=KAwI4AK6nYgWniaOpf3s&starttime=1729022727&endtime=1729037157&source=web&token=tLyqpteWrBmfdVDsOQvQ-y0-VOw=
 #EXTINF:-1 tvg-id="Digi24(src01).ro" tvg-name="DIGI 24 HD" tvg-logo="https://www.digionline.ro/static/theme-ui-frontend/bin/images/footer/digi-24.png" group-title="Principale",DIGI 24 HD
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-id="Digi24(src01).ro" tvg-name="DIGI 24 SD" tvg-logo="https://www.digionline.ro/static/theme-ui-frontend/bin/images/footer/digi-24.png" group-title="Principale",DIGI 24 SD
